@@ -2,8 +2,9 @@
 
 In einem Unternehmen lassen sich typischerweise die in den Bereichen Controlling/Finanzen und Verwaltung verwendeten Softwares in einer BI-Pyramide lokalisieren.
 
----
-![](/Bilder/BI_Pyramide.png)
+
+
+![](/Pictures/Grundlagen/Fachlicher Überblick/BI_Pyramide.png)
 
 ---
 
