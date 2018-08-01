@@ -132,8 +132,6 @@
       * [Eingabe mittels Rechner](der-web-client/produkt/datenerfassung/eingabe-mittels-rechner.md)
       * [FlexSuche](der-web-client/produkt/datenerfassung/flexsuche.md)
   * [Berechtigungen](der-web-client/berechtigung.md)
-* [Der neue Web-Client](der-neue-web-client.md) 
-* [DataFactory-Datenbank](installation-der-datafactory-datenbank.md)
 
 
 
