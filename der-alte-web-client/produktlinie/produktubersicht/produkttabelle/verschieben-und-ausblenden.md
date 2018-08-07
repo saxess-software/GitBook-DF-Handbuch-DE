@@ -54,7 +54,7 @@ Sie haben die Möglichkeit, das Layout Ihrer Produkttabelle anzupassen, indem Si
 
 ---
 
-5) Um das Fenster **Spaltenauswahl** zu schließen, klicken Sie auf das Kreuz in der oberen rechten Ecke des Fensters **Feldauswahl**
+6) Um das Fenster **Spaltenauswahl** zu schließen, klicken Sie auf das Kreuz in der oberen rechten Ecke des Fensters **Feldauswahl**
 
 ---
 ![](/assets/wpl40.png)
