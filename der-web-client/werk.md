@@ -11,11 +11,11 @@ Im Gegensatz zum Excel-Client können Sie sich im Web-Client nur ein einzelnes W
 
 #### Übersicht eines Werks
 
-Nachdem Sie Ihr Werk über den Web-Client aufgerufen haben, sehen Sie in der Eingangsoberfläche den Button für die **Navigationsleiste**, den aktuellen Pfad innerhalb des Werkes, die **Suchleiste** und Ihren **Nutzernamen** mit dem Sie gerade eingeloggt sind.
+Nachdem Sie Ihr Werk über den Web-Client aufgerufen haben, sehen Sie in der Eingangsoberfläche den Button für die **Navigationsleiste**, den **aktuellen Pfad** innerhalb des Werkes, die **Suchleiste** und Ihren **Nutzernamen** mit dem Sie gerade eingeloggt sind.
 
 **1) Navigationsleiste**
 
-Mit einem Klick auf die drei horizontalen Linien in der oberen linken Ecke der Navigationsleiste, öffnet sich die Navigationsleiste. Hier wird Ihnen die Fabrik- und Produktlinienstrutur des Werkes angezeigt. Mit einem Klick auf ein Dropdown-Pfeil links neben der Fabriken, werden Ihnen die dazugehörenden Produktlinien angezeigt.
+Mit einem Klick auf die drei horizontalen Linien in der oberen linken Ecke öffnet sich die Navigationsleiste. Hier wird Ihnen die Fabrik- und Produktlinienstrutur des Werkes angezeigt. Mit einem Klick auf ein Dropdown-Pfeil links neben den Fabriken, werden Ihnen die dazugehörenden Produktlinien angezeigt.
 
 ---
 ![](/Pictures/Web-Client/Werk/werk_2.png)

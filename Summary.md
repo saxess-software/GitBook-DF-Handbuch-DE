@@ -118,6 +118,7 @@
         * [Verschieben und Ausblenden](der-web-client/produktlinie/produktubersicht/produkttabelle/verschieben-und-ausblenden.md)
         * [Sortieren](der-web-client/produktlinie/produktubersicht/produkttabelle/sortieren.md)
         * [Produkte hinzufügen oder speichern](der-web-client/produktlinie/produktubersicht/produkttabelle/produkte-hinzufugen-oder-speicher.md)
+		* [Produkte löschen](der-web-client/produktlinie/produktubersicht/produkttabelle/produkte-loeschen.md)
         * [Werte ändern](der-web-client/produktlinie/produktubersicht/produkttabelle/werte-andern.md)
         * [Daten aktualisieren](der-web-client/produktlinie/produktubersicht/produkttabelle/daten-aktualisieren.md)
         * [Speichern](der-web-client/produktlinie/produktubersicht/produkttabelle/speichern.md)
