@@ -2,120 +2,79 @@
 
 #### Gruppierung einfügen
 
-Die Spaltenüberschriften Ihrer Produkttabelle können als Attribute Ihrer Produkte verstanden werden. Indem Sie Spaltenüberschriften aus Ihrer Produkttabelle in die Gruppierungsfeld ziehen, können Sie Ihre Tabelle nach diesen Attributen gruppieren und mehr Übersichtlichkeit in Produktreihe bringen. Diese Funktion ist bei Tabellen mit einer großen Anzahl an Produkten sehr nützlich.
+Die Spaltenüberschriften Ihrer Produkttabelle können als Attribute Ihrer Produkte verstanden werden. Indem Sie Spaltenüberschriften aus Ihrer Produkttabelle in das Gruppierungsfeld ziehen, können Sie Ihre Tabelle nach diesen Attributen gruppieren und mehr Übersichtlichkeit in die Produktreihe bringen. Diese Funktion ist bei Tabellen mit einer großen Anzahl an Produkten sehr nützlich.
 
 ---
-![](/assets/wpl7.png)
-
----
-
-1) Sie haben zwei Optionen, um Ihre Tabelle nach Attributen zu gruppieren. 
-
-**Option A**:
-
-Klicken Sie mit der linken Maustaste in die Spaltenüberschrift, nach der Sie Ihre Spalte gern gruppieren möchten und halten Sie diese gedrückt. Ziehen Sie nun das ausgewählte Feld in das Gruppierungsfeld und lassen Sie die linke Maustaste los.
-
----
-![](/assets/wpl9.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Gruppieren/gruppierung_1.png)
 
 ---
 
-**Option B**:
-
-Klicken Sie mit der rechten Maustaste in die Spaltenüberschrift, nach der Sie Ihre Spalte gern gruppieren möchten und wählen Sie aus dem Menü **Nach dieser Spalte gruppieren**. 
+1) Klicken Sie mit der linken Maustaste in die Spaltenüberschrift, nach der Sie Ihre Spalte gern gruppieren möchten und halten Sie diese gedrückt. Ziehen Sie nun das ausgewählte Feld in das Gruppierungsfeld und lassen Sie die linke Maustaste los.
 
 ---
-![](/assets/wpl15.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Gruppieren/gruppierung_2.png)
 
 ---
 
 2) Die Tabelle ist nun nach dem gewünschten Attribut gruppiert.
 
 ---
-![](/assets/wpl10.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Gruppieren/gruppierung_3.png)
 
 ---
 
-3) Sie haben zwei Optionen, Ihre Gruppierungen auf- und zuzuklappen. 
-
-**Option A**: Wenn Sie nur eine einzelne Gruppierung öffnen wollen, klicken Sie auf den kleinen Pfeil links der Gruppierungen. Damit können Sie die Gruppierung aufklappen (und auch wieder zuklappen). 
+3) Wenn Sie eine einzelne Gruppierung ausblenden wollen, klicken Sie auf den kleinen Pfeil links der Gruppierungen. Damit können Sie die Gruppierung zuklappen (und auch wieder aufklappen). 
 
 ---
-![](/assets/wpl11.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Gruppieren/gruppierung_4.png)
 
 ---
 
-**Option B**: Wenn Sie alle Gruppierungen auf einmal aufklappen (zuklappen) möchten, klicken Sie mit der rechten Maustaste auf das Attribut und wählen sie **Alles erweitern** (oder **alles zuklappen**)
-
 ---
-![](/assets/wpl44.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Gruppieren/gruppierung_5.png)
 
 ---
 
-4) Ihnen werden dann alle Produkte angezeigt, die der ausgewählten Ausprägung des Attributs zugeordnet sind.
+4) Mit einem Klick auf den Pfeil links neben dem Sortierungsmerkmal können Sie eine Sortierung der Gruppen in auf- bzw. absteigender Reihenfolge durchführen.
 
 ---
-![](/assets/wpl12.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Gruppieren/gruppierung_6.png)
 
 ---
 
 5) Sie können innerhalb der bereits vorgenommenen Gruppierung weitere Untergruppierungen vornehmen. Ziehen Sie dazu wie in Schritt 1 beschrieben die gewünschte Spaltenüberschrift in das Gruppierungsfeld.
 
 ---
-![](/assets/wpl13.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Gruppieren/gruppierung_7.png)
 
 ---
-![](/assets/wpl14.png)
+
+6) Sie können die Reihenfolge der Gruppierung ändern. Schieben Sie dazu das gewünschte Merkmal per Drag & Drop in die gewünschte Reihenfolge im Gruppierungsfeld.
+
+---
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Gruppieren/gruppierung_8.png)
 
 ---
 
 #### Gruppierung aufheben
 
-1) Sie haben zwei Optionen, um die Gruppierung in Ihrer Tabelle wieder aufzuheben. 
+Sie haben zwei Optionen, um die Gruppierung in Ihrer Tabelle wieder aufzuheben. 
 
-**Option A**:
+**Option A:**
 
-Klicken Sie mit der rechten Maustaste in das Attribut im Gruppierungsfeld und wählen Sie aus dem Menü **Aufheben der Gruppierung**
-
----
-![](/assets/wpl16.png)
+Sie können per Drag & Drop das unerwünschte Merkmal wieder aus dem Gruppierungsfeld entfernen.
 
 ---
-
-**Option B**:
-
-Klicken Sie mit der rechten Maustaste in die Spaltenüberschrift Ihrer Produkttabelle und wählen Sie aus dem Menü **Aufheben der Gruppierung**
-
----
-![](/assets/wpl17.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Gruppieren/gruppierung_9.png)
 
 ---
 
-2) Die Gruppierung nach dem ausgewählten Attribut wurde nun aus der Tabelle entfernt.
+**Option B:**
+
+Klicken Sie auf das 'X'-Symbol rechts neben dem Merkmal, welches sich im Gruppierungsfeld befindet.
 
 ---
-![](/assets/wpl18.png)
-
----
-
-#### Gruppierungsfeld ausblenden
-
-Klicken Sie mit der rechten Maustaste in das Gruppierungsfeld oder in eine Spaltenüberschrift und wählen Sie aus dem Menü **Gruppierungsfeld **
-
----
-![](/assets/wpl19.png)
-
----
-![](/assets/wpl20.png)
-
----
-
-#### Gruppierungsfeld einblenden
-
-Klicken Sie mit der rechten Maustaste in eine Spaltenüberschrift und wählen Sie aus dem Menü **Gruppierungsfeld **
-
----
-![](/assets/wpl21.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Gruppieren/gruppierung_l0.png)
 
 ---
 

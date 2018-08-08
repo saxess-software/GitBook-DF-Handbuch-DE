@@ -7,61 +7,42 @@ Sie haben die Möglichkeit, das Layout Ihrer Produkttabelle anzupassen, indem Si
 1) Klicken Sie mit der linken Maustaste in die Überschrift der Spalte, die Sie verschieben möchten und halten Sie die Maustaste gedrückt. Schieben Sie die Spalte an die gewünschte Stelle und lassen Sie die Maustaste los.
 
 ---
-![](/assets/wpl33.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Verschieben und Ausblenden/verschieben_und_ausblenden_1.png)
 
 ---
 
 2) Die Spalte wurde an der gewünschten Stelle eingefügt.
 
 ---
-![](/assets/wpl34.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Verschieben und Ausblenden/verschieben_und_ausblenden_2.png)
 
 ---
 
 #### Spalten aus- und einblenden
 
-1) Klicken Sie mit der rechten Maustaste in die Überschrift der Spalte, die Sie ausblenden möchten und wählen Sie **Spalte ausblenden**.
+1) Klicken Sie auf die drei vertikal angeordneten Punkte neben den Spaltennamen - egal welcher Spalte.
 
 ---
-![](/assets/wpl35.png)
----
-
-2) Die gewünschte Spalte ist ausgeblendet.
-
----
-![](/assets/wpl36.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Verschieben und Ausblenden/verschieben_und_ausblenden_3.png)
 
 ---
 
-3) Alle ausgeblendeten Spalten werden Ihnen in der **Spaltenauswahl** angezeigt. Klicken Sie dazu mit der rechten Maustaste in Spaltenüberschrift und wählen Sie **Spaltenauswahl**. 
+2) Es öffnet sich ein Kontextmenü. Wählen Sie den Menüpunkt "Spalten".
 
 ---
-![](/assets/wpl37.png)
-
----
-
-4) Es öffnet sich ein Fenster, welches alle ausgeblendeten Spaltenüberschriften enthält.
-
----
-![](/assets/wpl38.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Verschieben und Ausblenden/verschieben_und_ausblenden_4.png)
 
 ---
 
-5) Klicken Sie mit der rechten Maustaste auf das Attribut, welches Sie wieder als Spalte in Ihrer Produkttabelle aufnehmen wollen und wählen Sie **Spalte anzeigen**. 
+3) Mit einem Haken markierte Spaltennamen werden angezeigt. Entfernen Sie die Markierung indem Sie auf den entsprechenden Spaltennamen klicken, den Sie ausblenden möchten.
 
 ---
-![](/assets/wpl39.png)
-
----
-
-6) Um das Fenster **Spaltenauswahl** zu schließen, klicken Sie auf das Kreuz in der oberen rechten Ecke des Fensters **Feldauswahl**
-
----
-![](/assets/wpl40.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Verschieben und Ausblenden/verschieben_und_ausblenden_5.png)
 
 ---
 
+---
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Verschieben und Ausblenden/verschieben_und_ausblenden_6.png)
 
-
-
+---
 

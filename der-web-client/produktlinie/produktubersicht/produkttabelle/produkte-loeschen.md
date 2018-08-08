@@ -1,2 +1,0 @@
-### Produkte hinzufügen oder löschen
-

@@ -17,9 +17,7 @@ Die Icon-Spalte enthält die Verknüpfung zu den einzelnen Produkten, die in der
 
 ---
 
-
-[//]: # (
-
+<!---
 Sie haben die Möglichkeit, die in der Icon-Spalte angezeigten Symbole zu ändern. 
 
 1) Klicken Sie dazu mit der rechten Maustaste auf eines der Icons und wählen Sie **Symbol auswählen**. 
@@ -49,9 +47,7 @@ Sie haben die Möglichkeit, die in der Icon-Spalte angezeigten Symbole zu änder
 ![](/assets/Temp4.png)
 
 ---
-
-)
-
+-->
 
 #### Anpassung der Produkttabelle
 

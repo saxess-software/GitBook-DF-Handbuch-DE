@@ -2,99 +2,68 @@
 
 Indem Sie Filter in Ihrer Produkttabelle verwenden, können Sie die Anzahl der Ihnen angezeigten Produkte regulieren. Sie haben die Möglichkeit in jeder Spalte Ihrer Produkttabelle Filter zu setzen.
 
-#### Filterzeile einblenden
+#### *Filter anwenden*
 
-1) Klicken Sie mit der rechten Maustaste in eine Spaltenüberschrift im Produkttabellenbereich und wählen Sie **Filterzeile**.
-
----
-![](/assets/wpl24.png)
+1) Öffnen Sie mit einem Klick auf die drei senkrecht angeordneten Punkten neben dem gewünschten Spaltennamen das Kontextmenü und wähelen Sie den Punkt "Filtern".
 
 ---
-
-2) Die Filterzeile ist nun eingeblendet.
-
----
-![](/assets/wpl25.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Filtern/filtern_1.png)
 
 ---
 
-> **Hinweis**: Nach dem gleichen Vorgehen können Sie die Filterzeile auch wieder ausblenden. Wenn Sie einen Filter gesetzt haben und Ihre Filterzeile ausblenden, bleibt der Filter erhalten.
-
-#### *Filter per Dropdown auswählen*
-
-Sie können nun in die den einzelnen Spalten der Filterzeile Ihre gewünschten Filter eintragen. Wurde im Excel-Client für ein Attribut eine Liste hinterlegt, haben Sie in dieser Spalte die Möglichkeit den Filter aus einem Dropdown-Menü auszuwählen. 
-
-1) Klicken Sie mit der linken Maustaste auf den Pfeil in der Spalte mit dem Dropdown-Menü und wählen Sie den gewünschten Filter aus.
-
 ---
-![](/assets/wpl26.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Filtern/filtern_2.png)
 
 ---
 
-2) Die Produkttabelle enthält nun alle Produkte mit dem gewünschten Filter.
+2) Wählen Sie als erstes mit Hilfe des obersten Dropdown-Menüs das gewünschte Suchmuster aus, nach dem die Produkte gefiltert werden sollen. Sie können definieren, dass die Spalte, in der Sie filtern möchten, nur Zeilen angezeigt werden, die:
 
-#### *Filter per Eingabe setzen (ohne Menü)*
-
-In den Spalten, in denen Sie den Filter nicht aus einem Dropdown-Menü auswählen können, geben Sie den Filter über die Tastatur ein. 
-
-Platzieren Sie den Cursor in die Spalte der Filterzeile, in der Sie gern einen Filter setzen würden. Geben Sie dann den Begriff/Wert ein, nach dem Sie filtern wollen.
-> ** Hinweis**: Der eingegebene Begriff/Wert muss mit dem Buchstaben/der Zahl/dem Symbol beginnen, mit dem auch der Begriff/Wert beginnt, nach dem Sie filtern wollen. Wenn Sie bspw. nach Commerzbank Leizpzig filtern möchten, muss Ihre Eingabe z.B. lauten *"Comm"*. Geben Sie *"bank"* oder *"Leipzig"* ein, werden Ihnen keine Daten angezeigt.
-
----
-![](/assets/wpl27.png)
+* gleich / ungleich dem Filterwert sind
+* mit dem Filterwert beginnen / enden
+* den Filterwert enthalten / nicht enthalten
+* einen **[NULL]**-Wert enthalten / nicht enthalten
+* einen alphanumerischen Wert enthalten / nicht enthalten
+* einen numerischen Wert enthalten / nicht enthalten
 
 ---
-![](/assets/wpl28.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Filtern/filtern_3.png)
 
 ---
 
-#### *Filter per Eingabe setzen (mit Menü)*
-
-Über das Einblenden eines zusätzlichen Filtermenüs haben Sie die Möglichkeit, Ihre Filterfunktion zu erweitern. Über das erweiterte Filtermenü können Sie definieren, dass die Spalte, in der Sie filtern möchten, nur Zeilen anzeigen, die:
-
-* mit dem Filterwert beginnen/ enden
-* den Filterwert enthalten/ nicht enthalten
-* gleich oder ungleich dem Filternwert sind.
-
-1) Klicken Sie mit der rechten Maustaste in eine Spaltenüberschrift im Produkttabellenbereich und wählen Sie **Menü in der Filterzeile**.
+3) Nach Auswahl des Suchmusters ist der Filterwert im darunter liegenden Textfeld einzugeben. Bestätigen Sie Ihre Auswahl mit Klick auf die "Filtern"- oder drücken der "Enter"-Taste.
 
 ---
-![](/assets/wpl29.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Filtern/filtern_4.png)
 
 ---
 
-2) Das Menü ist nun eingeblendet. Sie erkennen es an dem kleinen Pin rechts neben dem Filterfeld.
+4) Es werden Ihnen die entsprechenden Suchergebnisse angezeigt. Das ein Filter aktiv ist wird durch die nun in weiß hinterlegten drei Kontextmenü-Punkte dargestellt.
 
 ---
-![](/assets/wpl30.png)
-
----
-
-> **Hinweis**: Nach dem gleichen Vorgehen können Sie die Filterzeile auch wieder ausblenden.
-
-3) Durch Klick auf den Pin können Sie die Funktion auswählen, auf deren Basis Sie Ihre Spalte filtern möchten.
-
----
-![](/assets/wpl31.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Filtern/filtern_5.png)
 
 ---
 
-4) Geben Sie nun den Begriff/ den Wert/ das Symbol in das Feld ein, wonach Sie filtern wollen.
+5) Bei Bedarf lässt sich ein weiteres Suchkriterium mittels einer UND/ODER Logik mit anhängen. Dazu wählen Sie im zweiten Dropdown-Menü die anzuwendende Logik und verfahren dann weiter wie in Schritt 2 & 3.
 
 ---
-![](/assets/wpl32.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Filtern/filtern_6.png)
+
+---
+
+---
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Filtern/filtern_7.png)
+
+---
+
+### *Filter löschen*
+
+Um einen angewendeten Filter zu löschen öffnen Sie das Kontextmenü der betroffenen Spalte, wählen den Menüpunkt "Filtern" und klicken auf "Löschen".
+
+---
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Filtern/filtern_8.png)
 
 ---
 
 > **Hinweis**: Sie können in beliebig vielen Spalten Filterfunktionen anwenden.
-
-
-
-
-
-
-
-
-
-
 
