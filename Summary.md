@@ -117,7 +117,7 @@
         * [Filtern](der-web-client/produktlinie/produktubersicht/produkttabelle/filter.md)
         * [Verschieben und Ausblenden](der-web-client/produktlinie/produktubersicht/produkttabelle/verschieben-und-ausblenden.md)
         * [Sortieren](der-web-client/produktlinie/produktubersicht/produkttabelle/sortieren.md)
-        * [Produkte hinzufügen oder loeschen](der-web-client/produktlinie/produktubersicht/produkttabelle/produkte-hinzufugen-oder-loeschen.md)
+        * [Produkte hinzufügen oder löschen](der-web-client/produktlinie/produktubersicht/produkttabelle/produkte-hinzufugen-oder-loeschen.md)
         * [Werte ändern](der-web-client/produktlinie/produktubersicht/produkttabelle/werte-andern.md)
         * [Daten aktualisieren](der-web-client/produktlinie/produktubersicht/produkttabelle/daten-aktualisieren.md)
         * [Speichern](der-web-client/produktlinie/produktubersicht/produkttabelle/speichern.md)

@@ -1,24 +1,24 @@
 ### Werte ändern
 
-In der Produkttabelle können Sie alle Werte in allen Spalten ändern. 
+In der Produkttabelle können Sie, bis auf die Produkt ID, alle Werte in allen Spalten ändern - vorausgesetzt Sie besitzen Schreibrechte. 
 
-1) Klicken Sie mit einem Doppelklick in das Feld, in welchem Sie Daten ändern wollen. Die enthalten Daten werden Ihnen nun zur Bearbeitung angezeigt.
-
----
-![](/assets/wpl50.png)
+1) Klicken Sie in das Feld, in welchem Sie Daten ändern wollen. Die enthalten Daten werden Ihnen nun zur Bearbeitung angezeigt.
 
 ---
-
-2) Geben Sie Ihre neuen Daten eine und bestätigen Sie mit der Enter-Taste.
-
----
-![](/assets/wpl52.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Werte aendern/werte_aendern_1.png)
 
 ---
 
-3) Alle geänderten Felder werden **grün hinterlegt**.
+2) Geben Sie Ihre neuen Daten ein und bestätigen Sie mit der Enter-Taste.
 
 ---
-![](/assets/wpl51.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Werte aendern/werte_aendern_2.png)
+
+---
+
+3) Alle geänderten Felder werden mit einem **roten Dreieck** an der oberen linken Ecke der Zelle markiert.
+
+---
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Werte aendern/werte_aendern_3.png)
 
 ---
