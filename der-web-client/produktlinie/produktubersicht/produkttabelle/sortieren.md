@@ -18,7 +18,7 @@ Um die Werte innerhalb einer Spalte zu sortieren, haben Sie zwei Möglichkeiten:
 
 ---
 
-2) Sie erkennen an dem Pfeil-Symbol rechts der Spaltenüberschrift, dass jene Spalte auf- bzw. absteigend sortiert ist.
+2) Sie erkennen an dem Pfeil-Symbol rechts neben der Spaltenüberschrift, dass jene Spalte auf- bzw. absteigend sortiert ist.
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Sortieren/sortieren_3.png)
@@ -29,7 +29,7 @@ Um die Werte innerhalb einer Spalte zu sortieren, haben Sie zwei Möglichkeiten:
 
 **Option B:**
 
-1) Mit einem Klick auf die gewünschte Spaltenüberschrift, nach der sortiert werden soll, werden ebenfalls die Produkte nach ebendiesem Merkmal geordnet.
+1) Mit einem Klick auf die gewünschte Spaltenüberschrift, nach der sortiert werden soll, werden die Produkte nach ebendiesem Merkmal geordnet.
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Sortieren/sortieren_4.png)

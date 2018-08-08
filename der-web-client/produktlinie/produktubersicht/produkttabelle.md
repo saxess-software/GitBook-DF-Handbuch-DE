@@ -3,7 +3,7 @@
 Der Produkttabellenbereich besteht aus drei Elementen. Diese sind **Gruppierungsfeld**, **Icon-Spalte**,  und die eigentliche **Produkttabelle**.
 
 ---
-![](/Pictures/Web-Client/Produktlinie/Produktübertsicht/Produkttabellenbereich/produkttabellenbereich_1.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/produkttabellenbereich_1.png)
 
 ---
 
@@ -13,7 +13,7 @@ Die Icon-Spalte enthält die Verknüpfung zu den einzelnen Produkten, die in der
 
 ---
 
-![](/Pictures/Web-Client/Produktlinie/Produktübertsicht/Produkttabellenbereich/produkttabellenbereich_2.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/produkttabellenbereich_2.png)
 
 ---
 

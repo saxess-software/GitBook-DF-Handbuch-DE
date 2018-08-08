@@ -4,7 +4,7 @@ Indem Sie Filter in Ihrer Produkttabelle verwenden, können Sie die Anzahl der I
 
 #### *Filter anwenden*
 
-1) Öffnen Sie mit einem Klick auf die drei senkrecht angeordneten Punkten neben dem gewünschten Spaltennamen das Kontextmenü und wähelen Sie den Punkt "Filtern".
+1) Öffnen Sie mit einem Klick auf die drei senkrecht angeordneten Punkten neben dem gewünschten Spaltennamen das Kontextmenü und wähelen Sie den Punkt **Filtern**.
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Filtern/filtern_1.png)
@@ -21,7 +21,7 @@ Indem Sie Filter in Ihrer Produkttabelle verwenden, können Sie die Anzahl der I
 * gleich / ungleich dem Filterwert sind
 * mit dem Filterwert beginnen / enden
 * den Filterwert enthalten / nicht enthalten
-* einen **[NULL]**-Wert enthalten / nicht enthalten
+* einen `[NULL]`-Wert enthalten / nicht enthalten
 * einen alphanumerischen Wert enthalten / nicht enthalten
 * einen numerischen Wert enthalten / nicht enthalten
 
@@ -30,7 +30,7 @@ Indem Sie Filter in Ihrer Produkttabelle verwenden, können Sie die Anzahl der I
 
 ---
 
-3) Nach Auswahl des Suchmusters ist der Filterwert im darunter liegenden Textfeld einzugeben. Bestätigen Sie Ihre Auswahl mit Klick auf die "Filtern"- oder drücken der "Enter"-Taste.
+3) Nach Auswahl des Suchmusters ist der Filterwert im darunter liegenden Textfeld einzugeben. Bestätigen Sie Ihre Auswahl mit Klick auf **Filtern** oder drücken der "Enter"-Taste.
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Filtern/filtern_4.png)
@@ -58,7 +58,7 @@ Indem Sie Filter in Ihrer Produkttabelle verwenden, können Sie die Anzahl der I
 
 ### *Filter löschen*
 
-Um einen angewendeten Filter zu löschen öffnen Sie das Kontextmenü der betroffenen Spalte, wählen den Menüpunkt "Filtern" und klicken auf "Löschen".
+Um einen angewendeten Filter zu löschen öffnen Sie das Kontextmenü der betroffenen Spalte, wählen den Menüpunkt **Filtern** und klicken auf **Löschen**.
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Filtern/filtern_8.png)

@@ -31,7 +31,7 @@ Mit einem Klick auf die drei horizontalen Linien in der oberen linken Ecke öffn
 
 Sie haben die Möglichkeit die Navigationsleiste mit dem Strukturbaum wieder einzuklappen und so das gesamte Browser-Fenster für die Darstellung der Pivottabelle bzw. der Produktlinien- oder Produktansicht zu nutzen. Die Navigationsleiste schließt sich nach der Auswahl einer Fabrik oder Produktlinie automatisch.
 
-Klicken Sie auf das graue 'X', das sich ganz oben auf der Navigationsleiste befindet, oder klicken Sie auf den grau hienterlegten Hintergrund rechts daneben um die Navigationsleiste zu schließen.
+Klicken Sie auf das graue **X**, das sich ganz oben auf der Navigationsleiste befindet, oder klicken Sie auf den grau hienterlegten Hintergrund rechts daneben um die Navigationsleiste zu schließen.
 
 ---
 ![](/Pictures/Web-Client/Werk/werk_4.png)

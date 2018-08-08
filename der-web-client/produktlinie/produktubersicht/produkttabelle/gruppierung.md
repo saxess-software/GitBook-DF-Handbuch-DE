@@ -71,7 +71,7 @@ Sie können per Drag & Drop das unerwünschte Merkmal wieder aus dem Gruppierung
 
 **Option B:**
 
-Klicken Sie auf das 'X'-Symbol rechts neben dem Merkmal, welches sich im Gruppierungsfeld befindet.
+Klicken Sie auf das **X** rechts neben dem Merkmal, welches sich im Gruppierungsfeld befindet.
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Gruppieren/gruppierung_l0.png)

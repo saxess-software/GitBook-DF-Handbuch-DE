@@ -20,14 +20,14 @@ Sie haben die Möglichkeit, das Layout Ihrer Produkttabelle anzupassen, indem Si
 
 #### Spalten aus- und einblenden
 
-1) Klicken Sie auf die drei vertikal angeordneten Punkte neben den Spaltennamen - egal welcher Spalte.
+1) Klicken Sie auf die drei Kontextmenü-Punkte neben den Spaltennamen - egal welcher Spalte.
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Verschieben-und-Ausblenden/verschieben_und_ausblenden_3.png)
 
 ---
 
-2) Es öffnet sich ein Kontextmenü. Wählen Sie den Menüpunkt "Spalten".
+2) Es öffnet sich ein Kontextmenü. Wählen Sie den Menüpunkt **Spalten**.
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Verschieben-und-Ausblenden/verschieben_und_ausblenden_4.png)
