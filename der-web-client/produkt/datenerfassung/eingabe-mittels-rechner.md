@@ -3,7 +3,7 @@
 Auch im Web-Client haben Sie die Möglichkeit, Ihre Daten komfortabel über einen Rechner einzugeben. Der Rechner bietet folgende Rechenoperationen.  
 
 |Rechenoperation|Beschreibung|
-| - | -: |
+| :- | -: |
 |**=**|Fügt den angegebenen Wert in die markierte/n Zelle/n ein.|
 |**+**|Addiert den eingegebenen Wert zu jedem Wert in der/den markierten Zelle/n hinzu.|
 |**-**|Subtrahiert den eingegebenen Wert von jedem Wert in der/den markierten Zelle/n.|

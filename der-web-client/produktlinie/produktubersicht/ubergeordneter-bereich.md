@@ -20,6 +20,7 @@ Hier finden Sie die folgenden Buttons:
 Hier haben Sie die Möglichkeit, den Inhalt Ihrer Produktlinie näher zu beschreiben.
 
 <!---
+
 #### *Suchleiste*
 
 Hier können Sie einen Begriff eingeben, welchen Sie in der Produkttabelle suchen möchten. 
@@ -49,39 +50,4 @@ Sie können die Suchleiste auch ausblenden.
 
 > **Hinweis**: Nach dem gleichen Vorgehen können Sie die Suchleiste auch wieder einblenden.
 
-#### *Fusszeile*
-
-In der Fusszeile können Sie sich zu jeder Spalte in Ihrer Produkttabelle Aggregrationsfunktion wie Anzahl, Minimun, Maximum  und Durchschnitt anzeigen lassen. Diese Funktion können Sie nutzen, wenn die Werte in Ihrer Spalte als Datentyp "Zahl" definiert sind.
-
-Um die Fusszeile einzublenden, gehen Sie wie folgt vor.
-
-1) Klicken Sie mit der rechten Maustaste in eine Spaltenüberschrift im Tabellenkopf und wählen Sie **Fusszeile**.
-
----
-![](/assets/wpl56.png)
-
----
-
-2) Die Fusszeile wird Ihnen am unteren Ende Ihres Bildschirmfensters als grauer Balken eingeblendet.
-
----
-![](/assets/wpl57.png)
-
----
-
-3) Klicken Sie mit der rechten Maustaste in eine Spalte der Fusszeile und wählen Sie die gewünschte Aggregationsfunktion aus.
-
----
-![](/assets/wpl58.png)
-
----
-
-4) Das Ergebnis wird Ihnen in der Fusszeile angezeigt.
-
----
-![](/assets/wpl59.png)
-
----
-
-> **Hinweis**: Die Fusszeile können Sie auf dem gleichen Weg wie in Schritt 1 beschrieben wieder entfernen.
 -->

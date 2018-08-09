@@ -3,7 +3,7 @@
 In der Produktansicht finden Sie den **Tabellenkopfbereich** sowie den **Tabellenbereich**.
 
 ---
-![](/assets/wp3.png)
+![](/Pictures/Web-Client/Produkt/Aufbau/aufbau_1.png)
 
 ---
 

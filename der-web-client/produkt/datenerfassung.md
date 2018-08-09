@@ -3,7 +3,7 @@
 Der Web-Client bietet verschiedene Möglichkeiten der Datenerfassung. Sie können Daten manuell oder mithilfe des Rechners eingeben. Die Datenerfassung erfolgt im Wertebereich der Tabelle.  
 
 ---
-![](/assets/wp10.png)
+![](/Pictures/Web-Client/Produkt/Datenerfassung/datenerfassung_1.png)
 
 ---
 
@@ -11,7 +11,7 @@ Sie können die Daten:
 
 * manuell über Ihre Tastatur oder über Kopieren und Einfügen
 * mithilfe des Rechners
-* unter Verwendung der FlexSuche
+* unter Verwendung der FlexSuche oder FlexAction
 
 in den Wertebereich eingeben.
 

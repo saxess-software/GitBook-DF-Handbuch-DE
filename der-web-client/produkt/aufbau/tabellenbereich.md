@@ -3,7 +3,7 @@
 Im Excel-Client wurde die Struktur und Berechnungslogik der Tabelle definiert, welche im Web-Client nicht veränderbar ist. Die Tabelle enthält einen Wertebereich, eine Zeitachse sowie eine Achse mit Name und ID der Wertereihe.
 
 ---
-![](/assets/wp9.png)
+![](/Pictures/Web-Client/Produkt/Aufbau/Tabellenbereich/tabellenbereich_1.png)
 
 ---
 
@@ -11,7 +11,7 @@ An den beiden Achsen können Sie keine Änderungen vornehmen. Nur im Wertebereic
 
 #### *Unsichtbare Zeitachse*
 
-Im Web-Client können Sie Ihre Ihre Templates/ Produkte auch ohne Zeitachse darstellen lassen bzw. individuelle Zeitachsen einfügen. Ihnen wird dann nur noch die Bezeichnung und die ID der Wertreihen sowie der Wertebereich selbst angezeigt. Dies ist sowohl in horizontaler als auch in vertikaler Orientierung des Templates/Produkts möglich. Diese Templates/ Produkte tragen die Namenskonvention **VN** oder **HN**.
+Im Web-Client können Sie Ihre Templates/Produkte auch ohne Zeitachse darstellen lassen bzw. individuelle Zeitachsen einfügen. Ihnen wird dann nur noch die Bezeichnung und die ID der Wertreihen sowie der Wertebereich selbst angezeigt. Dies ist sowohl in horizontaler als auch in vertikaler Orientierung des Templates/Produkts möglich. Diese Templates/Produkte tragen die Namenskonvention **VN** oder **HN**.
 
 ---
 ![image](https://cloud.githubusercontent.com/assets/24932405/26679324/d8038540-46d4-11e7-8331-e96e3055e867.png)
