@@ -4,56 +4,51 @@ Auch im Web-Client haben Sie die Möglichkeit, Ihre Daten komfortabel über eine
 
 |Rechenoperation|Beschreibung|
 | :- | -: |
-|**=**|Fügt den angegebenen Wert in die markierte/n Zelle/n ein.|
-|**+**|Addiert den eingegebenen Wert zu jedem Wert in der/den markierten Zelle/n hinzu.|
-|**-**|Subtrahiert den eingegebenen Wert von jedem Wert in der/den markierten Zelle/n.|
-|*****|Multipliziert den eingegebenen Wert mit jedem Wert in der/den markierten Zelle/n.|
-|**/**|Dividiert jeden Wert in der/den markierten Zelle/n mit dem eingegebenen Wert.|
-|**Gleichverteilung**|Verteilt den eingegebenen Wert im gleichen Verhältnis auf die markierte/n Zelle/n.|
-|**Verhältnis**|Verteilt den eingegebenen Wert im Verhältnis der derzeit markierten Werte.|
-|**Datum**|Fügt in die markierten Zellen das ausgewählte Datum ein|
+|![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/button_1.png)|Fügt den angegebenen Wert in die markierte/n Zelle/n ein.|
+|![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/button_2.png)|Verteilt den eingegebenen Wert im gleichen Verhältnis auf die markierte/n Zelle/n.|
+|![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/button_3.png)|Verteilt den eingegebenen Wert im Verhältnis der derzeit markierten Werte.|
+|![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/button_4.png)|Addiert den eingegebenen Wert zu jedem Wert in der/den markierten Zelle/n hinzu.|
+|![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/button_5.png)|Subtrahiert den eingegebenen Wert von jedem Wert in der/den markierten Zelle/n.|
+|![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/button_6.png)|Multipliziert den eingegebenen Wert mit jedem Wert in der/den markierten Zelle/n.|
+|![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/button_7.png)|Dividiert jeden Wert in der/den markierten Zelle/n mit dem eingegebenen Wert.|
 
 Sie finden den Rechner im Tabellenkopfbereich.
 
 ---
-![](/assets/wp13.png)
+![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_1.png)
 
 ---
 
-#### *Einfügen von Werten (=)* 
+#### *Einfügen von Werten* ![Einfügen von Werten](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/button_1.png)
 
 Um Werte mit Hilfe des Rechners einzufügen, gehen Sie wie folgt vor: 
 
 1) Geben Sie im Feld **Wert** den Wert ein, den Sie einfügen wollen.  
 
 ---
-![](/assets/wp15.png)
+![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_2.png)
 
 ---
 
 2) Klicken Sie in das Feld im Wertebereich, in welches Sie Daten einpflegen wollen.
+
 > **Hinweis**: Wenn Sie in Schritt 1 mehrere Zellen markieren, wird der Wert in allen markierten Zellen eingefügt.
 
 ---
-![](/assets/wp18.png)
+![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_3.png)
 
 ---
 
 3) Klicken Sie auf den Button **Füllen**.  
 
 ---
-![](/assets/wp16.png)
+![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_4.png)
 
 ---
 
 4) Der eingegebene Wert wird in der markierten Zelle eingefügt.  
 
----
-![](/assets/wp17.png)
-
----
-
-#### *Addition (+)*
+#### *Addition* ![Addition](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/button_4.png)
 
 Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:  
 

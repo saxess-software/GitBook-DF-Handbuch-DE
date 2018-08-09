@@ -67,6 +67,7 @@ In der Produkttabelle können Sie, bis auf die Produkt ID, alle Werte in allen S
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Werte-aendern/werte_aendern_7.png)
 
 ---
+
 ---
 ![Es öffnet sich ein Dialogfenster.](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Werte-aendern/werte_aendern_8.png)
 

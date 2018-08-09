@@ -19,6 +19,11 @@ Hier finden Sie die folgenden Buttons:
 
 Hier haben Sie die Möglichkeit, den Inhalt Ihrer Produktlinie näher zu beschreiben.
 
+---
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/uebergeordneter-bereich/buttonleiste_9.png)
+
+---
+
 <!---
 
 #### *Suchleiste*

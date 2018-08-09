@@ -30,6 +30,7 @@ Sie können die Daten des Produkts nach Excel exportieren. Nach dem Klick auf de
 ![](/Pictures/Web-Client/Produkt/Aufbau/Tabellenkopfbereich/tabellenkopfbereich_3.png)
 
 ---
+
 ---
 ![](/Pictures/Web-Client/Produkt/Aufbau/Tabellenkopfbereich/tabellenkopfbereich_4.png)
 
@@ -40,13 +41,12 @@ Sie können die Daten des Produkts nach Excel exportieren. Nach dem Klick auf de
 Wenn Sie auf den Button **Kommentare** klicken, öffnet sich ein Fenster, in welchem Ihnen alle Bemerkungen angezeigt werden, die Nutzer vermerkten, wenn Sie Daten im Excel- oder im Web-Client verändert und abgespeichert haben. In dem Fenster können Sie keine Daten eingeben.
 
 ---
-![](/Pictures/Web-Client/Produkt/Aufbau/Tabellenkopfbereich/tabellenkopfbereich_4.png)
-
----
 ![](/Pictures/Web-Client/Produkt/Aufbau/Tabellenkopfbereich/tabellenkopfbereich_5.png)
 
 ---
+![](/Pictures/Web-Client/Produkt/Aufbau/Tabellenkopfbereich/tabellenkopfbereich_6.png)
 
->**Hinweis:** Wie auch im Excel-Client, kann ein Nutzer dazu verpflichtet sein, jede Datenänderung durch einen kurzen Kommentar zu begründen. Diese Funktionalität hinterlegen Sie im Excel-Client direkt am Benutzer. 
+---
 
+>**Hinweis:** Wie auch im Excel-Client, kann ein Nutzer dazu verpflichtet sein, jede Datenänderung durch einen kurzen Kommentar zu begründen. Diese Funktionalität hinterlegen Sie im Excel-Client bei der Benutzerverwaltung.
 >**Hinweis:** Informationen zu den weiteren Funktionen im Tabellenkopfbereich erfahren Sie im Kapitel **Datenerfassung**.

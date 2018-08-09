@@ -9,7 +9,7 @@ speichern oder zurücksetzen.
 
 #### Daten
 
-Nachdem Sie Daten in der Produkttabelle geändert haben, müssen Sie diese mit einem Klick auf den Button **Speichern** in der Buttonleiste speichern. Die Änderungen werden damit in der Datenbank abgespeichert. Wenn Sie die geänderten Daten nicht speichern und Sie verlassen die Produktlinie, gehen diese Änderungen verloren. 
+Nachdem Sie Daten in der Produkttabelle geändert haben, müssen Sie diese mit einem Klick auf den Button **Speichern** in der Buttonleiste speichern. Die Änderungen werden damit in der Datenbank abgespeichert. Wenn Sie die geänderten Daten nicht speichern und die Produktlinie verlassen, gehen diese Änderungen verloren. 
 
 > **Hinweis:** Wenn Sie Daten geändert haben und Sie versuchen, die Produktlinie ohne Speicherung zu verlassen, erscheint ein Warnfenster, dass Sie darauf hinweist, dass Ihre Daten verloren gehen werden, wenn Sie nicht speichern.
 
@@ -25,7 +25,7 @@ Die Zellen, die zuvor mit einem roten Dreieck markiert waren, werden nun normal 
 
 ---
 
-Um die vorgenommenen Datenänderungen ruckgängig zu machen klicken Sie auf den Button **Datenänderungen Abbrechen**. Hierbei werden alle mit einem roten Dreieck markierten Zellen auf ihren ursprünglichen Wert zurückgesetzt.
+Um die vorgenommenen Datenänderungen ruckgängig zu machen klicken Sie auf den Button **Datenänderungen Abbrechen**. Hierbei werden alle mit einem roten Dreieck markierte Zellen auf ihren ursprünglichen Wert zurückgesetzt.
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Speichern/speichern_3.png)

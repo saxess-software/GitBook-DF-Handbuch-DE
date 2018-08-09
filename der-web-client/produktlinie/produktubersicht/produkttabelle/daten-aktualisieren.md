@@ -5,7 +5,7 @@ Wenn Sie eine Produktlinie betreten und sich die Produkttabelle anzeigen lassen,
 Dazu aktualisieren Sie die Seite über Ihren Browser. Drücken Sie hierfür auf das jeweilige Symbol oder drücken Sie F5.
 
 ---
-![](Pitcures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Daten aktualisieren/daten_aktualisieren_1.png)
+![](/Pitcures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Daten aktualisieren/daten_aktualisieren_1.png)
 
 ---
 
