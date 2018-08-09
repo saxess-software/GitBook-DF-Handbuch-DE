@@ -55,161 +55,133 @@ Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:
 1) Geben Sie im Feld **Wert** den Wert ein, den Sie Addieren wollen. 
 
 ---
-![](/assets/wp19.png)
+![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_5.png)
 
 ---
 
 2) Markieren Sie die Zellen, zu denen Sie den Wert addieren wollen und klicken Sie auf den Button **+**.  
    
 ---
-![](/assets/wp20.png)
+![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_6.png)
 
 ---
 3) Der eingegebene Wert wird jedem Wert in den markierten Zellen hinzu addiert.  
 
 ---
-![](/assets/wp21.png)
+![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_7.png)
 
 ---
 
-#### *Subtraktion (-)*  
+#### *Subtraktion* ![Subtraktion](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/button_5.png)  
 
 1) Geben Sie im Feld **Wert** den Wert ein, den Sie subtrahieren wollen.  
 
 ---
-![](/assets/wp22.png)
+![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_8.png)
 
 ---
 
 2) Markieren Sie die Zellen, von denen Sie den Wert subtrahieren wollen und klicken Sie auf den Button **-**.  
 
 ---
-![](/assets/wp23.png)
+![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_9.png)
 
 --- 
 
 3) Der eingegebene Wert wird von jedem Wert in den markierten Zellen subtrahiert.  
 
 ---
-![](/assets/wp24.png)
+![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_10.png)
 
 ---
 
-#### *Multiplikation ( ** )* 
+#### *Multiplikation* ![Multiplikation](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/button_6.png)
 
 1) Geben Sie im Feld **Wert** den Wert ein, mit dem Sie multiplizieren wollen.   
 
 ---
-![](/assets/wp25.png)
+![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_11.png)
 
 ---
 
-2) Markieren Sie die Zellen, die mit dem Wert multipliziert werden sollen und klicken Sie auf den Button *.  
+2) Markieren Sie die Zellen, die mit dem Wert multipliziert werden sollen und klicken Sie auf den Button *****.  
 
 ---
-![](/assets/wp26.png)
+![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_12.png)
 
 ---  
 
 3) Der eingegebene Wert wird mit jedem Wert in den markierten Zellen multipliziert.  
 
 ---
-![](/assets/wp27.png)
+![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_13.png)
 
 ---
  
-### *Division (/)* 
+#### *Division* ![Division](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/button_7.png)
 
 1) Geben Sie im Feld **Wert** den Wert ein, durch den Sie dividieren wollen.  
 
 ---
-![](/assets/wp28.png)
+![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_14.png)
 
 ---
 2) Markieren Sie die Zellen, die durch den Wert dividiert werden sollen und klicken Sie auf den Button **/**.  
 
 ---
-![](/assets/wp29.png)
+![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_15.png)
 
 ---
 
 3) Jeder der markierten Werte wird durch den eingegebenen Wert dividiert. 
 
 ---
-![](/assets/wp30.png)
+![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_16.png)
 
 ---
 
-### *Gleichverteilung*  
+#### *Gleichverteilung* ![Gleichverteilung](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/button_2.png)
 
 1) Geben Sie im Feld **Wert** den Wert ein, den Sie gleichverteilen wollen.  
 
 ---
-![](/assets/wp31.png)
+![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_17.png)
 
 ---
 
 2) Markieren Sie die Zellen, in denen Wert gleichverteilt werden soll und klicken Sie auf den Button **Gleichverteilung**.  
 
 ---
-![](/assets/wp32.png)
+![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_18.png)
 
 ---
 
 3) Der eingegebene Wert wird in jede Zelle gleichverteilt. Werte, die sich zuvor in den markierten Zellen befanden, werden überschrieben. 
 
 ---
-![](/assets/wp33.png)
+![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_19.png)
 
 ---
 
-### *Verhältnis*  
+#### *Verhältnis* ![Verhältnis](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/button_3.png)
 
 1) Geben Sie im Feld **Wert** den Wert ein, den Sie verteilen wollen.  
 
 ---
-![](/assets/wp34.png)
+![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_20.png)
 
 ---
 
 2) Markieren Sie die Zellen, deren Verhältnis Sie als Grundlage für die Verteilung nutzen wollen und klicken Sie auf den Button **Verhältnis**.  
 
 ---
-![](/assets/wp35.png)
+![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_21.png)
 
 ---
 
 3) Der eingegebene Wert wird auf Basis des Verhältnisses der markierten Zellen verteilt.  
 
 ---
-![](/assets/wp36.png)
+![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_22.png)
 
 ---
-
-### *Datum*
-
-1) Markieren Sie die Zellen, in welche Sie ein Datum einfügen wollen und klicken Sie auf das **Kalender-Icon**. 
-
----
-![](/assets/wp37.png)
-
----
-
-2) Es öffnet sich der Kalender, in welchem Sie über die Pfeiltasten zwischen den Monaten und Jahren navigieren können. 
-
----
-![](/assets/wp38.png)
-
----
-
-3) Navigieren Sie zu dem Datum, welches Sie einfügen wollen und klicken Sie es an. Es wird in die markierten Zellen eingefügt.
-
-> **Hinweis**: Wenn Sie im Kalender auf den Button **Heute** klicken, wird das aktuelle Tagesdatum eingefügt. Klicken Sie auf den Button **Löschen** wird der Kalender geschlossen und kein Datum eingefügt.
-
----
-![](/assets/wp39.png)
-
----
-
-
-
