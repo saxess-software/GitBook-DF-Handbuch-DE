@@ -49,3 +49,41 @@ In der Produkttabelle können Sie, bis auf die Produkt ID, alle Werte in allen S
 ---
 
 >**Hinweis:** Der Inhalt des Dropdown-Menüs lässt sich mit Hilfe des Excel-Clients bestimmen und ist gleich der verwendeten Werteliste. Siehe Kapitel **"Werteliste hinzufügen"**.
+
+<!---
+#### Werte ändern mit FlexSearch
+
+
+#### Werte ändern mit FlexAction
+
+
+-->
+
+#### Links einfügen
+
+1) Bei Bedarf können Sie auch Links als Zellenwerte einfügen. Klicken Sie als erstes auf die zu bearbeitende Zelle und 2) anschließend auf den Button **Hyperlink bearbeiten**.
+
+---
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Werte-aendern/werte_aendern_7.png)
+
+---
+---
+![Es öffnet sich ein Dialogfenster.](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Werte-aendern/werte_aendern_8.png)
+
+---
+
+3) Tragen Sie den anzuzeigenden Namen und die URL des Links ein. Bestätigen Sie abschließend mit **OK**.
+
+---
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Werte-aendern/werte_aendern_9.png)
+
+---
+
+4) Der Link wurde eingefügt.
+
+---
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Werte-aendern/werte_aendern_10.png)
+
+---
+
+>**Hinweis:** Um den Link zu entfernen gehen sie wie in Schritt 1 & 2 beschrieben vor und klicken dann auf **Entfernen Sie den Link**.

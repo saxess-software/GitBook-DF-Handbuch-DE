@@ -120,7 +120,7 @@
         * [Produkte hinzufügen oder löschen](der-web-client/produktlinie/produktubersicht/produkttabelle/produkte-hinzufugen-oder-loeschen.md)
         * [Werte ändern](der-web-client/produktlinie/produktubersicht/produkttabelle/werte-andern.md)
         * [Daten aktualisieren](der-web-client/produktlinie/produktubersicht/produkttabelle/daten-aktualisieren.md)
-        * [Speichern](der-web-client/produktlinie/produktubersicht/produkttabelle/speichern.md)
+        * [Speichern und Zurücksetzen](der-web-client/produktlinie/produktubersicht/produkttabelle/speichern.md)
       * [Übergeordneter Bereich](der-web-client/produktlinie/produktubersicht/ubergeordneter-bereich.md)
   * [Produkt](der-web-client/produkt.md)
     * [Navigation](der-web-client/produkt/navigation.md)

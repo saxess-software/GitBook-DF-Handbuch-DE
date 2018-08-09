@@ -6,14 +6,20 @@ Hier finden Sie die folgenden Buttons:
 
 |Button|Beschreibung|
 |-|-|
-|Speichern|Sichert alle Daten, die Sie innerhalb der Produkttabelle geändert haben. Eine detaillierte Beschreibung hierzu finden Sie im Kapitel **Produkttabelle**.
-|Layout speichern|Sichert alle Änderungen, die Sie am Layout der Produkttabelle vorgenommen haben. Eine detaillierte Beschreibung hierzu finden Sie im Kapitel **Layout ändern**.|
-|Neues Produkt anlegen|Ein neues Produkt wird innerhalb der Produkttabelle angelegt. Eine detaillierte Beschreibung hierzu finden Sie im Kapitel **Neues Produkt anlegen**.|
+|![Speichern](/Pictures/Web-Client/Produktlinie/Produktübersicht/uebergeordneter-bereich/buttonleiste_1.png)|Sichert alle Daten, die Sie innerhalb der Produkttabelle geändert haben. Eine detaillierte Beschreibung hierzu finden Sie im Kapitel **Produkttabellenbereich**.
+|![Datenänderungen abbrechen](/Pictures/Web-Client/Produktlinie/Produktübersicht/uebergeordneter-bereich/buttonleiste_2.png)|Verwirft alle Änderungen an Werten die Sie innerhalb der Produkttabelle vorgenommen haben. Eine detaillierte Beschreibung hierzu finden Sie im Kapitel **Layout ändern**.|
+|![Produkt hinzufügen](/Pictures/Web-Client/Produktlinie/Produktübersicht/uebergeordneter-bereich/buttonleiste_3.png)|Ein neues Produkt wird innerhalb der Produkttabelle angelegt. Eine detaillierte Beschreibung hierzu finden Sie im Kapitel **Neues Produkt anlegen**.|
+|![FlexSuche](/Pictures/Web-Client/Produktlinie/Produktübersicht/uebergeordneter-bereich/buttonleiste_4.png)| Eine detaillierte Beschreibung hierzu finden Sie im Kapitel **Neues Produkt anlegen**.|
+|![FlexAction](/Pictures/Web-Client/Produktlinie/Produktübersicht/uebergeordneter-bereich/buttonleiste_5.png)| Eine detaillierte Beschreibung hierzu finden Sie im Kapitel **Neues Produkt anlegen**.|
+|![Hyperlink bearbeiten](/Pictures/Web-Client/Produktlinie/Produktübersicht/uebergeordneter-bereich/buttonleiste_6.png)|Öffnet ein Dialogfenster zum hinzufügen und entfernen von Hyperlinks. Eine detaillierte Beschreibung hierzu finden Sie im Kapitel **Werte ändern**.|
+|![Layout speichern](/Pictures/Web-Client/Produktlinie/Produktübersicht/uebergeordneter-bereich/buttonleiste_7.png)| Speichert alle Änderungen am Layout der Produkttabelle. Eine detaillierte Beschreibung hierzu finden Sie im Kapitel **Layout ändern**.|
+|![Layout zurücksetzen](/Pictures/Web-Client/Produktlinie/Produktübersicht/uebergeordneter-bereich/buttonleiste_8.png)|Stellt das Standard-Layout für die Produkttabelle wieder her. Eine detaillierte Beschreibung hierzu finden Sie im Kapitel **Layout ändern**.|
 
 #### *Erläuterungszeile*
 
 Hier haben Sie die Möglichkeit, den Inhalt Ihrer Produktlinie näher zu beschreiben.
 
+<!---
 #### *Suchleiste*
 
 Hier können Sie einen Begriff eingeben, welchen Sie in der Produkttabelle suchen möchten. 
@@ -78,5 +84,4 @@ Um die Fusszeile einzublenden, gehen Sie wie folgt vor.
 ---
 
 > **Hinweis**: Die Fusszeile können Sie auf dem gleichen Weg wie in Schritt 1 beschrieben wieder entfernen.
-
-
+-->
