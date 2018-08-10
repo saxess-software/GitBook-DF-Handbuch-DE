@@ -1,56 +1,11 @@
 ### Feldliste
 
-Um zu bestimmen welche Elemte in die Pivot-Auswertung hinzugezogen werden sollen, klicken Sie auf den Button **Feldliste umschalten**.
+Die Feldliste enthält die Elemente, die in die Zeilen-, Spalten- und Datenfelder einer Pivot-Tabelle gezogen werden können.
 
 ---
-![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Feldliste/feldliste_1.png)
+![](/assets/f5.png)
 
 ---
-
-Es öffnet sich das Dialogfenster **Feldauswahl** mit mehreren Auswahllisten.
-
----
-![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Feldliste/feldliste_2.png)
-
----
-
->**Hinweis:** Sie können bei Bedarf die Feldauswahl beliebig vergrößern/verkleinern und im Browserfenster platzieren um Ihr Ergebnis im Wertebereich kontrollieren zu können.
-
-Die Liste **Alle Felder** enthält jene Elemente, die in die Zeilen-, Spalten-, Daten- und Filterfelder der Pivot-Auswertung gezogen werden können.
-
----
-![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Feldliste/feldliste_3.png)
-
----
-
-Tippen Sie einen Suchbegriff in die Suchleiste ein um die Auswahl zu filtern.
-
----
-![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Feldliste/feldliste_4.png)
-
----
-
-Um ein Element zur Auswertung hinzuzufügen habe Sie zwei Möglichkeiten:
-
-1) klicken Sie auf das Quadrat links neben dem Elementnamen um es mit einem Haken zu markieren und automatisch einem Feld hinzuzufügen
-2) ziehen Sie per Drag & Drop das Element in das gewünschte Feld.
-
----
-![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Feldliste/feldliste_5.png)
-
----
-
-Wenn Sie ein Element einem anderen Feld zuordnen wollen, ziehen Sie das Element per Drag & Drop in das gewünschte Feld.
-
----
-![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Feldliste/feldliste_6.png)
-
----
-
->**Hinweis:** Sie können auf diese Weise auch Elemente aus der Pivot-Auswertung entfernen, in dem Sie sie in die Liste **Alle Felder** ziehen.
-
-
-<!---
 
 Der Feldlisten-Bereich unterteilt sich in einen Primär- und einen Sekundärbereich. Je nachdem welches Feld Sie im Primärbereich gewählt haben, wird Ihnen im Sekundärbereich eine andere Auswahl an Feldern angezeigt.
 
@@ -58,7 +13,7 @@ Der Feldlisten-Bereich unterteilt sich in einen Primär- und einen Sekundärbere
 
 Durch die Auswahl eines Feldes im Primärbereich werden die aus der Datenbank ausgelesen Daten bereits vorgefiltert. Die Felder sind Summary, Profit, Cash, Balance, Text und Numeric und ihr Filtermerkmale werden in der untenstehenden Tabelle beschrieben.
 
-Darüber hinaus wird Ihnen im Primärbereich ein Reiter **Data Factory** angezeigt, der den aktuellen Inhalt der [DataFactory-Homepage](www.datafactory.com) darstellt. 
+Darüber hinaus wird Ihnen im Primärbereich ein Reiter **Data Factory** angezeigt, der den aktuellen Inhalt der [DataFactory-Homepage](www.datafactory.co) darstellt. 
 
 ---
 ![](/assets/wfab1.png)
@@ -82,7 +37,7 @@ Darüber hinaus wird Ihnen im Primärbereich ein Reiter **Data Factory** angezei
 Nach der Auswahl eines Feldes im Primärbereich stehen Ihnen im Sekundärbereich verschiedene Felder zur Verfügung, die Sie als Zeilen-, Spalten- und Datenfelder in Ihrer Pivot-Tabelle verwenden können.
 
 ---
-![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Feldliste/feldliste8.png)
+![](/assets/f8.png)
 
 ---
 
@@ -91,29 +46,29 @@ Nach der Auswahl eines Feldes im Primärbereich stehen Ihnen im Sekundärbereich
 Sie haben die Möglichkeit, die Auswahl an angezeigten Feldern im Sekundärbereich anzupassen. Klicken Sie dazu mit der rechten Maustaste auf das entsprechende Feld und wählen Sie **Ausblenden**
 
 ---
-![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Feldliste/feldliste10.png)
+![](/assets/f10.png)
 
 ---
 
 Um ein Feld wieder einzublenden, klicken Sie mit der rechten Maustaste in den Sekundärbereich und wählen Sie **Feldliste einblenden**
 
 ---
-![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Feldliste/feldliste13.png)
+![](/assets/f13.png)
 
 ---
 
 Es öffnet sich ein Fenster, in dem Ihnen alle Felder angezeigt werden, die Sie ausgeblendet haben. 
 
 ---
-![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Feldliste/feldliste14.png)
+![](/assets/f14.png)
 
 ---
 
 Klicken Sie auf das Feld, welches Sie einblenden wollen und ziehen Sie es mit gedrückter linker Maustaste zurück in den Sekundärbereich. Platzieren Sie das Feld an der gewünschten Stelle im Sekundärbereich und lassen Sie die linke Maustaste los. Das Feld wird an dieser Stelle eingefügt.
 
 ---
-![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Feldliste/feldliste15.png)
+![](/assets/f15.png)
 ---
 
--->
+
 

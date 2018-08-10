@@ -6,13 +6,13 @@ DataFactory basiert nahezu ausschließlich auf Standard Microsoft Technologie. V
 
 ---
 
-![](/Bilder/Technischer_Überblick_Intranet.png)
+![](/Pictures/Grundlagen/Technischer-Überblick/Technischer_Überblick_Intranet.png)
 
 ---
 **DataFactory in der Cloud**
 
 ---
-![](/Bilder/Technischer_Überblick_Cloud.png)
+![](/Pictures/Grundlagen/Technischer-Überblick/Technischer_Überblick_Cloud.png)
 
 ---
 
