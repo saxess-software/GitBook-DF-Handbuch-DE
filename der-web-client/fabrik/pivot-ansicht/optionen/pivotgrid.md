@@ -13,7 +13,7 @@ In diesem Tab haben Sie die Option die gesamte Pivot-Tabelle ein- und auszublend
 
 #####Faktenformate
 
-Hier haben Sie die Möglichkeit die Formatierung Zeitangaben und Zahlen zu ändern bzw. auf den Standard zurückzusetzen.
+Hier haben Sie die Möglichkeit die Formatierung von Zeitangaben und Zahlen zu ändern bzw. auf den Standard zurückzusetzen.
 
 ---
 ![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Optionen/PivotGrid/pivotgrid_2.png)
@@ -71,10 +71,10 @@ Abschließend geben Sie in dem Textfeld **Feldbreite** die gewünschte Spaltenbr
 #####Summen
 
 In diesem Untermenü können Sie festlegen ob
-*Zeilensummen
-*Zeilen-Zwischensummen
-*Spaltensummen oder
-*Spalten-Zwischensummen
++ Zeilensummen
++ Zeilen-Zwischensummen
++ Spaltensummen oder
++ Spalten-Zwischensummen
 angezeigt werden sollen.
 
 ---

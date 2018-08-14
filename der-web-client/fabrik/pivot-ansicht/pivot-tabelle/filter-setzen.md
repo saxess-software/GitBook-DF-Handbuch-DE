@@ -1,6 +1,6 @@
 ### Filter setzen
 
-Um sich für ein Feld nur bestimmte Werte in Ihrer Pivot-Tabelle anzeigen zu lassen, können Sie innerhalb des Feldes nach diesen Werten filtern.
+Um sich nur bestimmte Werte in Ihrer Pivot-Tabelle anzeigen zu lassen, können Sie innerhalb der Pivot-Ansicht nach Eigenschaften filtern.
 
 1) Klicken Sie auf das Trichter-Symbol rechts von der Feldüberschrift in welchem Sie Filtern möchten. Es werden Ihnen zunächst alle möglichen Werte innerhalb des Feldes angezeigt.
 

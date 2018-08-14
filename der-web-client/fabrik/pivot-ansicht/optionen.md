@@ -6,3 +6,10 @@ Sie können das Layout und die Eigenschaften der Pivot-Tabellen und -Diagramme z
 ![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Optionen/optionen_1.png)
 
 ---
+
+Es öffnet sich das Dialogfenster **Optionen**.
+
+---
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Optionen/optionen_2.png)
+
+---

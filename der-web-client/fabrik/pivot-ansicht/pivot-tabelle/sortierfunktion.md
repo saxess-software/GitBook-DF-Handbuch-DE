@@ -2,7 +2,7 @@
 
 Sie können in der Pivot-Tabelle die Zeilen und Spalten ab- bzw. aufsteigend sortieren.
 
-1) Klicken Sie in das Element, das Sie sortieren wollen.
+1) Klicken Sie auf das Element, nach dem Sie die Werte sortieren wollen.
 
 ---
 ![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Pivot-Tabelle/Sortierfunktion/sortieren_1.png)
