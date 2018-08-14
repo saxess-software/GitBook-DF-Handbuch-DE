@@ -7,22 +7,20 @@ Um die Globalttribute zu verwalten, gehen Sie wie folgt vor:
 1) Gehen Sie zu der Fabrik, dessen Globalattribute Sie verwalten wollen und klicken Sie auf den ActionLink.  
 
 ---
-![](/assets/Fabrik5.png) 
+![](/Pictures/Excel-Client/Fabrik/Globalattribute/globalattribute_1.png) 
 
- --- 
+--- 
 
 2) Klicken Sie auf die Option **Globalattribut editieren**.  
 
 ---
-![](/assets/Fabrik15.png)
+![](/Pictures/Excel-Client/Fabrik/Globalattribute/globalattribute_2.png)
 
 ---
 
 3) Sie können hier nun Informationen hinzufügen oder entfernen. Durch Klick auf den Button **Speichern** können Sie Ihre Eingabe im Anschluss sichern.  
 
 ---
-![](/assets/Fabrik17.png)    
+![](/Pictures/Excel-Client/Fabrik/Globalattribute/globalattribute_3.png)    
 
 ---
-
-

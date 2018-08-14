@@ -4,7 +4,7 @@ Ein Werk ist aus physischer Sicht in DataFactory eine Datenbank und ein in sich 
 
 ---
 
-![](/Bilder/03 - Der Excel-Client/Werk/Werk.png)
+![](/Pictures/Excel-Client/Werk/werk_1.png)
 
 ---
 

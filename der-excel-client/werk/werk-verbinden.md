@@ -5,14 +5,14 @@ Um sich zu einem Werk bzw. mit einer Datenbank zu verbinden, müssen Sie einen n
 1) Klicken Sie auf den ActionLink **Verbindungen und Sprache**.  
 
 ---
-![](/Bilder/Werk/werk10.png)
+![](/Pictures/Excel-Client/Werk/Werk verbinden/werk_verbinden_1.png)
 
 ---
 
 2) Klicken Sie auf die Option **Verbindungen verwalten**.  
 
 ---
-![](/Bilder/Werk/werk15.png)
+![](/Pictures/Excel-Client/Werk/Werk verbinden/werk_verbinden_2.png)
 
 ---
 
@@ -22,21 +22,21 @@ Um sich zu einem Werk bzw. mit einer Datenbank zu verbinden, müssen Sie einen n
 4) Klicken Sie auf den Button **Neue Verbindung**.  
 
 ---
-![](/Bilder/Werk/werk17.png)
+![](/Pictures/Excel-Client/Werk/Werk verbinden/werk_verbinden_3.png)
 
 ---
 
 5) Geben Sie in den Connection Manager die erforderlichen Informationen ein:  
 
 ---
-![](/Bilder/Werk/werk19.PNG)
+![](/Pictures/Excel-Client/Werk/Werk verbinden/werk_verbinden_4.PNG)
 
 ---
 
 6) Klicken Sie den Button **Test Connection**, um die Verbindung zu testen. Sofern alle Einstellungen korrekt sind, erfolgt die Meldung: **Die Verbindung konnte erfolgreich hergestellt werden.**  
 
 ---
-![](/Bilder/Werk/werk20.PNG)
+![](/Pictures/Excel-Client/Werk/Werk verbinden/werk_verbinden_5.PNG)
 
 ---
 
@@ -51,13 +51,13 @@ Um sich zu einem Werk bzw. mit einer Datenbank zu verbinden, müssen Sie einen n
 9) Nach dem Speichern können Sie den Connection Manager schließen und gelangen zurück zur Werksübersicht und sehen dort die gerade angelegte Verbindung zu Ihrem Cluster.  
 
 ---
-![](/Bilder/Werk/werk21.png)
+![](/Pictures/Excel-Client/Werk/Werk verbinden/werk_verbinden_6.png)
 
 ---
 
 10) Der zu diesem Cluster dazugehörige Key wurde im entsprechenden Key-Ordner abgelegt.
 
 ---
-![](/Bilder/Werk/werk22.png)
+![](/Pictures/Excel-Client/Werk/Werk verbinden/werk_verbinden_7.png)
 
 ---

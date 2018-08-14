@@ -15,34 +15,34 @@ Um den Excel-Client herunterzuladen, müssen Sie sich zunächst zunächst auf **
 1) Öffnen Sie die Seite <https://planning-factory.com> und klicken Sie auf den Button **Register**.
 
 ---
-![](/assets/iu1.png) 
+![](/Pictures/Excel-Client/Installation/installation_1.png) 
 
 ---
 2) Tragen Sie Ihre **Email-Adresse** ein, vergeben Sie ein **Passwort** und geben Sie dieses ein zweites Mal zur Bestätigung ein. Bestätigen Sie Ihre Eingaben mit einem Klick auf den Button **Register**.
 
 ---
-![](/assets/iu2.png)
+![](/Pictures/Excel-Client/Installation/installation_2.png)
 
 ---
 
 3) In dem sich öffnenden Browser-Fenster können Sie durch Klicken des Buttons **Download Excel Client** den Download des Excel Clients starten. 
 
 ---
-![](/assets/iu3.png)
+![](/Pictures/Excel-Client/Installation/installation_3.png)
 
 ---
 
 4) Es öffnet sich ein Fenster, in dem Sie **Datei speichern** auswählen und mit **OK** bestätigen. 
 
 ---
-![](/assets/iu4.png)
+![](/Pictures/Excel-Client/Installation/installation_4.png)
 
 ---
 
 5) Wählen Sie nun den gewünschten Speicherort und klicken Sie auf **OK**.
 
 ---
-![](/assets/iu5.png)
+![](/Pictures/Excel-Client/Installation/installation_5.png)
 
 ---
 
@@ -53,28 +53,28 @@ Um den Excel-Client herunterzuladen, müssen Sie sich zunächst zunächst auf **
 1) Öffnen Sie den Ordner, in welchen Sie die Download-Datei gespeichert haben und klicken Sie auf mit der rechten Maustaste auf die .zip-Datei. Es öffnet sich ein Fenster, in welchem Sie die Option **Alle extrahieren...** auswählen.
 
 ---
-![](/assets/iu6.png)
+![](/Pictures/Excel-Client/Installation/installation_6.png)
 
 ---
 
 2) Es öffnet sich ein Fenster, in welchem Sie definieren, in welchen Zielordner die .zip-Datei extrahiert werden soll. Indem Sie auf den Button **Durchsuchen** klicken, können Sie den Zielordner ändern. Im Anschluss klicken Sie auf **Extrahieren**.
 
 ---
-![](/assets/iu7.png)
+![](/Pictures/Excel-Client/Installation/installation_7.png)
 
 ---
 
 3) In Ihrem Zielordner finden Sie nun den Ordner **DataFactory X.0 Build XXXX**, welcher wiederum zwei Items beinhaltet. Zum einen den Ordner **+** und zum anderen den **DataFactory Excel-Client**. 
 
 ---
-![](/assets/iu8.png)
+![](/Pictures/Excel-Client/Installation/installation_8.png)
 
 ---
 
 Wenn Sie in Ihrem Ordner auf den DataFactory Excel-Client klicken, öffnet sich Excel mit der Excel-Mappe, die den XLS-Client enthält. Beim ersten Start müssen Sie die Makros aktivieren, indem Sie in der gelben eingeblendeten Zeile unterhalb des Navigationsbereichs den Button **Inhalt aktivieren** anklicken. Diese Einstellung bleibt anschließend bestehen und muss nicht wieder ausgeführt werden.
 
 ---
-![](/assets/iu9.png)
+![](/Pictures/Excel-Client/Installation/installation_9.png)
 
 ---
 
@@ -85,12 +85,4 @@ Wenn Sie eine DataFactory-Datenbank auf Ihrem eigenen Server nutzen wollen, bitt
 ### Update des Excel-Clients
 
 Den aktuellen Release des Excel-Clients finden Sie auf <https://planning-factory.com>. Laden Sie ihn dort herunter und installieren Sie Ihn wie Kapitel [Updates](updates.md) beschrieben.
-
-
-
-
-
-
-
-
 

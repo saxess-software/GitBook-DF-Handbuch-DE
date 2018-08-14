@@ -13,6 +13,6 @@ Auf Fabrik- und Produktlinienebene können die Zugriffsrechte vergeben werden, d
 Listen und Formate werden auf Werksebene verwaltet und können in allen Hierarchieebenen eingesetzt werden. Mehr dazu lesen Sie im Kapitel [Listen und Formate](listen-und-formate.md).
 
 ---
-![](/assets/Struktur DF.png)
+![](/Pictures/Excel-Client/Struktureller Aufbau/struktureller_aufbau_1.png)
 
 ---

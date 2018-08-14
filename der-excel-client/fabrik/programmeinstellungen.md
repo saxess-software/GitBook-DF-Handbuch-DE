@@ -4,21 +4,21 @@ In den Programmeinstellungen können Sie Eigenschaften Ihrer Tabellen, Matrixein
 1) Klicken Sie in das **...-Kontextmenü**.
 
 ---
-![](/assets/p47.png)
+![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_1.png)
 
 ---
 
 2) Wählen Sie die Option **Einstellungen**.
 
 ---
-![](/assets/fa2.png)
+![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_2.png)
 
 ---
 
 3) Es öffnet sich das Fenster **Programmeinstellungen**.
 
 ---
-![](/assets/fa3.png)
+![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_3.png)
 
 ---
 
@@ -28,21 +28,21 @@ Wenn Sie Inhalte in DataFactory über einen Beamer oder im Web präsentieren, ka
 Wenn Sie den Zoomfaktor verringern wollen, klicken Sie auf den linken Pfeil. Wenn Sie den Zoomfaktor erhöhen wollen, klicken Sie auf den rechten Pfeil. Sie können den Zoomfaktor aber auch verändern, indem Sie den Schieber nach rechts oder nach links bewegen.
 
 ---
-![](/assets/fa4.png)
+![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_4.png)
 
 ---
 
 Der eingestellte Zoomfaktor wird Ihnen anschließend auf der linken Seite angezeigt.
 
 ---
-![](/assets/fa5.png)
+![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_5.png)
 
 ---
 
 Um den Zoomfaktor auf die Standardeinstellung zurückzusetzen, klicken Sie auf den Button **Standard**.
 
 ---
-![](/assets/fa6.png)
+![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_6.png)
 
 ---
 
@@ -51,7 +51,7 @@ Um den Zoomfaktor auf die Standardeinstellung zurückzusetzen, klicken Sie auf d
 In den Tabelleneinstellung können Sie definieren, wie Ihre Produktübersicht auf der Produktlinien-Ebene dargestellt wird.
 
 ---
-![](/assets/fa7.png)
+![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_7.png)
 
 ---
 
@@ -68,35 +68,35 @@ Wenn Sie Änderungen an den Tabelleneinstellungen vornehmen wollen, gehen Sie wi
 1) Klicken Sie auf den Button mit der Tabelleneinstellung, die Sie ändern wollen.
 
 ---
-![](/assets/fa8.png)
+![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_8.png)
 
 ---
 
 2) Wählen Sie in dem sich öffnenden Fenster die gewünschte Farbe aus und Klicken Sie auf **OK**.
 
 ---
-![](/assets/fa9.png)
+![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_9.png)
 
 ---
 
 3) Ihre Farbauswahl wird Ihnen auf der rechten Seite angezeigt. Klicken Sie auf **Anwenden**.
 
 ---
-![](/assets/fa10.png)
+![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_10.png)
 
 ---
 
 4) Ihre Farbauswahl wird Ihnen angezeigt.
 
 ---
-![](/assets/fa11.png)
+![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_11.png)
 
 ---
 
 5) Um die Farbauswahl auf die Standardeinstellung zurückzusetzen, wählen Sie unter Tabelleneinstellung **Standard** und bestätigen Sie mit **Anwenden**.
 
 ---
-![](/assets/fa12.png)
+![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_12.png)
 
 ---
 
@@ -107,10 +107,10 @@ Wenn Sie Änderungen an den Tabelleneinstellungen vornehmen wollen, gehen Sie wi
 Über die Option **Tabellenformat** haben Sie auch die Möglichkeit Ihre Tabellenzeilen alternierend einzufärben, d.h. das Ihre Zeilen abwechselnd farbig dargestellt werden. Dazu müssen zunächst alle anderen Tabelleneinstellungen deaktiviert werden und unter Tabellenformat eine Auswahl getroffen sein.
 
 ---
-![](/assets/fa13.png)
+![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_13.png)
 
 ---
-![](/assets/fa14.png)
+![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_14.png)
 
 ---
 
@@ -119,7 +119,7 @@ Wenn Sie Änderungen an den Tabelleneinstellungen vornehmen wollen, gehen Sie wi
 In den Matrixeinstellungen können Sie festlegen, ob und in welcher Form geänderte Werte in einem Produkt hervorgehoben werden sollen. Setzen Sie dazu einfach im Reiter **Anzeige 2** ein Häkchen bei den gewünschten Optionen.
 
 ---
-![](/assets/fabrik1.png)
+![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_15.png)
 
 ---
 
@@ -131,53 +131,3 @@ Folgende Optionen stehen Ihnen zur Verfügung:
 | Zeilenüberschriften| Zeilenüberschriften, die Sie neu eingeben oder ändern, werden markiert. |
 | Spaltenüberschriften| Spaltenüberschriften, die Sie neu eingeben oder ändern, werden markiert. |
 | Kalkulierte Einträge| Zellen, die Formeln enthalten und die durch Änderung der Bezugswerte neue Ergebnisse berechnen, werden markiert. |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

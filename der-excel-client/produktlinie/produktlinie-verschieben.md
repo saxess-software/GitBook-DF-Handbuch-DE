@@ -7,26 +7,27 @@ Um eine Produktlinie zu verschieben, gehen Sie wie folgt vor:
 1) Gehen Sie zu der Produktlinie, die Sie verschieben wollen und klicken Sie auf den ActionLink.  
 
 ---
-![](/assets/pl5.png)
+![](/Pictures/Excel-Client/Produktlinie/Produktlinie verschieben/produktlinie_verschieben_1.png)
+
 ---
 
 2) Klicken Sie auf die Option **Verschieben**.  
 
 ---
-![](/assets/pl9.png)
+![](/Pictures/Excel-Client/Produktlinie/Produktlinie verschieben/produktlinie_verschieben_2.png)
 
 ---
 
 3) Wählen Sie für die Produktlinie eine Zielfabrik, geben Sie eine **ProduktlinienID** ein und bestätigen Sie Ihre Eingabe mit dem Button **Speichern**.  
 
 ---
-![](/assets/pl10.png)
+![](/Pictures/Excel-Client/Produktlinie/Produktlinie verschieben/produktlinie_verschieben_3.png)
 
 ---
 
 4) Die verschobene Produktlinie sortiert an der entsprechend von Ihnen gewählten Stelle innerhalb Ihres Werkes ein.  
 
 ---
-![](/assets/pl11.png) 
+![](/Pictures/Excel-Client/Produktlinie/Produktlinie verschieben/produktlinie_verschieben_4.png) 
 
 ---

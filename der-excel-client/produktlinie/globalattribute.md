@@ -9,21 +9,21 @@ Um Globalattribute zu verwalten, gehen Sie wie folgt vor:
 1) Gehen Sie zu der Produktlinie, dessen Globalattribute Sie verwalten wollen und klicken Sie auf den ActionLink.  
 
 ---
-![](/assets/pl12.png) 
+![](/Pictures/Excel-Client/Produktlinie/Globalattribute/globalattribute_1.png) 
 
 ---
 
 2) Klicken Sie auf die Option **Globalattribut editieren**.  
 
 ---
-![](/assets/pl15.png)
+![](/Pictures/Excel-Client/Produktlinie/Globalattribute/globalattribute_2.png)
 
 ---
 
 3) Sie können im oberen Bereich Informationen zu den 3 vordefinierten Globalattributen hinzufügen oder entfernen.  
 
 ---
-![](/assets/pl17.png)   
+![](/Pictures/Excel-Client/Produktlinie/Globalattribute/globalattribute_3.png)   
 
 ---
 
@@ -32,7 +32,7 @@ Um Globalattribute zu verwalten, gehen Sie wie folgt vor:
 4) Im unteren Bereich können Sie bis zu 25 eigene Globalattribute definieren, indem Sie einen Namen geben und ggf. eine Liste zuordnen. wie Sie Listen definieren wird im Kapitel "Listen und Formate" beschrieben. 
 
 ---
-![](/assets/pl18.png)
+![](/Pictures/Excel-Client/Produktlinie/Globalattribute/globalattribute_4.png)
 
 ---
 
@@ -45,24 +45,24 @@ Sie haben die Möglichkeit, die Produktübersicht auf Basis der Globalattribute 
 1) Klicken Sie auf den Dropdown-Pfeil in der Spalte mit dem Globalattribut, nach welchem Sie filtern möchten.
 
 ---
-![](/assets/pl19.png)
+![](/Pictures/Excel-Client/Produktlinie/Globalattribute/globalattribute_5.png)
 
 ---
 
 2) Selektieren Sie ein oder mehrere Werte, nach denen Sie filtern möchten und klicken Sie anschließend auf **OK**
 
 ---
-![](/assets/pl20.png)
+![](/Pictures/Excel-Client/Produktlinie/Globalattribute/globalattribute_6.png)
 
 ---
 
 3) Um den Filter wieder zu löschen, klicken Sie erneut auf den Dropdown-Pfeil und markieren Sie entweder das Feld **(Alles auswählen)** oder **Filter löschen aus "..."**.
 
 ---
-![](/assets/pl21.png)
+![](/Pictures/Excel-Client/Produktlinie/Globalattribute/globalattribute_7.png)
 
 ---
-![](/assets/pl22.png)
+![](/Pictures/Excel-Client/Produktlinie/Globalattribute/globalattribute_8.png)
 
 ---
 

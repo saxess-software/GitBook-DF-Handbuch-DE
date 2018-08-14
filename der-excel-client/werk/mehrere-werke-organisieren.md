@@ -9,7 +9,7 @@ Dazu gehen Sie wie folgt vor:
 1) Legen Sie sich Ihre gewünschte Ordnerstruktur in Ihrem Explorer an. 
 
 ---
-![](/Bilder/Werk/werk32.png)
+![](/Pictures/Excel-Client/Werk/Mehrere Werke organisieren/mehrere_werke_organisieren_1.png)
 
 ---
 
@@ -17,28 +17,27 @@ Dazu gehen Sie wie folgt vor:
 2) Verschieben Sie Keyfiles in Ihre Ordnerstruktur.
 
 ---
-![](/Bilder/Werk/werk30.png)
+![](/Pictures/Excel-Client/Werk/Mehrere Werke organisieren/mehrere_werke_organisieren_2.png)
 
 ---
 
 3) Gehen Sie zur Werksübersicht und klicken Sie auf die Schaltfläche **Neu**.
 
 ---
-![](/Bilder/Werk/werk31.png)  
+![](/Pictures/Excel-Client/Werk/Mehrere Werke organisieren/mehrere_werke_organisieren_3.png)  
 
 ---
 
 4) Wählen Sie Ihr gewünschtes Verzeichnis und klicken Sie auf den Button **OK**.  
 
 ---
-![](/Bilder/Werk/werk32.png)
+![](/Pictures/Excel-Client/Werk/Mehrere Werke organisieren/mehrere_werke_organisieren_4.png)
 
 ---
 
 5) Ihr Verzeichnis wurde nun hinterlegt. 
 
 --- 
-![](/Bilder/Werk/werk33.png)
+![](/Pictures/Excel-Client/Werk/Mehrere Werke organisieren/mehrere_werke_organisieren_5.png)
 
 ---
-

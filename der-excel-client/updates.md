@@ -11,34 +11,25 @@ Die Verbindungen zu Ihren DataFactory-Datenbanken haben Sie bereits über Ihre b
 1) Wählen Sie in der **Werksübersicht** die Option **Neu**.
 
 ---
-![](/assets/iu17.png)
+![](/Pictures/Excel-Client/Updates/updates_1.png)
 
 ---
 
 2) In dem sich öffnenden Fenster wählen Sie den Ordner aus, in dem sich Ihre Key-Files befinden und klicken Sie auf **OK**.
 
 ---
-![](/assets/iu18.png)
+![](/Pictures/Excel-Client/Updates/updates_2.png)
 
 ---
 
 3) In Ihrem Excel-Client werden Ihnen nun Ihre Cluster angezeigt.
 
 ---
-![](/assets/iu19.png)
+![](/Pictures/Excel-Client/Updates/updates_3.png)
 
 ---
 
 ### Update der API
 
 Es kann notwendig sein, ein Update der API durchzuführen. Sollte die Versionsnummer der Datei nicht der Versionsnummer des Servers entsprechen, bitten Sie den Administrator diesen zu updaten. Sollten Sie selbst der Administrator sein, lesen Sie in Kapitel [DataFactory-Datenbank](../installation-der-datafactory-datenbank.md) weiter.
-
-
-
-
-
-
-
-
-
 
