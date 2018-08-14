@@ -1,91 +1,66 @@
 ### Design der Pivot-Tabelle
 
-Die Pivot-Tabelle besteht aus den drei Bereich **Zeilenfelder**, **Spaltenfelder** und **Datenfelder**. Jeder dieser Bereiche kann mit einem oder mehreren Feld/ern aus dem Sekundärbereich der Feldliste befüllt werden.
+Die Pivot-Tabelle besteht aus den fünf Bereichen **Zeilenfeld**, **Spaltenfeld**, **Filterfeld**, **Wertefeld** und dem **Wertebereich**.
 
 ---
-![](/assets/f16.png)
-
----
-
-
-#### *Zeilenfelder*
-
-In den Bereich Zeilenfelder ziehen Sie aus dem Sekundärbereich der Feldliste die Felder, für welche Sie sich gern Werte anzeigen lassen möchten.
-
-1) Klicken Sie mit der linken Maustaste auf das Feld, welches Sie in den Bereich Zeilenfeld einfügen wollen und halten Sie die Taste gedrückt.
-
----
-![](/assets/f17.png)
-
----
-2) Ziehen Sie das Feld in den Bereich Datenfeld und lassen Sie die linke Maustaste los.
-
----
-![](/assets/f18.png)
-
----
- 
-> **Hinweis**: Sie können weitere Felder aus dem Sekundärbereich der Feldliste in den Bereich Zeilenfelder ziehen. Gehen Sie dazu wie oben beschrieben vor und platzieren Sie das Feld an der gewünschten Stelle und lassen Sie dann erst die linke Maustaste los. Das Feld wird an dieser Stelle eingefügt.
-
----
-![](/assets/f19.png)
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Pivot-Tabelle/Design/design_1.png)
 
 ---
 
+#### *Zeilenfeld*
 
-#### *Spaltenfelder*
-
-In den Bereich spaltenfelder ziehen Sie aus dem Sekundärbereich der Feldliste die Felder, für welche Sie sich gern Werte anzeigen lassen möchten.
-
-1) Klicken Sie mit der linken Maustaste auf das Feld, welches Sie in den Bereich Spaltenfeld einfügen wollen und halten Sie die Taste gedrückt.
+Das Zeilenfeld zeigt die Elemente an, nach denen die Werte in den Zeilen gruppiert sind. Die Zeilen lassen sich durch einen Klick auf- und wieder zuklappen.
 
 ---
-![](/assets/f20.png)
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Pivot-Tabelle/Design/design_2.png)
 
 ---
 
-2) Ziehen Sie das Feld in den Bereich Spaltenfeld und lassen Sie die linke Maustaste los.
+Klicken Sie mit der linken Maustaste auf das Zeilenelement, um es auf- oder zuzuklappen.
 
 ---
-![](/assets/f21.png)
-
----
- 
-> **Hinweis**: Sie können weitere Felder aus dem Sekundärbereich der Feldliste in den Bereich spaltenfelder ziehen. Gehen Sie dazu wie oben beschrieben vor und platzieren Sie das Feld an der gewünschten Stelle und lassen Sie dann erst die linke Maustaste los. Das Feld wird an dieser Stelle eingefügt.
-
----
-![](/assets/f22.png)
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Pivot-Tabelle/Design/design_3.png)
 
 ---
 
-#### *Datenfelder*
+#### *Spaltenfeld*
 
-In den Bereich Datenfelder ziehen Sie aus dem Sekundärbereich der Feldliste die Felder, welche Werte enthalten, die Sie gern aggregieren möchten. Mögliche Felder sind:
+Das Spaltenfeld zeigt die Elemente an, nach denen die Werte spaltenweise gruppiert sind.
 
-* Profit
-* Cash
-* Balance
-* Quantity
-* Value
+---
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Pivot-Tabelle/Design/design4.png)
+
+---
+
+Klicken Sie mit der linken Maustaste auf das Feld, welches Sie auf- oder zuklappen wollen.
+
+---
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Pivot-Tabelle/Design/20.png)
+
+---
+
+#### *Datenfeld*
+
+In dem Datenfeld ziehen Sie aus dem Sekundärbereich der Feldliste die Felder, welche Werte enthalten, die Sie gern aggregieren möchten.
 
 1) Klicken Sie mit der linken Maustaste auf das Feld, welches Sie in den Bereich Datenfeld einfügen wollen und halten Sie die Taste gedrückt.
 
 ---
-![](/assets/f23.png)
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Pivot-Tabelle/Design/23.png)
 
 ---
 
 2) Ziehen Sie das Feld in den Bereich Datenfeld und lassen Sie die linke Maustaste los.
 
 ---
-![](/assets/f24.png)
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Pivot-Tabelle/Design/24.png)
 
 ---
  
-> **Hinweis**: Sie können weitere Felder aus dem Sekundärbereich der Feldliste in den Bereich Datenfelder ziehen. Gehen Sie dazu wie oben beschrieben vor und platzieren Sie das Feld an der gewünschten Stelle und lassen Sie dann erst die linke Maustaste los. Das Feld wird an dieser Stelle eingefügt.
+> **Hinweis:** Sie können weitere Felder aus dem Sekundärbereich der Feldliste in den Bereich Datenfelder ziehen. Gehen Sie dazu wie oben beschrieben vor und platzieren Sie das Feld an der gewünschten Stelle und lassen Sie dann erst die linke Maustaste los. Das Feld wird an dieser Stelle eingefügt.
 
 ---
-![](/assets/f25.png)
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Pivot-Tabelle/Design/25.png)
 
 ---
 

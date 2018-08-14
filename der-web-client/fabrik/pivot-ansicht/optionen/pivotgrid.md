@@ -1,74 +1,83 @@
-### Feldliste
+####PivotGrid
 
-Die Feldliste enthält die Elemente, die in die Zeilen-, Spalten- und Datenfelder einer Pivot-Tabelle gezogen werden können.
+In diesem Menü können Sie die Eigenschaften der Pivot-Tabelle ändern.
 
----
-![](/assets/f5.png)
+#####Allgemein
 
----
-
-Der Feldlisten-Bereich unterteilt sich in einen Primär- und einen Sekundärbereich. Je nachdem welches Feld Sie im Primärbereich gewählt haben, wird Ihnen im Sekundärbereich eine andere Auswahl an Feldern angezeigt.
-
-#### Primärbereich
-
-Durch die Auswahl eines Feldes im Primärbereich werden die aus der Datenbank ausgelesen Daten bereits vorgefiltert. Die Felder sind Summary, Profit, Cash, Balance, Text und Numeric und ihr Filtermerkmale werden in der untenstehenden Tabelle beschrieben.
-
-Darüber hinaus wird Ihnen im Primärbereich ein Reiter **Data Factory** angezeigt, der den aktuellen Inhalt der [DataFactory-Homepage](www.datafactory.co) darstellt. 
+In diesem Tab haben Sie die Option die gesamte Pivot-Tabelle ein- und auszublenden um sich bspw. nur das Pivot-Diagramm anzeigen zu lassen.
 
 ---
-![](/assets/wfab1.png)
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Optionen/PivotGrid/pivotgrid_1.png)
 
 ---
 
-|Feld|Filtermerkmal|
-|-|-|
-|Summary|Es werden alle numerischen Werte für die ausgewählte Fabrik angezeigt. Die Auswahl der Sekundärfelder ist bei dieser Option stark reduziert.| 
-|Profit|Es werden alle numerischen Werte für die ausgewählte Fabrik angezeigt, denen der betriebswirtschaftliche Effekt "Ertrag" oder "Kosten" zugeordnet wurde.|
-|Cash|Es werden alle numerischen Werte für die ausgewählte Fabrik angezeigt, denen der betriebswirtschaftliche Effekt "Einzahlung" oder "Auszahlung" zugeordnet wurde.|
-|Balance|Es werden alle numerischen Werte für die ausgewählte Fabrik angezeigt, denen der betriebswirtschaftliche Effekt "Aktivbestand" oder "Passivbestand" zugeordnet wurde.|
-|Text|Es werden alle nicht-numerischen Werte für die ausgewählte Fabrik angezeigt|
-|Numeric|Es werden alle numerischen Werte für die ausgewählte Fabrik angezeigt. Die Auswahl der Sekundärfelder ist bei dieser Option nicht eingeschränkt.|
-|DataFactory|Es wird der Inhalt der [DataFactory-Homepage](www.datafactory.co) angezeigt.|
+#####Faktenformate
 
-
-
-#### Sekundärbereich
-
-Nach der Auswahl eines Feldes im Primärbereich stehen Ihnen im Sekundärbereich verschiedene Felder zur Verfügung, die Sie als Zeilen-, Spalten- und Datenfelder in Ihrer Pivot-Tabelle verwenden können.
+Hier haben Sie die Möglichkeit die Formatierung Zeitangaben und Zahlen zu ändern bzw. auf den Standard zurückzusetzen.
 
 ---
-![](/assets/f8.png)
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Optionen/PivotGrid/pivotgrid_2.png)
 
 ---
 
-##### *Felder ein- und ausblenden*
-
-Sie haben die Möglichkeit, die Auswahl an angezeigten Feldern im Sekundärbereich anzupassen. Klicken Sie dazu mit der rechten Maustaste auf das entsprechende Feld und wählen Sie **Ausblenden**
+Wählen Sie dazu als erstes im Dropdown-Menü **Datenfeld** das zu verändernde Datenformat.
 
 ---
-![](/assets/f10.png)
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Optionen/PivotGrid/pivotgrid_3.png)
 
 ---
 
-Um ein Feld wieder einzublenden, klicken Sie mit der rechten Maustaste in den Sekundärbereich und wählen Sie **Feldliste einblenden**
+Als nächstes wählen Sie ihre gewünschte Formatierung aus dem Dropdown-Menü **Genauigkeit** aus.
 
 ---
-![](/assets/f13.png)
-
----
-
-Es öffnet sich ein Fenster, in dem Ihnen alle Felder angezeigt werden, die Sie ausgeblendet haben. 
-
----
-![](/assets/f14.png)
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Optionen/PivotGrid/pivotgrid_4.png)
 
 ---
 
-Klicken Sie auf das Feld, welches Sie einblenden wollen und ziehen Sie es mit gedrückter linker Maustaste zurück in den Sekundärbereich. Platzieren Sie das Feld an der gewünschten Stelle im Sekundärbereich und lassen Sie die linke Maustaste los. Das Feld wird an dieser Stelle eingefügt.
+Bestätigen Sie Ihre Auswahl mit Klick auf **Anwenden**.
 
 ---
-![](/assets/f15.png)
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Optionen/PivotGrid/pivotgrid_5.png)
+
 ---
 
+>**Hinweis:** Diese Funktion ist hilfreich sollte das Programm bspw. Zeitangaben fälschlicher Weise als Zahlen darstellen.
 
+#####Spaltenbreite ändern
 
+An dieser Stelle können Sie die Spaltenbreite für einzelne Elemente individualisieren.
+
+---
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Optionen/PivotGrid/pivotgrid_6.png)
+
+---
+
+Als erstes wählen Sie dazu das zu ändernde Element im Dropdown-Menü **Feld**.
+
+---
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Optionen/PivotGrid/pivotgrid_7.png)
+
+---
+
+Abschließend geben Sie in dem Textfeld **Feldbreite** die gewünschte Spaltenbreite in Pixel? an und bestätigen Ihre Eingaben mit Klick auf **Anwenden**.
+
+---
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Optionen/PivotGrid/pivotgrid_8.png)
+
+---
+
+>**Hinweis:** Die Spaltenbreite kann eine Mindestbreite nicht unterschreiten. Ein Ausblenden der Spalte auf diese Weise ist somit nicht möglich.
+
+#####Summen
+
+In diesem Untermenü können Sie festlegen ob
+*Zeilensummen
+*Zeilen-Zwischensummen
+*Spaltensummen oder
+*Spalten-Zwischensummen
+angezeigt werden sollen.
+
+---
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Optionen/PivotGrid/pivotgrid_9.png)
+
+---

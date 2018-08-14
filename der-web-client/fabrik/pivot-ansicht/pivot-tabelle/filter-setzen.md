@@ -5,21 +5,21 @@ Um sich für ein Feld nur bestimmte Werte in Ihrer Pivot-Tabelle anzeigen zu las
 1) Klicken Sie auf das Trichter-Symbol rechts von der Feldüberschrift in welchem Sie Filtern möchten. Es werden Ihnen zunächst alle möglichen Werte innerhalb des Feldes angezeigt.
 
 ---
-![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Filter setzen/filter_setzen_1.png)
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Pivot-Tabelle/Filtern/filtern_1.png)
 
 ---
 
 2) Wählen Sie einen oder mehrere Werte aus, die Sie in Ihrem Filter aufnehmen wollen und klicken Sie auf **Ok**
 
 ---
-![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Filter setzen/filter_setzen_2.png)
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Pivot-Tabelle/Filtern/filtern_2.png)
 
 ---
 
-3) Der gewünschte Filter wurde übernommen. Wenn ein Filter in einem Feld gesetzt wurde, ist der Trichter des Feldes **rot** markiert.
+3) Der gewünschte Filter wurde übernommen. Wenn ein Filter in einem Feld aktiv ist, ist der Trichter des Feldes **rot** markiert.
 
 ---
-![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Filter setzen/filter_setzen_3.png)
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Pivot-Tabelle/Filtern/filtern_3.png)
 
 ---
 

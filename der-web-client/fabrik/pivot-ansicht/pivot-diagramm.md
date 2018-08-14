@@ -11,23 +11,44 @@ Die Struktur des Pivot-Diagramms entspricht der Struktur Ihrer Pivot-Tabelle. D.
 
 #### *Darstellung*
 
-Im Dropdown-Menü **Diagrammtyp** können Sie auswählen, in welcher Art Sie Ihre Werte graphisch darstellen wollen. Die Diagrammtypen, die Sie bereits aus Excel kennen, stehen Ihnen auch hier zur Verfügung wie bspw. Säulen- oder Balkendiagramme, Kreis- oder Ringdiagramme, etc.
-
-1) Klicken Sie auf die Dropdown-Auswahl und wählen Sie den von Ihnen gewünschten Diagrammtyp.
+Öffnen Sie das Dialogfenster **Optionen**, welches sich in der Buttonleiste befindet.
 
 ---
-![](/assets/f32.png)
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Pivot-Diagramm/diagramm_1.png)
 
 ---
 
-2) Das Diagramm wird entsprechen Ihrer Auswahl angepasst.
+Im Menüpunkt "Diagramm" finden Sie das Steuerelement um die grafische Darstellung zu aktivieren.
 
 ---
-![](/assets/f33.png)
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Pivot-Diagramm/diagramm_2.png)
 
 ---
 
-> **Hinweis**: Wenn Sie mit Ihrem Mauszeiger über die Graphen fahren, werden Ihnen die Werte zu diesen Graphen angezeigt.
+Markieren Sie das Steuerelement **Diagramm anzeigen** mit einem Haken durch Klick auf das Element. Standardmäßig wird nun das Pivot-Diagramm unterhalb der Pivot-Tabelle angezeigt.
+
+---
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Pivot-Diagramm/diagramm_3.png)
+
+---
+
+Im Untermenü **Diagramm Typ** können Sie auswählen, in welcher Art die Werte graphisch dargestellt werden sollen. Die Diagrammtypen, die Sie bereits aus Excel kennen, stehen Ihnen auch hier zur Verfügung wie bspw. Säulen- oder Balkendiagramme, Kreis- oder Ringdiagramme, etc.
+
+---
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Pivot-Diagramm/diagramm_4.png)
+
+---
+
+Klicken Sie auf die Dropdown-Auswahl und wählen Sie den von Ihnen gewünschten Diagrammtyp.
+
+---
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Pivot-Diagramm/diagramm_5.png)
+
+---
 
 
+<!---
 
+> **Hinweis:** Wenn Sie mit Ihrem Mauszeiger über die Graphen fahren, werden Ihnen die Werte zu diesen Graphen angezeigt.
+
+-->

@@ -5,6 +5,6 @@ Wenn Sie eine Fabrik betreten und sich die Pivot-Ansicht anzeigen lassen, werden
 1) Nutzen Sie dazu die Funktion des Internetbrowsers. Klicken Sie den Button zum aktualisieren der Seite oder drücken Sie **F5**.
 
 ---
-![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Daten akutalisieren/daten_aktualisieren_1.png)
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Daten aktualisieren/daten_aktualisieren_1.png)
 
 ---

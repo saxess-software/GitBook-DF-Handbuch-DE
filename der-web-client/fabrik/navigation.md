@@ -7,14 +7,14 @@
 
 ---
 
->**Hinweis:** Hinter den Namen der Fabriken finden Sie in Klammern stehend die ID der Fabriken.
-
 Durch Klick auf den Dropdown-Pfeil links neben einer Fabrik werden Ihnen die zugeordneten Produktlinien angezeigt.
 
 ---
 ![](/Pictures/Web-Client/Fabrik/Navigation/navigation_2.png)
 
 ---
+
+>**Hinweis:** Hinter den Namen der Fabriken und Produktlinien finden Sie in Klammern stehend die ID der Fabriken.
 
 ---
 ![](/Pictures/Web-Client/Fabrik/Navigation/navigation_3.png)

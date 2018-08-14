@@ -59,6 +59,27 @@ Geben Sie dazu einen Suchbegriff in das Textfeld ein und bestätigen Sie mit der
 
 ---
 
+Bei Bedarf lassen sich die Suchergebnisse durch Sortier- und Filterfunktionen ordnen. Um die Suchergebnisse zu sortieren Klicken Sie auf die jeweilige Spalte nach der sortiert werden soll.
+
+---
+![](/Pictures/Web-Client/Werk/werk_8.png)
+
+---
+
+Es wird ein Pfeil angezeigt, der wiedergibt ob die Spalte auf- oder absteigend sortiert wird.
+
+---
+![](/Pictures/Web-Client/Werk/werk_9.png)
+
+---
+
+Tippen Sie einen Filterbegriff, bspw. eine Fabrik- oder Produkt-ID, in die Filterzeile ein um die Suchergebnisse zu filtern.
+
+---
+![](/Pictures/Web-Client/Werk/werk_10.png)
+
+---
+
 **3) Nutzername**
 
 Mit einem Klick auf den Nutzernamen und den drei vertikal angeordneten Punkten öffnet sich ein Kontextmenü mit dem Sie die Möglichkeit haben:
@@ -68,16 +89,16 @@ Mit einem Klick auf den Nutzernamen und den drei vertikal angeordneten Punkten �
 * Informationen über DataFactory aufzurufen
 
 ---
-![](/Pictures/Web-Client/Werk/werk_8.png)
+![](/Pictures/Web-Client/Werk/werk_11.png)
 
 ---
 
 ---
-![](/Pictures/Web-Client/Werk/werk_9.png)
+![](/Pictures/Web-Client/Werk/werk_12.png)
 
 ---
 
 ---
-![](/Pictures/Web-Client/Werk/werk_10.png)
+![](/Pictures/Web-Client/Werk/werk_13.png)
 
 ---
