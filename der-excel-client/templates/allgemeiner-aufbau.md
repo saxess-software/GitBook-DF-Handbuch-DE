@@ -3,8 +3,7 @@
 Ein Template besteht strukturell immer aus drei wesentlichen Bestandteilen: Zeitachse, Wertreihe und Wertebereich.
 
 ---
-
-![](/assets/t1.png)
+![](/Pictures/Excel-Client/Templates/Allgemeiner Aufbau/allgemeiner_aufbau_1.png)
 
 ---
 
@@ -13,18 +12,16 @@ Ein Template besteht strukturell immer aus drei wesentlichen Bestandteilen: Zeit
 Die Zeitachse eines Template bestimmt den Detailgrad der zeitlichen Dimension bei der Erfassung der Werte \(z.B. Erfassung von Daten auf Tages-, Monats oder Jahresbasis\).
 
 ---
-
-![](/assets/t3.png)
+![](/Pictures/Excel-Client/Templates/Allgemeiner Aufbau/allgemeiner_aufbau_2.png)
 
 ---
 
-> **Hinweis**: Die Zeitachse ist nicht an einen Kalender gebunden, sondern sie ist vollkommen individuell konfigurierbar.
+> **Hinweis:** Die Zeitachse ist nicht an einen Kalender gebunden, sondern sie ist vollkommen individuell konfigurierbar.
 
 Bei der Erfassung von zeitunabhängigen Daten ist die Zeitachse eine sog. Pseudozeitachse und ermöglicht die Erfassung von Listen.
 
 ---
-
-![](/assets/t4.png)
+![](/Pictures/Excel-Client/Templates/Allgemeiner Aufbau/allgemeiner_aufbau_3.png)
 
 ---
 
@@ -33,8 +30,7 @@ Bei der Erfassung von zeitunabhängigen Daten ist die Zeitachse eine sog. Pseudo
 Wertreihen definieren die Charaktereigenschaften der Werte, die Sie später in den Wertebereich eingeben. In der Standardansicht eines Template sehen Sie den Namen und die ID einer Wertreihe.
 
 ---
-
-![](/assets/t5.png)
+![](/Pictures/Excel-Client/Templates/Allgemeiner Aufbau/allgemeiner_aufbau_4.png)
 
 ---
 
@@ -114,8 +110,7 @@ Jede Wertreihe besitzt eine Reihe von Eigenschaften und Optionen.
 Die Eigenschaften und Optionen werden durch das Klicken auf die Schaltfläche **Details zeigen** sichtbar.
 
 ---
-
-![](/assets/t6.png)
+![](/Pictures/Excel-Client/Templates/Allgemeiner Aufbau/allgemeiner_aufbau_5.png)
 
 ---
 
@@ -124,22 +119,20 @@ Die Eigenschaften und Optionen werden durch das Klicken auf die Schaltfläche **
 Der Wertebereich ist der Bereich, in dem die konkreten Daten erfasst werden.
 
 ---
-
-![](/assets/t7.png)
+![](/Pictures/Excel-Client/Templates/Allgemeiner Aufbau/allgemeiner_aufbau_6.png)
 
 ---
 
 Je nachdem wie die Wertreihen definiert sind, können Sie hier Daten frei eingeben und erfassen. Es können sämtliche Excel Formeln genutzt werden.
 
-> **Hinweis**: Formeln werden in den Wertreihen nur gespeichert, wenn die Wertreihe vom Typ XLS oder XLS-Strict definiert ist. Andernfalls werden nur die Werte gespeichert.
+> **Hinweis:** Formeln werden in den Wertreihen nur gespeichert, wenn die Wertreihe vom Typ XLS oder XLS-Strict definiert ist. Andernfalls werden nur die Werte gespeichert.
 
 #### Orientierung und Namenskonvention
 
 Ein Template ist entweder horizontal oder vertikal orientiert. Die Orientierung basiert auf einer Namenskonvention und wird durch das angehängte Suffix bestimmt.
 
 ---
-
-![](/assets/t8.png)
+![](/Pictures/Excel-Client/Templates/Allgemeiner Aufbau/allgemeiner_aufbau_7.png)
 
 ---
 
@@ -166,8 +159,7 @@ Das Suffix hat sowohl Auswirkung auf die Orientierung als auch auf die Zeitachse
 > **Hinweis**: Die Wahl der Zeitachsendarstellung hat einen Einfluss auf die Darstellungsweise der einzelnen Zeilen. Bei der Tagesdarstellung wird der letzte Tag des Monats vom ersten Tag des darauffolgenden Monats durch eine dicke Rahmenlinie abgegrenzt. Bei der Monatsdarstellung wrid der letzte Monat des Jahres vom ersten Monat des darauffolgenden Jahres auf diese Art abgegrenzt.
 
 ---
-
-![](/assets/Temp3.png)
+![](/Pictures/Excel-Client/Templates/Allgemeiner Aufbau/allgemeiner_aufbau_8.png)
 
 ---
 
@@ -178,18 +170,13 @@ Es besteht jederzeit die Möglichkeit, das Template zu drehen. Dies ist zum eine
 Im Template selbst können Sie durch Klick auf den Button **Drehen** zwischen vertikaler und horizontaler Ansicht wechseln. Allerdings ist das Speichern nur in der Ansicht möglich, die durch die Namenskonvention vorgeben wird.
 
 ---
-
-![](/assets/Temp1.png)
+![](/Pictures/Excel-Client/Templates/Allgemeiner Aufbau/allgemeiner_aufbau_9.png)
 
 ---
 
 In der Produktübersicht können Sie die Orientierung des Templates durch Änderung der Namenskonvention ändern. Ersetzen Sie in der Spalte **Template** den ersten Buchstaben des Suffixes durch den gewünschten Buchstaben und klicken Sie auf **Speichern**. Diese Änderung ist permanent.
 
 ---
-
-![](/assets/Temp2.png)
+![](/Pictures/Excel-Client/Templates/Allgemeiner Aufbau/allgemeiner_aufbau_10.png)
 
 ---
-
-
-

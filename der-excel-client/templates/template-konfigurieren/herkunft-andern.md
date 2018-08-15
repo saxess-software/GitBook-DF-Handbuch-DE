@@ -15,15 +15,13 @@ Um die Herkunft einer Wertreihe zu ändern, gehen Sie wie folgt vor:
 1) Gehen Sie zu der Wertreihe, deren Herkunft Sie ändern möchten, öffnen Sie in der Zeile **Herkunft** das Dropdown Menü und wählen Sie Ihre gewünschte Herkunft aus.  
 
 ---
-![](/assets/t34.png)
+![](/Pictures/Excel-Client/Templates/Template konfigurieren/Herkunft ändern/herkunft_aendern_1.png)
 
 ---
 
 2) Klicken Sie auf die Schaltfläche **Speichern**, um Ihre Auswahl zu speichern.  
 
 ---
-![](/assets/t35.png)
+![](/Pictures/Excel-Client/Templates/Template konfigurieren/Herkunft ändern/herkunft_aendern_2.png)
 
 ---
-
-  

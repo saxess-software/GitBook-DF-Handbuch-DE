@@ -15,10 +15,10 @@ Sie können die Funktion **PowerLaden** auf unterschiedlichen Ebenen Ihres Clust
 
 |Ebene|ActionLink|Menü|
 |-|-|-|
-|Werk|![](/assets/p42.png)|![](/assets/p43.png)|
-|Fabrik|![](/assets/p44.png)|![](/assets/p45.png)|
-|Produktlinie|![](/assets/p40.png)|![](/assets/p41.png)|
-|Produktlinie|![](/assets/p25.png)| ![](/assets/p31.png)| 
+|Werk|![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_1.png)|![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_2.png)|
+|Fabrik|![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_3.png)|![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_4.png)|
+|Produktlinie|![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_5.png)|![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_6.png)|
+|Produktlinie|![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_7.png)| ![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_8.png)| 
 
 
 #### *Durchführen des PowerLaden-Vorgangs*
@@ -28,20 +28,20 @@ Sie können die Funktion **PowerLaden** auf unterschiedlichen Ebenen Ihres Clust
 > ** Hinweis**: Indem Sie mit gedrückter linker Maustaste über die gewünschten Produkte fahren, erfolgt eine Mehrfachselektion.
 
 ---
-![](/assets/p32.png) 
+![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_9.png) 
 
 ---
 
 2) Wählen Sie im Dropdown-Menü Ihre gewünschte Einstellung und klicken Sie auf **Ausführen**, um die Funktion auszuführen.   
  
- ---
-![](/assets/p33.png) 
+---
+![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_10.png) 
 
 ---
 
 5) Nach dem Ausführen sehen Sie den Status der geladenen Produkte.
 
 ---
-![](/assets/p34.png) 
+![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_11.png) 
 
 ---

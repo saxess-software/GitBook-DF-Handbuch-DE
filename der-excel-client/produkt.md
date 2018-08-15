@@ -5,7 +5,7 @@ Ein Produkt ist in DataFactory ein datentragendes Objekt. In einem Produkt werde
 Jedes Produkt basiert auf einem Template, d.h. auf einer Vorlage aus der es entstanden ist.  
 
 ---
-![](/assets/p1.png)
+![](/Pictures/Excel-Client/Produkt/produkt_1.png)
 
 ---
 

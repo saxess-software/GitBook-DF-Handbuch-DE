@@ -3,7 +3,7 @@
 Unikum Templates sind die allgemeinste Form von Templates. Sie sind standardmäßig Bestandteil jeder DataFactory und im Werk **Templates** in der Produktlinie **Unikum** organisiert.  
 
 ---
-![](/assets/t2.png)
+![](/Pictures/Excel_Client/Templates/Unikum Templates/unikum_templates_1.png)
 
 ---
 
@@ -18,4 +18,4 @@ Es stehen Ihnen standardmäßig folgende Templates zur Verfügung:
 * 	Einfache Liste
 * 	Gruppierte Liste  
 
-Sie betreten ein Template, indem Sie auf den Namen des Template klicken.  
+Sie betreten ein Template, indem Sie auf den Namen des Template klicken.
