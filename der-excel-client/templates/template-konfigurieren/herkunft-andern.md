@@ -1,18 +1,18 @@
 #### *Herkunft ändern*  
 
-
-Das Feld **Herkunft** an, woher die Werte stammen
+Das Feld **Herkunft** gibt an, woher die Werte stammen.
 
 | Einstellung | Beschreibung |
 | : | :|
 | Input | Dateneingabe direkt in Excel, keine Einschränkung |
 | Link | Bietet die Möglichkeit einen Link zu hinterlegen (bspw. zu einem Dokument oder einer Website) |
-| XLS | Werte durch eine Formal berechnen lassen. Die Excel-Formel kann immer überschrieben und bearbeitet werden |
-| XLS Strict | Werte durch eine Formel berechnen lassen. Die Excel-Formel kann nur bei aufgeklappten Details überschrieben und bearbeitet werden |
+|List-Strict|Dateneingabe nur über Dropdown-Menü - Werteliste bestimmt mögliche Dateneingaben|
+| XLS | Werte durch eine Formel berechnen lassen - die Excel-Formel kann immer überschrieben und bearbeitet werden |
+| XLS Strict | Werte durch eine Formel berechnen lassen - die Excel-Formel kann nur bei aufgeklappten Details überschrieben und bearbeitet werden |
 
 Um die Herkunft einer Wertreihe zu ändern, gehen Sie wie folgt vor:
 
-1) Gehen Sie zu der Wertreihe, deren Herkunft Sie ändern möchten, öffnen Sie in der Zeile **Herkunft** das Dropdown Menü und wählen Sie Ihre gewünschte Herkunft aus.  
+1) Gehen Sie zu der Wertreihe, deren Herkunft Sie ändern möchten, öffnen Sie in der Zeile **Herkunft** das Dropdown Menü und wählen Sie die gewünschte Herkunft aus.
 
 ---
 ![](/Pictures/Excel-Client/Templates/Template konfigurieren/Herkunft ändern/herkunft_aendern_1.png)

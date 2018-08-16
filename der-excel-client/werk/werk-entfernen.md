@@ -2,7 +2,7 @@
 
 Um ein Werk zu entfernen, gehen Sie wie folgt vor:  
 
-1) Klicken Sie auf den ActionLink **Verbindungen und Sprache**.  
+1) Klicken Sie auf den **ActionLink** innerhalb der Werksübersicht.  
 
 ---
 ![](/Pictures/Excel-Client/Werk/Werk entfernen/werk_entfernen_1.png)
@@ -25,7 +25,7 @@ Um ein Werk zu entfernen, gehen Sie wie folgt vor:
 
 ---
 
-5) Klicken Sie auf den Button **Verbindung löschen**.  
+5) Klicken Sie auf den Button **Löschen**.
 
 ---
 ![](/Pictures/Excel-Client/Werk/Werk entfernen/werk_entfernen_4.png)

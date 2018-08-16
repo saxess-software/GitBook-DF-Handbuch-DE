@@ -46,11 +46,11 @@ Um den Excel-Client herunterzuladen, müssen Sie sich zunächst zunächst auf **
 
 ---
 
-> **Hinweis**: Bei der heruntergeladenen Datei handelt es sich um eine .zip-Datei, d.h. eine Datei, deren Inhalt komprimiert wurde. Diese muss zunächst entpackt werden.
+> **Hinweis:** Bei der heruntergeladenen Datei handelt es sich um eine .zip-Datei, d.h. eine Datei, deren Inhalt komprimiert wurde. Diese muss zunächst entpackt werden.
 
 #### Datei entpacken und öffnen
 
-1) Öffnen Sie den Ordner, in welchen Sie die Download-Datei gespeichert haben und klicken Sie auf mit der rechten Maustaste auf die .zip-Datei. Es öffnet sich ein Fenster, in welchem Sie die Option **Alle extrahieren...** auswählen.
+1) Öffnen Sie den Ordner, in welchen Sie die Download-Datei gespeichert haben und klicken Sie mit der rechten Maustaste auf die .zip-Datei. Es öffnet sich ein Fenster, in welchem Sie die Option **Alle extrahieren...** auswählen.
 
 ---
 ![](/Pictures/Excel-Client/Installation/installation_6.png)
@@ -84,5 +84,5 @@ Wenn Sie eine DataFactory-Datenbank auf Ihrem eigenen Server nutzen wollen, bitt
 
 ### Update des Excel-Clients
 
-Den aktuellen Release des Excel-Clients finden Sie auf <https://planning-factory.com>. Laden Sie ihn dort herunter und installieren Sie Ihn wie Kapitel [Updates](updates.md) beschrieben.
+Den aktuellen Release des Excel-Clients finden Sie auf <https://planning-factory.com>. Laden Sie ihn dort herunter und installieren Sie Ihn wie Kapitel [Updates](../../updates.md) beschrieben.
 

@@ -22,5 +22,5 @@ Im Arbeitsbereich der Werksübersicht befinden sich die zur Verfügung stehenden
 ---
 
 
->**Hinweis**: Sofern Ihnen noch keine Cluster zur Verfügung stehen, erscheint der Text: „kein Keyfiles in Verzeichnis…“ 
+>**Hinweis:** Sofern Ihnen noch keine Cluster zur Verfügung stehen, erscheint der Text: „kein Keyfiles in Verzeichnis…“ 
 

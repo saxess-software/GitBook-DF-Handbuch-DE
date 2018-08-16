@@ -2,7 +2,7 @@
 
 ### Update des Excel-Clients
 
-Das aktuelle Release des Excel-Clients finden Sie auf <https://planning-factory.com>. Laden Sie ihn dort herunter und installieren Sie Ihn wie in Kapitel [Installation 1.1 & 1.2](installation-und-update.md) beschrieben.
+Das aktuelle Release des Excel-Clients finden Sie auf <https://planning-factory.com>. Laden Sie ihn dort herunter und installieren Sie Ihn wie in Kapitel [Installation](installation-und-update.md) beschrieben.
 
 Die Verbindungen zu Ihren DataFactory-Datenbanken haben Sie bereits über Ihre bisherigen Excel-Client-Versionen definiert. Für jede Datenbankverbindung, die Sie in Ihrem Excel-Client anlegen, wird eine sogenannte Key-File erstellt und in Ihrem DataFactory-Ordner **+** abgelegt. Lesen Sie dazu mehr in Kapitel [Keys](werk/keys.md).
 
@@ -31,5 +31,4 @@ Die Verbindungen zu Ihren DataFactory-Datenbanken haben Sie bereits über Ihre b
 
 ### Update der API
 
-Es kann notwendig sein, ein Update der API durchzuführen. Sollte die Versionsnummer der Datei nicht der Versionsnummer des Servers entsprechen, bitten Sie den Administrator diesen zu updaten. Sollten Sie selbst der Administrator sein, lesen Sie in Kapitel [DataFactory-Datenbank](../installation-der-datafactory-datenbank.md) weiter.
-
+Es kann notwendig sein, ein Update der API durchzuführen. Sollte die Versionsnummer der Datei nicht der Versionsnummer des Servers entsprechen, bitten Sie den Administrator diesen zu updaten. Sollten Sie selbst der Administrator sein, lesen Sie in Kapitel [Installation der DataFactory-Datenbank](../installation-der-datafactory-datenbank.md) weiter.

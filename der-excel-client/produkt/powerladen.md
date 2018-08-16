@@ -11,14 +11,14 @@ Die Funktion **PowerLaden** kommt insbesondere dann zur Anwendung, nachdem Sie D
 
 #### *Ebenen*
 
-Sie können die Funktion **PowerLaden** auf unterschiedlichen Ebenen Ihres Clusters durchführen. Entsprechend der Ebene, die Sie für den PowerLaden-Vorgang ausgewählt haben, reduziert sich Anzahl an Produkten, die Ihnen zum PowerLaden zur Auswahl angeboten werden. 
+Sie können die Funktion **PowerLaden** auf unterschiedlichen Ebenen Ihres Clusters durchführen. Entsprechend der Ebene, die Sie für den PowerLaden-Vorgang ausgewählt haben, reduziert sich die Anzahl an Produkten, die Ihnen zum PowerLaden zur Auswahl angeboten werden.
 
 |Ebene|ActionLink|Menü|
 |-|-|-|
 |Werk|![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_1.png)|![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_2.png)|
 |Fabrik|![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_3.png)|![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_4.png)|
 |Produktlinie|![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_5.png)|![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_6.png)|
-|Produktlinie|![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_7.png)| ![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_8.png)| 
+|Produkt|![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_7.png)| ![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_8.png)| 
 
 
 #### *Durchführen des PowerLaden-Vorgangs*

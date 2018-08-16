@@ -2,7 +2,7 @@
 
 Um die Sprache zu ändern, gehen Sie wie folgt vor: 
 
-1. Klicken Sie auf den ActionLink **Verbindungen und Sprache**.  
+1. Klicken Sie auf den **ActionLink** innerhalb der Werksübersicht.  
 
 ---
 ![](/Pictures/Excel-Client/Werk/Sprache ändern/sprache_aendern_1.png)
@@ -36,4 +36,3 @@ Die Standardsprache der Benutzeroberfläche ist deutsch. Die Umstellung der Stan
 ![](/Pictures/Excel-Client/Werk/Sprache ändern/sprache_aendern_4.png)
 
 ---
-

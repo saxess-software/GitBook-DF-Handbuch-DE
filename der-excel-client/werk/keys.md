@@ -6,6 +6,7 @@ Keys sind in DataFactory Verbindungen zu Clustern. Physisch gesehen sind Keys sp
 ![](/Pictures/Excel-Client/Werk/Keys/keys_1.png)
 
 ---
+
 Standardmäßig befinden sich die Keys im Ordner "Keys" des „+“-Ordners Ihrer DataFactory.  
 Für jede Verbindung zu einem Cluster wird ein Key angelegt.
 
@@ -18,12 +19,9 @@ Sie können weitere Keys-Unterordner definieren, um Ihren DataFactory Arbeitsber
 
 ---
 
-Im Dropdown-Menü "Keyverzeichnis" ist dieser Ordner nun wählbar und es werden alle Cluster angezeigt, für die in diesem Unterordner Keys hinterlegt sind. Da in diesem Key-Unterordner momentan noch keine Keys gespeichert wurden, erscheint die Meldung "Keine Keyfiles in Verzeichnis...". Wie Keys hinterlegt werden bzw. wie man sich mit einem Werk verbindet, wird im nächsten Abschnitt "Werk verbinden" beschrieben.
+Im Dropdown-Menü "Keyverzeichnis" ist dieser Ordner nun wählbar und es werden alle Cluster angezeigt, für die in diesem Unterordner Keys hinterlegt sind. Da in diesem Key-Unterordner momentan noch keine Keys gespeichert wurden, erscheint die Meldung "Keine Keyfiles in Verzeichnis...". Wie Keys hinterlegt werden bzw. wie man sich mit einem Werk verbindet, wird im nächsten Abschnitt [Werk verbinden](../werk-verbinden.md) beschrieben.
 
 ---
 ![](/Pictures/Excel-Client/Werk/Keys/keys_3.png)
 
 ---
-
-
-
