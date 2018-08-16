@@ -11,21 +11,21 @@ Um eine Pivot-Auswertung auf Werksebene zu erstellen, gehen Sie wie folgt vor:
 1) Klicken Sie in der Übersicht Fabriken und Produktlinien auf den ActionLink. wählen Sie die Option **Pivot Ansicht**.  
 
 ---
-![](/assets/lf1.png) 
+![](/Pictures/Excel-Client/Daten auswerten/Pivot auswerten/pivot_auswerten_1.png) 
 
 ---
 
 2) Wählen Sie die Option **Pivot Ansicht**.  
 
 ---
-![](/assets/piv1.png)
+![](/Pictures/Excel-Client/Daten auswerten/Pivot auswerten/pivot_auswerten_2.png)
 
 ---
 
 3) Falls Sie eine DataFactory-Datenbank auf Ihrem eigenen SQL-Server nutzen, öffnet sich automatisch die Pivot-Ansicht. Nutzen Sie allerdings eine http-Verbindung, öffnet sich ein Dialogfeld, wo sie aus folgenden Optionen auswählen können.
 
 ---
-![](/assets/piv2.png)
+![](/Pictures/Excel-Client/Daten auswerten/Pivot auswerten/pivot_auswerten_3.png)
 
 ---
 
@@ -36,15 +36,16 @@ Um eine Pivot-Auswertung auf Werksebene zu erstellen, gehen Sie wie folgt vor:
 |Pivot-Tabelle aus lokaler CSV erstellen|Der DataFactory-Ordner **"csv"** öffnet sich und Sie können eine .csv-Datei auswählen, die Sie in Ihrer Excelmappe anzeigen lassen wollen.|
 
 ---
-![](/assets/piv4.png)
+![](/Pictures/Excel-Client/Daten auswerten/Pivot auswerten/pivot_auswerten_4.png)
 
 ---
 
 4) In der Pivot-Tabelle werden Ihnen alle Werte über alle Fabriken und Produktlinien hinweg angezeigt.
 
 ---
-![](/assets/piv3.png)
+![](/Pictures/Excel-Client/Daten auswerten/Pivot auswerten/pivot_auswerten_5.png)
 
 ---
 
-> **Hinweis**: Sie können sich Ihre Pivot Tabelle frei nach Ihren Wünschen gestalten und anpassen.  
+> **Hinweis 1:** Sie können sich Ihre Pivot Tabelle frei nach Ihren Wünschen gestalten und anpassen.
+> **Hinweis 2:** Eine Auswertung auf Produktlinienebene ist auch möglich. Klicken Sie dazu auf den ActionLink in der Sicht *Produktlinie mit Produkten*.

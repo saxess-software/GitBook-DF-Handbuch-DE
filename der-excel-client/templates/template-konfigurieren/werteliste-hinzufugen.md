@@ -5,16 +5,15 @@ Wenn Sie für eine Wertereihe eine Liste hinterlegen, bedeutet das, dass die Ein
 1) Gehen Sie zu der Wertreihe, der Sie eine Liste zuordnen möchten, öffnen Sie in der Zeile **Werteliste** das Dropdown Menü und wählen Sie Ihre gewünschte Liste aus.  
   
 ---
-![](/assets/t37.png)
+![](/Pictures/Excel-Client/Templates/Template konfigurieren/Weteliste hinzufügen/werteliste_hinzufuegen_1.png)
 
 ---
 
-> **Hinweis**: Es stehen Ihnen standardmäßig eine Reihe von Listen zur Verfügung. Sie können jedoch auch [eigene Listen](../../listen-und-formate.md) anlegen.  
+> **Hinweis:** Es stehen Ihnen standardmäßig eine Reihe von Listen zur Verfügung. Sie können jedoch auch [eigene Listen](../../listen-und-formate.md) anlegen.  
 
 2) Klicken Sie auf die Schaltfläche **Speichern**, um Ihre Auswahl zu speichern.  
 
 ---
-![](/assets/t38.png)
+![](/Pictures/Excel-Client/Templates/Template konfigurieren/Weteliste hinzufügen/werteliste_hinzufuegen_2.png)
 
 ---
-

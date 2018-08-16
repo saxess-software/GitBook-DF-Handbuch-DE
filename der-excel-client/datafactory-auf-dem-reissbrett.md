@@ -13,14 +13,12 @@ Bei der Konzeptionierung des Systems werden Sie sich Fragen stellen wie bspw.:
 
 In den Designprozess fließt eine Vielzahl von Anforderungen von verschiedenen Benutzergruppen ein, weshalb der Überblick schnell verloren gehen kann. Es ist deshalb hilfreich, sich in einem ersten Schritt die verschiedenen Prozesse, Abhängigkeiten und Elemente, die der Anwendungsfall umfasst, zu skizzieren und diese auf Papier in die Struktur von DataFactory zu überführen. Ein gut durchdachtes Konzept und eine klare Vorstellung der Struktur wie Sie in DataFactory abgebildet werden soll, erspart Ihnen viel Zeit beim eigentlichen Lösungsdesign im System.
 
-Für Ihre Konzeptionierung können Sie die folgende Excel-Vorlage im [Download-Bereich]() herunterladen.
+Für Ihre Konzeptionierung können Sie die folgende Excel-Vorlage im [Download-Bereich](/Reissbrett.xlsx) herunterladen.
 
 ---
-![](/assets/Reissbrett1.PNG)
+![](/Pictures/Excel-Client/DataFactory auf dem Reißbrett/reissbrett_1.PNG)
 
 ---
-![](/assets/Reissbrett2.PNG)
+![](/Pictures/Excel-Client/DataFactory auf dem Reißbrett/reissbrett_2.PNG)
 
 ---
-
-

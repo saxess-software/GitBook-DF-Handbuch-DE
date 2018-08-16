@@ -2,7 +2,7 @@
 
 Listen und Formate werden in DataFactory zentral für ein Werk verwaltet und sind in allen Hierarchieebenen gleichermaßen einsetzbar. Es existieren in DataFactory jeweils 3 Typen von Listen, die jeweils durch ein bestimmtes Präfix gekennzeichnet sind.  
 
-> **Hinweis**: Legen Sie eigene Listen und Formate immer mit dem Präfix **c** an. 
+> **Hinweis:** Legen Sie eigene Listen und Formate immer mit dem Präfix **c** an. 
 
 |Präfix|Name|Beschreibung|
 |:|:|:|

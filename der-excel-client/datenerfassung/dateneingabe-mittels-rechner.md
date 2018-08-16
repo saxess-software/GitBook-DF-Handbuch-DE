@@ -19,28 +19,28 @@ Um Werte mit Hilfe des Rechners einzufügen, gehen Sie wie folgt vor:
 1) Öffnen Sie den Rechner, indem Sie mit der rechten Maustaste in ein Feld des Wertebereichts klicken.
 
 ---
-![](/assets/d3.png)
+![](/Pictures/Excel-Client/Datenerfassung/Dateneingabe mittels Rechner/dateneingabe_mittels_rechner_1.png)
 
 ---
 
 2) Geben Sie im Feld **Wert** den Wert ein, den Sie einfügen wollen.  
 
 ---
-![](/assets/d4.png)
+![](/Pictures/Excel-Client/Datenerfassung/Dateneingabe mittels Rechner/dateneingabe_mittels_rechner_2.png)
 
 ---
 
 3) Markieren Sie die Zellen, in den Sie den Wert einfügen wollen und klicken Sie auf den Button **=**.  
 
 ---
-![](/assets/d5.png)
+![](/Pictures/Excel-Client/Datenerfassung/Dateneingabe mittels Rechner/dateneingabe_mittels_rechner_3.png)
 
 ---
 
 4) Der eingegebene Wert wird jedem Wert in den markierten Zellen eingefügt.  
 
 ---
-![](/assets/d6.png)
+![](/Pictures/Excel-Client/Datenerfassung/Dateneingabe mittels Rechner/dateneingabe_mittels_rechner_4.png)
 
 ---
 
@@ -51,20 +51,20 @@ Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:
 1) Geben Sie im Feld **Wert** den Wert ein, den Sie Addieren wollen. 
 
 ---
-![](/assets/d7.png)
+![](/Pictures/Excel-Client/Datenerfassung/Dateneingabe mittels Rechner/dateneingabe_mittels_rechner_5.png)
 
 ---
 
 2) Markieren Sie die Zellen, zu denen Sie den Wert addieren wollen und klicken Sie auf den Button **+**.  
    
 ---
-![](/assets/d8.png)
+![](/Pictures/Excel-Client/Datenerfassung/Dateneingabe mittels Rechner/dateneingabe_mittels_rechner_6.png)
 
 ---
 3) Der eingegebene Wert wird jedem Wert in den markierten Zellen hinzu addiert.  
 
 ---
-![](/assets/d9.png)
+![](/Pictures/Excel-Client/Datenerfassung/Dateneingabe mittels Rechner/dateneingabe_mittels_rechner_7.png)
 
 ---
 
@@ -73,44 +73,44 @@ Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:
 1) Geben Sie im Feld **Wert** den Wert ein, den Sie subtrahieren wollen.  
 
 ---
-![](/assets/d10.png)
+![](/Pictures/Excel-Client/Datenerfassung/Dateneingabe mittels Rechner/dateneingabe_mittels_rechner_8.png)
 
 ---
 
 2) Markieren Sie die Zellen, von denen Sie den Wert subtrahieren wollen und klicken Sie auf den Button **-**.  
 
 ---
-![](/assets/d11.png)
+![](/Pictures/Excel-Client/Datenerfassung/Dateneingabe mittels Rechner/dateneingabe_mittels_rechner_9.png)
 
 --- 
 
 3) Der eingegebene Wert wird von jedem Wert in den markierten Zellen subtrahiert.  
 
 ---
-![](/assets/d12.png)
+![](/Pictures/Excel-Client/Datenerfassung/Dateneingabe mittels Rechner/dateneingabe_mittels_rechner_10.png)
 
 ---
 
-#### *Multiplikation ( ** )* 
+#### *Multiplikation ( \* )*
 
 1) Geben Sie im Feld **Wert** den Wert ein, mit dem Sie multiplizieren wollen.   
 
 ---
-![](/assets/d13.png)
+![](/Pictures/Excel-Client/Datenerfassung/Dateneingabe mittels Rechner/dateneingabe_mittels_rechner_11.png)
 
 ---
 
-2) Markieren Sie die Zellen, die mit dem Wert multipliziert werden sollen und klicken Sie auf den Button *.  
+2) Markieren Sie die Zellen, die mit dem Wert multipliziert werden sollen und klicken Sie auf den Button *****.  
 
 ---
-![](/assets/d14.png)
+![](/Pictures/Excel-Client/Datenerfassung/Dateneingabe mittels Rechner/dateneingabe_mittels_rechner_12.png)
 
 ---  
 
 3) Der eingegebene Wert wird mit jedem Wert in den markierten Zellen multipliziert.  
 
 ---
-![](/assets/d15.png)
+![](/Pictures/Excel-Client/Datenerfassung/Dateneingabe mittels Rechner/dateneingabe_mittels_rechner_13.png)
 
 ---
  
@@ -119,20 +119,20 @@ Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:
 1) Geben Sie im Feld **Wert** den Wert ein, durch den Sie dividieren wollen.  
 
 ---
-![](/assets/d16.png)
+![](/Pictures/Excel-Client/Datenerfassung/Dateneingabe mittels Rechner/dateneingabe_mittels_rechner_14.png)
 
 ---
 2) Markieren Sie die Zellen, die durch den Wert dividiert werden sollen und klicken Sie auf den Button **/**.  
 
 ---
-![](/assets/d17.png)
+![](/Pictures/Excel-Client/Datenerfassung/Dateneingabe mittels Rechner/dateneingabe_mittels_rechner_15.png)
 
 ---
 
 3) Jeder der markierten Werte wird durch den eingegebenen Wert dividiert. 
 
 ---
-![](/assets/d18.png)
+![](/Pictures/Excel-Client/Datenerfassung/Dateneingabe mittels Rechner/dateneingabe_mittels_rechner_16.png)
 
 ---
 
@@ -141,21 +141,21 @@ Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:
 1) Geben Sie im Feld **Wert** den Wert ein, den Sie gleichverteilen wollen.  
 
 ---
-![](/assets/d19.png)
+![](/Pictures/Excel-Client/Datenerfassung/Dateneingabe mittels Rechner/dateneingabe_mittels_rechner_17.png)
 
 ---
 
 2) Markieren Sie die Zellen, in denen Wert gleichverteilt werden soll und klicken Sie auf den Button **Gleichverteilung**.  
 
- ---
-![](/assets/d20.png)
+---
+![](/Pictures/Excel-Client/Datenerfassung/Dateneingabe mittels Rechner/dateneingabe_mittels_rechner_18.png)
 
 ---
 
 3) Der eingegebene Wert wird in jede Zelle gleichverteilt. Werte, die sich zuvor in den markierten Zellen befanden, werden überschrieben. 
 
 ---
-![](/assets/d21.png)
+![](/Pictures/Excel-Client/Datenerfassung/Dateneingabe mittels Rechner/dateneingabe_mittels_rechner_19.png)
 
 ---
 
@@ -164,22 +164,20 @@ Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:
 1) Geben Sie im Feld **Wert** den Wert ein, den Sie verteilen wollen.  
 
 ---
-![](/assets/d22.png)
+![](/Pictures/Excel-Client/Datenerfassung/Dateneingabe mittels Rechner/dateneingabe_mittels_rechner_20.png)
 
 ---
 
 2) Markieren Sie die Zellen, deren Verhältnis Sie als Grundlage für die Verteilung nutzen wollen und klicken Sie auf den Button **Verhältnis**.  
 
 ---
-![](/assets/d23.png)
+![](/Pictures/Excel-Client/Datenerfassung/Dateneingabe mittels Rechner/dateneingabe_mittels_rechner_21.png)
 
 ---
 
 3) Der eingegebene Wert wird auf Basis des Verhältnisses der markierten Zellen verteilt.  
 
 ---
-![](/assets/d24.png)
+![](/Pictures/Excel-Client/Datenerfassung/Dateneingabe mittels Rechner/dateneingabe_mittels_rechner_22.png)
 
 ---
-
-  

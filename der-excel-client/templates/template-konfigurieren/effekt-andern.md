@@ -23,16 +23,15 @@ Um den betriebswirtschaftlichen Effekt einer Wertreihe zu ändern, gehen Sie wie
 1) Gehen Sie zu der Wertreihe, deren Effekt Sie ändern möchten, öffnen Sie in der Zeile **Effekt** das Dropdown Menü und wählen Sie Ihren gewünschten Effekt aus.  
 
 ---
-![](/assets/t36.png)
+![](/Pictures/Excel-Client/Templates/Template konfigurieren/Effekt ändern/effekt_aendern_1.png)
 
 ---
 
-> **Hinweis**: Eine Beschreibung der betriebswirtschaftlichen Effekte finden Sie in Kapitel 3.5.2.  
+> **Hinweis:** Eine Beschreibung der betriebswirtschaftlichen Effekte finden Sie in Kapitel 3.5.2.  
 
 2) Klicken Sie auf die Schaltfläche **Speichern**, um Ihre Auswahl zu speichern.  
 
- ---
-![](/assets/t35.png)
+---
+![](/Pictures/Excel-Client/Templates/Template konfigurieren/Effekt ändern/effekt_aendern_2.png)
 
 ---
-

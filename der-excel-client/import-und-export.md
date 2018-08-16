@@ -11,14 +11,14 @@ Der Export von Templates/Produkten findet auf Produktebene statt.
 1) Öffnen Sie das Produkt, welches Sie exportieren möchten und klicken Sie auf den ActionLink.
 
 ---
-![](/assets/ex1.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_1.png)
 
 ---
 
 2) Wählen Sie **Exportieren**.
 
 ---
-![](/assets/ex2.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_2.png)
 
 ---
 
@@ -27,7 +27,7 @@ Der Export von Templates/Produkten findet auf Produktebene statt.
 Wenn Sie die Datei im Excel-Client wieder importieren wollen, speichern Sie die Datei als .pfe-Datei. Wenn Sie die Datei in Ihrem SQL Management Studio öffnen und weiterverwenden möchten, speichern Sie die Datei als .sql-Datei.
 
 ---
-![](/assets/ex3.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_3.png)
 
 ---
 
@@ -38,35 +38,35 @@ Der Import von Templates/Produkten findet auf Werksebene statt.
 1) Klicken Sie auf Werksebene auf den ActionLink.
 
 ---
-![](/assets/ex4.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_4.png)
 
 ---
 
 2) Wählen Sie **Importieren**.
 
 ---
-![](/assets/ex5.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_5.png)
 
 ---
 
 3) Es öffnet sich ein Fenster für den Import. Klicken Sie zunächst auf **Datei öffnen**, um das zu importierende Template/Produkt auszuwählen.
 
 ---
-![](/assets/ex6.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_6.png)
 
 ---
 
 4) Wählen Sie das Template/Produkt (.pfe-Datei) aus, welche Sie importieren möchten und klicken Sie auf **OK**.
 
 ---
-![](/assets/ex7.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_7.png)
 
 ---
 
 5) Das Import-Fenster wird befüllt und eine Zielstruktur automatisch vorgegeben. Diese Zielstruktur können Sie über die Dropdown-Menüs und das Eingabefeld anpassen. Klicken Sie dann auf **Anwenden**.
 
 ---
-![](/assets/ex8.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_8.png)
 
 ---
 
@@ -83,14 +83,14 @@ Der Export von Produktlinien findet auf Werks- oder Produktlinienebene statt.
 1) Öffnen Sie die Produktlinie, welches Sie exportieren möchten und klicken Sie auf den ActionLink.
 
 ---
-![](/assets/ex9.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_9.png)
 
 ---
 
 2) Wählen Sie **Exportieren**.
 
 ---
-![](/assets/ex10.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_10.png)
 
 ---
 
@@ -99,7 +99,7 @@ Der Export von Produktlinien findet auf Werks- oder Produktlinienebene statt.
 Wenn Sie die Datei im Excel-Client wieder importieren wollen, speichern Sie die Datei als .pfe-Datei. Wenn Sie die Datei in Ihrem SQL Management Studio öffnen und weiterverwenden möchten, speichern Sie die Datei als .sql-Datei.
 
 ---
-![](/assets/ex11.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_11.png)
 
 ---
 
@@ -108,14 +108,14 @@ Wenn Sie die Datei im Excel-Client wieder importieren wollen, speichern Sie die 
 1) Klicken Sie in der Ansicht *Fabriken und Produktlinien* auf den **...-ActionLink**.
 
 ---
-![](/assets/ex12.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_12.png)
 
 ---
 
 2) Wählen Sie **Exportieren**.
 
 ---
-![](/assets/ex13.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_13.png)
 
 ---
 
@@ -124,7 +124,7 @@ Wenn Sie die Datei im Excel-Client wieder importieren wollen, speichern Sie die 
 Wenn Sie die Datei im Excel-Client wieder importieren wollen, speichern Sie die Datei als .pfe-Datei. Wenn Sie die Datei in Ihrem SQL Management Studio öffnen und weiterverwenden möchten, speichern Sie die Datei als .sql-Datei.
 
 ---
-![](/assets/ex11.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_14.png)
 
 ---
 
@@ -135,35 +135,35 @@ Der Import von Produktlinien findet auf Werksebene statt.
 1) Klicken Sie auf Werksebene auf den ActionLink.
 
 ---
-![](/assets/ex4.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_15.png)
 
 ---
 
 2) Wählen Sie **Importieren**.
 
 ---
-![](/assets/ex5.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_16.png)
 
 ---
 
 3) Es öffnet sich ein Fenster für den Import. Klicken Sie zunächst auf **Datei öffnen**, um die zu importierende Produktlinie auszuwählen.
 
 ---
-![](/assets/ex6.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_17.png)
 
 ---
 
 4) Wählen Sie die Produktlinie (.pfe-Datei) aus, welche Sie importieren möchten und klicken Sie auf **OK**.
 
 ---
-![](/assets/ex14.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_18.png)
 
 ---
 
 5) Das Import-Fenster wird befüllt und eine Zielstruktur automatisch vorgegeben. Diese Zielstruktur können Sie über die Dropdown-Menüs und das Eingabefeld anpassen. Klicken Sie dann auf **Anwenden**.
 
 ---
-![](/assets/ex15.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_19.png)
 
 ---
 
@@ -179,14 +179,14 @@ Der Export von Fabriken findet auf Werksebene statt.
 1) Klicken Sie in der Ansicht *Fabriken und Produktlinien* auf den **...-ActionLink**.
 
 ---
-![](/assets/ex16.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_20.png)
 
 ---
 
 2) Wählen Sie **Exportieren**.
 
 ---
-![](/assets/ex17.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_21.png)
 
 ---
 
@@ -195,7 +195,7 @@ Der Export von Fabriken findet auf Werksebene statt.
 Wenn Sie die Datei im Excel-Client wieder importieren wollen, speichern Sie die Datei als .pfe-Datei. Wenn Sie die Datei in Ihrem SQL Management Studio öffnen und weiterverwenden möchten, speichern Sie die Datei als .sql-Datei.
 
 ---
-![](/assets/ex18.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_22.png)
 
 ---
 
@@ -206,43 +206,36 @@ Der Import von Fabriken findet auf Werksebene statt.
 1) Klicken Sie auf Werksebene auf den ActionLink.
 
 ---
-![](/assets/ex4.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_23.png)
 
 ---
 
 2) Wählen Sie **Importieren**.
 
 ---
-![](/assets/ex5.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_24.png)
 
 ---
 
 3) Es öffnet sich ein Fenster für den Import. Klicken Sie zunächst auf **Datei öffnen**, um die zu importierende Fabrik auszuwählen.
 
 ---
-![](/assets/ex6.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_25.png)
 
 ---
 
 4) Wählen Sie die Fabrik (.pfe-Datei) aus, welche Sie importieren möchten und klicken Sie auf **OK**.
 
 ---
-![](/assets/ex19.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_26.png)
 
 ---
 
 5) Das Import-Fenster wird befüllt und eine Zielstruktur automatisch vorgegeben. Diese Zielstruktur können Sie über die Dropdown-Menüs und das Eingabefeld anpassen. Klicken Sie dann auf **Anwenden**.
 
 ---
-![](/assets/ex20.png)
+![](/Pictures/Excel-Client/Import und Export/import_und_export_27.png)
 
 ---
 
 6) Die Fabrik wurde in die von Ihnen vorgegebene Zielstruktur importiert.
-
-
-
-
-
-
-

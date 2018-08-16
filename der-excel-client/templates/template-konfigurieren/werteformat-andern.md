@@ -5,7 +5,7 @@ Um das Werteformat einer Wertereihe zu ändern, gehen Sie wie folgt vor:
 1) Gehen Sie zu der Wertreihe, deren Werteformat Sie ändern möchten, öffnen Sie in der Zeile **Werteformat** das Dropdown Menü und wählen Sie Ihr gewünschtes Werteformat aus.  
 
 ---
-![](/assets/t39.png)
+![](/Pictures/Excel-Client/Templates/Template konfigurieren/Weteformat ändern/werteformat_aendern_1.png)
 
 ---
 
@@ -14,7 +14,6 @@ Um das Werteformat einer Wertereihe zu ändern, gehen Sie wie folgt vor:
 2) Klicken Sie auf die Schaltfläche **Speichern**, um Ihre Auswahl zu speichern.  
 
 ---
-![](/assets/t40.png)
+![](/Pictures/Excel-Client/Templates/Template konfigurieren/Weteformat ändern/werteformat_aendern_2.png)
 
 ---
-
