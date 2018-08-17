@@ -130,7 +130,7 @@ Mit einem Klick auf den Nutzernamen und den drei vertikal angeordneten Punkten �
 
 **5) Buttonleiste**
 
-Mit den Elementen der Buttonleiste lässt sich die Werkssicht (Startseite) anpassen. Eine genaue Beschreibung des Editors ist im Kapitel [Clusterseite bearbeiten](../werk/clusterseite-bearbeiten.md).
+Mit den Elementen der Buttonleiste lässt sich die Werkssicht (Startseite) anpassen. Eine genaue Beschreibung des Editors ist im Kapitel [Clusterseite bearbeiten](/der-web-client/werk/clusterseite-bearbeiten.md).
 
 ---
 ![](/Pictures/Web-Client/Werk/werk_17.png)

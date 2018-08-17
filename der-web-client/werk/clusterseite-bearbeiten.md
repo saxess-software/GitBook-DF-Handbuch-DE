@@ -27,13 +27,11 @@ Diese werden nachfolgend erklärt:
 |![__Unterstreichen__](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_5.png)|__Unterstreicht den Text__|
 |![~~Durchstreichen~~](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_6.png)|~~Text durchstreichen~~|
 |![>Zitat](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_7.png)|>Blockzitat|
-|![Link](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_8.png)|[Link](www.saxess-software.de)|
-|![#Überschrift 1](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_9.png)|#Überschrift 1|
-|![##Überschrift 2](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_10.png)|##Überschrift 2|
-|![Nummerierte Aufzählung](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_11.png)|1. Nummerierte  
-2. Aufzählung|
-|![Ungeordnete Liste](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_12.png)|* Ungeordnete  
-* Liste|
+|![Link](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_8.png)|[Link](https://www.saxess-software.de)|
+|![#Überschrift 1](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_9.png)|# Überschrift 1|
+|![##Überschrift 2](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_10.png)|## Überschrift 2|
+|![Nummerierte Aufzählung](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_11.png)|1. Nummerierte 2. Aufzählung|
+|![Ungeordnete Liste](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_12.png)|Nicht nummerierte Auflistung|
 |![Runterstellen](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_13.png)||
 |![Hochstellen](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_14.png)|^Hochstellen^|
 |![__Unterstreichen__](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_15.png)|Text.|
