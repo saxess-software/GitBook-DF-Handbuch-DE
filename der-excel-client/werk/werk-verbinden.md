@@ -31,11 +31,11 @@ Um sich zu einem Werk bzw. mit einer Datenbank zu verbinden, müssen Sie einen n
 | - | - |
 |**Dateiname**|Name der Key-Datei, kann beliebig gewählt werden|
 |**Kachelbezeichnung**|Name der Kachel in der Werksübersicht, kann beliebig gewählt werden|
-|**Protokoll**|SQL: Nutzung von DataFactory im Intranet http: Nutzung von DataFactory in der Cloud|
-|**Server**|Adresse des Servers (z.B. https://servername.com/|
+|**Protokoll**|**SQL:** Nutzung von DataFactory im Intranet **http:** Nutzung von DataFactory in der Cloud|
+|**Server**|Adresse des Servers (z.B. https://servername.com/)|
 |**Datenbank**|Name der Datenbank|
-|**Authentifizierung**|windows: Nutzt die Windowsauthentifizierung - Benutzername und Passwort bleiben in diesem Falle leer  
-basic: Authentifizierung über Benutzername und Passwort  
+|**Authentifizierung**|windows: Nutzt die Windowsauthentifizierung - Benutzername und Passwort bleiben in diesem Falle leer
+basic: Authentifizierung über Benutzername und Passwort
 oidc: Authentifizierung über eine oidc-Schnittstelle|
 |**Benutzer**|Name des Benutzers (bei Nutzung der Cloudversion ist Ihr Benutzername Ihre E-Mail-Adresse)|
 |**Kommentar**|Kommentarzeile die bei Eingabe der Login-Daten angezeigt wird|
@@ -51,7 +51,7 @@ oidc: Authentifizierung über eine oidc-Schnittstelle|
 
 -->
 
-6) Klicken Sie den Button **Verbindung testen**, um die Verbindung zu testen. Sofern alle Einstellungen korrekt sind, erfolgt die Meldung: **Die Verbindung konnte erfolgreich hergestellt werden.**  
+6) Klicken Sie den Button **Verbindung testen**, um die Verbindung zu testen. Sofern alle Einstellungen korrekt sind, erfolgt die Meldung: **Die Verbindung wurde erfolgreich hergestellt.**  
 
 ---
 ![](/Pictures/Excel-Client/Werk/Werk verbinden/werk_verbinden_5.PNG)
