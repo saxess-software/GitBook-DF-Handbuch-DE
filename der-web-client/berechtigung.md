@@ -7,16 +7,15 @@ Wo Sie welche Art von Zugriffsrecht haben, können Sie anhand der Schriftfarben 
 Bei allen Produktlinien und Fabriken mit einer schwarzen Schriftfarbe verfügen Sie über Schreibrechte.
 
 ---
-![](/assets/w5.png)
+![](/Pictures/Web-Client/Berechtigungen/berechtigungen_1.png)
 
 ---
 
 Bei allen Produktlinien und Fabriken mit einer grauen Schriftfarbe verfügen Sie über Leserechte.
 
 ---
-![](/assets/w6.png)
+![](/Pictures/Web-Client/Berechtigungen/berechtigungen_1.png)
 
 ---
 
 Alle Produktlinien und Fabriken für die Sie weder Lese- noch Schreibrechte haben, werden Ihnen nicht angezeigt.
-
