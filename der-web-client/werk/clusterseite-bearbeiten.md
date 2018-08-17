@@ -30,9 +30,45 @@ Diese werden nachfolgend erklärt:
 |![Link](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_8.png)|[Link](https://www.saxess-software.de)|
 |![#Überschrift 1](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_9.png)|# Überschrift 1|
 |![##Überschrift 2](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_10.png)|## Überschrift 2|
-|![Nummerierte Aufzählung](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_11.png)|1. Nummerierte 2. Aufzählung|
+|![Nummerierte Aufzählung](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_11.png)|Nummerierte Aufzählung|
 |![Ungeordnete Liste](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_12.png)|Nicht nummerierte Auflistung|
-|![Runterstellen](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_13.png)||
-|![Hochstellen](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_14.png)|^Hochstellen^|
-|![__Unterstreichen__](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_15.png)|Text.|
-|![__Unterstreichen__](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_16.png)|Text.|
+|![Tiefgestellt](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_13.png)|Text tiefstellen|
+|![Hochstellen](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_14.png)|Text^Hochstellen^ ^2^|
+|![](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_15.png)|Bündigkeit wechseln|
+|![Textgröße](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_16.png)|Textgröße ändern|
+|![Überschrift](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_17.png)|Text als Überschrift formatieren|
+|![Farblich Unterstreichen](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_18.png)|Text farblich unterstreichen|
+|![Hintergrund färben](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_19.png)|Hintergrundfarbe formatieren|
+|![Scriftstil](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_20.png)|Schriftart ändern|
+|![Ausrichtung](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_21.png)|Ausrichtung des Textes ändern|
+|![Bild hinzufügen](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_22.png)|Bild hinzufügen|
+|![Video Hinzufügen](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_23.png)|Video hinzufügen|
+|![Link entfernen](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_24.png)|Link entfernen|
+
+Mit diesen Tools können Sie die HTML-Seite frei gestalten. Um Ihnen die Arbeit an der Clusterseite zu erleichtern, können Sie sich eine Vorschau der HTML-Seite anzeigen lassen. Dazu klicken Sie auf das **Augen**-Icon.
+
+---
+![](/Pictures/Web-Client/Werk/Clusterseite/clusterseite_bearbeiten_25.png)
+
+---
+
+Um die Seite wieder auf den ursprünglichen Zustand zurück zu setzen, klicken Sie auf das **Reset**-Icon.
+
+---
+![](/Pictures/Web-Client/Werk/Clusterseite/clusterseite_bearbeiten_26.png)
+
+---
+
+Wenn Sie Ihre Arbeit abgeschlossen haben, können Sie mit einem Klick auf die Diskette das Ergebnis speichern.
+
+---
+![](/Pictures/Web-Client/Werk/Clusterseite/clusterseite_bearbeiten_27.png)
+
+---
+
+Den HTML-Editor schließen Sie mit Klick auf das graue **X**.
+
+---
+![](/Pictures/Web-Client/Werk/Clusterseite/clusterseite_bearbeiten_28.png)
+
+---

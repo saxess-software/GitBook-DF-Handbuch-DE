@@ -2,8 +2,6 @@
 
 Wenn Ihnen eine Reihe von verschiedenen Werken zur Verfügung stehen, empfiehlt sich die Werke in verschiedenen Ordnern zu organisieren.  
 
-
-
 Dazu gehen Sie wie folgt vor:
 
 1) Legen Sie sich Ihre gewünschte Ordnerstruktur in Ihrem Explorer an. 
