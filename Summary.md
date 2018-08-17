@@ -97,7 +97,7 @@
   * [Übersicht](der-web-client/ubersicht.md)
   * [Zugang](der-web-client/zugang.md)
   * [Werk](der-web-client/werk.md)
-	*[Clusterseite bearbeiten](der-web-client/werk/clusterseite-bearbeiten.md)
+	* [Clusterseite bearbeiten](der-web-client/werk/clusterseite-bearbeiten.md)
   * [Fabrik](der-web-client/fabrik.md)
     * [Navigation](der-web-client/fabrik/navigation.md)
     * [Pivot-Ansicht](der-web-client/fabrik/pivot-ansicht.md)
