@@ -27,7 +27,13 @@ Um den betriebswirtschaftlichen Effekt einer Wertreihe zu ändern, gehen Sie wie
 
 ---
 
+
+<!---
+
 > **Hinweis:** Eine Beschreibung der betriebswirtschaftlichen Effekte finden Sie in Kapitel 3.5.2.  
+	--eventuell Wirkung der einzelnen Effekte in der DF erläutern? bspw. unterschiedliche handhabung in auswertungen?!
+-->
+
 
 2) Klicken Sie auf die Schaltfläche **Speichern**, um Ihre Auswahl zu speichern.  
 

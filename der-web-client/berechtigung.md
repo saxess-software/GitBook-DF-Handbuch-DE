@@ -14,8 +14,8 @@ Bei allen Produktlinien und Fabriken mit einer schwarzen Schriftfarbe verfügen 
 Bei allen Produktlinien und Fabriken mit einer grauen Schriftfarbe verfügen Sie über Leserechte.
 
 ---
-![](/Pictures/Web-Client/Berechtigungen/berechtigungen_1.png)
+![](/Pictures/Web-Client/Berechtigungen/berechtigungen_2.png)
 
 ---
 
-Alle Produktlinien und Fabriken für die Sie weder Lese- noch Schreibrechte haben, werden Ihnen nicht angezeigt.
+>**Hinweis:** Alle Produktlinien und Fabriken für die Sie weder Lese- noch Schreibrechte haben, werden Ihnen nicht angezeigt.

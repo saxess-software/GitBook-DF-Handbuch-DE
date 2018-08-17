@@ -34,8 +34,7 @@ Um sich zu einem Werk bzw. mit einer Datenbank zu verbinden, müssen Sie einen n
 |**Protokoll**|**SQL:** Nutzung von DataFactory im Intranet **http:** Nutzung von DataFactory in der Cloud|
 |**Server**|Adresse des Servers (z.B. https://servername.com/)|
 |**Datenbank**|Name der Datenbank|
-|**Authentifizierung**|**windows:** Nutzt die Windowsauthentifizierung - Benutzername und Passwort bleiben in diesem Falle leer **basic:** Authentifizierung über Benutzername und Passwort
-**oidc:** Authentifizierung über eine oidc-Schnittstelle|
+|**Authentifizierung**|**windows:** Nutzt die Windowsauthentifizierung - Benutzername und Passwort bleiben in diesem Falle leer **basic:** Authentifizierung über Benutzername und Passwort **oidc:** Authentifizierung über eine oidc-Schnittstelle|
 |**Benutzer**|Name des Benutzers (bei Nutzung der Cloudversion ist Ihr Benutzername Ihre E-Mail-Adresse)|
 |**Kommentar**|Kommentarzeile die bei Eingabe der Login-Daten angezeigt wird|
 

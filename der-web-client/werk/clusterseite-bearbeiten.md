@@ -22,18 +22,18 @@ Diese werden nachfolgend erklärt:
 
 |Icon|Funktion|
 |-|-|
-|![**Fett**](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_3.png)|**Text fett formatieren**|
-|![*Kursiv*](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_4.png)|*Setzt den Text kursiv*|
-|![__Unterstreichen__](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_5.png)|__Unterstreicht den Text__|
-|![~~Durchstreichen~~](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_6.png)|~~Text durchstreichen~~|
-|![>Zitat](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_7.png)|>Blockzitat|
-|![Link](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_8.png)|[Link](https://www.saxess-software.de)|
-|![#Überschrift 1](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_9.png)|# Überschrift 1|
-|![##Überschrift 2](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_10.png)|## Überschrift 2|
+|![Fett](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_3.png)|**Text fett formatieren**|
+|![Kursiv](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_4.png)|*Setzt den Text kursiv*|
+|![Unterstreichen](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_5.png)|_Unterstreicht den Text_|
+|![Durchstreichen](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_6.png)|~~Text durchstreichen~~|
+|![Zitat](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_7.png)|Blockzitat einfügen|
+|![Link](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_8.png)|[Link](https://www.saxess-software.de) einfügen|
+|![Überschrift 1](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_9.png)|Formatvorlage Überschrift 1|
+|![Überschrift 2](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_10.png)|Formatvorlage Überschrift 2|
 |![Nummerierte Aufzählung](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_11.png)|Nummerierte Aufzählung|
 |![Ungeordnete Liste](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_12.png)|Nicht nummerierte Auflistung|
 |![Tiefgestellt](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_13.png)|Text tiefstellen|
-|![Hochstellen](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_14.png)|Text^Hochstellen^ ^2^|
+|![Hochstellen](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_14.png)|Text hochstellen|
 |![](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_15.png)|Bündigkeit wechseln|
 |![Textgröße](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_16.png)|Textgröße ändern|
 |![Überschrift](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_17.png)|Text als Überschrift formatieren|
