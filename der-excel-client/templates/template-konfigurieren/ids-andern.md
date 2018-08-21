@@ -1,10 +1,10 @@
 #### *IDs ändern* 
 
-Wenn Sie ein Template neu anlegen bzw. eine neue Spalte in Ihr Template einfügen, wird den Wertreihen bereits eine *Default-ID* zugewiesen, d.h. Sie tragen IDs mit der Bezeichnung *ID1, ID2,...,IDn*. Die IDs können Sie individuell anpassen.
+Wenn Sie ein Template neu anlegen bzw. eine neue Spalte in Ihr Template einfügen, wird den Wertreihen bereits eine *Default-ID* zugewiesen, d.h. sie tragen IDs mit der Bezeichnung *ID1, ID2,...,IDn*. Die IDs können Sie individuell anpassen.
 
 >**Hinweis 1:** Innerhalb eines Products/eines Templates muss jede Spalte eine eindeutige ID tragen. Es ist nicht möglich, dass bspw. zwei Spalten die gleiche ID haben. Wenn möglich, wählen Sie "sprechende" IDs.
 
->**Hinweis 2:** Die von Ihnen vergebene ID sollte **mindestens zweistellig** sein, d.h. vergebenen Sie keine Wertreihen-IDs die bspw. **M**, **D** oder **J** heißen. Die einstelligen Wertreihen-IDs nutzen wir für spezifische Berechnungen auf die Datenbank.
+>**Hinweis 2:** Die von Ihnen vergebene ID sollte **mindestens zweistellig** sein, d.h. vergeben Sie keine Wertreihen-IDs die bspw. **M**, **D** oder **J** heißen. Die einstelligen Wertreihen-IDs nutzen wir für spezifische Berechnungen auf der Datenbank.
 
 Um die IDs Ihrer Wertreihen zu ändern, gehen Sie wie folgt vor: 
 

@@ -18,6 +18,6 @@ Wählen Sie **nicht-numerisch**, wenn Sie:
 erfassen wollen.
 
 ---
-![](/assets/Temp5.png)
+![](/Pictures/Excel-Client/Templates/Template konfigurieren/Werttyp definieren/werttyp_definieren_1.png)
 
 ---

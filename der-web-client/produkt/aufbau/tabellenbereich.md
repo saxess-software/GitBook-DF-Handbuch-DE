@@ -36,7 +36,4 @@ Um diese Darstellungsweise für ein Template/Produkt zu aktivieren, gehen Sie wi
 
 3) Im Web-Client wird Ihnen das Template/ Produkt ohne Zeitachse angezeigt.
 
-Sie können den Template-Typ **VN/HN** verwenden, wenn Sie anstatt der numerischen Zeitachse eine eigene Wertreihe mit bspw. individuellen Periodenbezeichnungen als Zeitachse verwenden wollen. In Kombination mit der **Fensterfixierung** können Sie diese Wertreihe als neue, stets sichtbare Zeitachse anzeigen lassen. Hier ein Beispiel:
-
-
-
+Sie können den Template-Typ **VN/HN** verwenden, wenn Sie anstatt der numerischen Zeitachse eine eigene Wertreihe mit bspw. individuellen Periodenbezeichnungen als Zeitachse verwenden wollen. In Kombination mit der **Fensterfixierung** können Sie diese Wertreihe als neue, stets sichtbare Zeitachse anzeigen lassen.

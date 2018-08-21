@@ -66,7 +66,7 @@ Wenn Sie Ihre Arbeit abgeschlossen haben, können Sie mit einem Klick auf die Dis
 
 ---
 
-Den HTML-Editor schließen Sie mit Klick auf das graue **X**.
+Den HTML-Editor schließen Sie mit einem Klick auf das graue **X**.
 
 ---
 ![](/Pictures/Web-Client/Werk/Clusterseite/clusterseite_bearbeiten_28.png)

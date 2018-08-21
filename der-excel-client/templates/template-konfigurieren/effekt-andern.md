@@ -1,6 +1,6 @@
 #### *(betriebswirtschaftlichen) Effekt ändern*  
 
-Der Effekt beschreibt das betriebswirtschaftlichen Merkmal, das ein Wert innehat.
+Der Effekt beschreibt das betriebswirtschaftliche Merkmal, das ein Wert innehat.
 
 | Einstellung | Beschreibung |
 | : | :|
