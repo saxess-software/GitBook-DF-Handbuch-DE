@@ -48,5 +48,6 @@ Wenn Sie auf den Button **Kommentare** klicken, öffnet sich ein Fenster, in wel
 
 ---
 
->**Hinweis:** Wie auch im Excel-Client, kann ein Nutzer dazu verpflichtet sein, jede Datenänderung durch einen kurzen Kommentar zu begründen. Diese Funktionalität hinterlegen Sie im Excel-Client bei der Benutzerverwaltung.
->**Hinweis:** Informationen zu den weiteren Funktionen im Tabellenkopfbereich erfahren Sie im Kapitel **Datenerfassung**.
+>**Hinweis 1:** Wie auch im Excel-Client, kann ein Nutzer dazu verpflichtet sein, jede Datenänderung durch einen kurzen Kommentar zu begründen. Diese Funktionalität hinterlegen Sie im Excel-Client bei der Benutzerverwaltung.
+
+>**Hinweis 2:** Informationen zu den weiteren Funktionen im Tabellenkopfbereich erfahren Sie im Kapitel **Datenerfassung**.
