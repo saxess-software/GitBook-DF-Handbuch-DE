@@ -45,4 +45,3 @@ Sie haben die Möglichkeit, das Layout Ihrer Produkttabelle anzupassen, indem Si
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Verschieben-und-Ausblenden/verschieben_und_ausblenden_6.png)
 
 ---
-

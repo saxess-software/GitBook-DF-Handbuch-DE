@@ -7,7 +7,7 @@ Bei der Konzeptionierung des Systems werden Sie sich Fragen stellen wie bspw.:
 * Mit welcher Granularität möchte ich Daten erfassen?
 * Wie möchte ich diese Daten aggregieren?
 * Welche Daten müssen erfasst und welche Werte müssen berechnet werden?
-* Welche Benutzer sollen welche Daten erfassen (Stichwort [Berechtigungen](/../Werk/benutzerrechte-andern.md)?
+* Welche Benutzer sollen welche Daten erfassen (Stichwort [Berechtigungen](/../der-excel-client/Werk/benutzerrechte-andern.md)?
 * ...
 
 

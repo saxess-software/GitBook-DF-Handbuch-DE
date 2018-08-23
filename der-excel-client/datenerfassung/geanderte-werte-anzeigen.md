@@ -21,3 +21,5 @@ Wenn Sie in einem Produkt Werte neu eingetragen, geändert oder gelöscht haben,
 ![](/Pictures/Excel-Client/Datenerfassung/Geänderte Werte anzeigen/geaenderte_werte_anzeigen_3.png)
 
 ---
+
+>**Hinweis:** Sie können das Programm auch so einstellen, dass automatisch ungespeicherte geänderte Werte hervorgehoben werden. Lesen Sie dazu das Kapitel [Programmeinstellungen](/der-excel-client/fabrik/programmeinstellungen.md)

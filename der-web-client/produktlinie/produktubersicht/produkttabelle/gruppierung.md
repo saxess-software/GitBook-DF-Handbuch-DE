@@ -77,4 +77,3 @@ Klicken Sie auf das **X** rechts neben dem Merkmal, welches sich im Gruppierungs
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Gruppieren/gruppierung_l0.png)
 
 ---
-

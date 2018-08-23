@@ -30,7 +30,7 @@ Indem Sie Filter in Ihrer Produkttabelle verwenden, können Sie die Anzahl der I
 
 ---
 
-3) Nach Auswahl des Suchmusters ist der Filterwert im darunter liegenden Textfeld einzugeben. Bestätigen Sie Ihre Auswahl mit Klick auf **Filtern** oder drücken der "Enter"-Taste.
+3) Nach Auswahl des Suchmusters ist der Filterwert im darunter liegenden Textfeld einzugeben. Bestätigen Sie Ihre Auswahl mit Klick auf **Filtern** oder drücken Sie die **Enter**-Taste.
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Filtern/filtern_4.png)

@@ -35,4 +35,3 @@ Um die Werte innerhalb einer Spalte zu sortieren, haben Sie zwei Möglichkeiten:
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Sortieren/sortieren_4.png)
 
 ---
-

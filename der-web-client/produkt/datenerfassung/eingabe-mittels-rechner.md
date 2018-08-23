@@ -19,7 +19,7 @@ Sie finden den Rechner im Tabellenkopfbereich.
 
 ---
 
-#### *Einfügen von Werten* ![Einfügen von Werten](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/button_1.png)
+#### *Einfügen von Werten*
 
 Um Werte mit Hilfe des Rechners einzufügen, gehen Sie wie folgt vor: 
 
@@ -48,7 +48,7 @@ Um Werte mit Hilfe des Rechners einzufügen, gehen Sie wie folgt vor:
 
 4) Der eingegebene Wert wird in der markierten Zelle eingefügt.  
 
-#### *Addition* ![Addition](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/button_4.png)
+#### *Addition*
 
 Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:  
 
@@ -72,7 +72,7 @@ Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:
 
 ---
 
-#### *Subtraktion* ![Subtraktion](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/button_5.png)  
+#### *Subtraktion*
 
 1) Geben Sie im Feld **Wert** den Wert ein, den Sie subtrahieren wollen.  
 
@@ -95,7 +95,7 @@ Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:
 
 ---
 
-#### *Multiplikation* ![Multiplikation](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/button_6.png)
+#### *Multiplikation*
 
 1) Geben Sie im Feld **Wert** den Wert ein, mit dem Sie multiplizieren wollen.   
 
@@ -118,7 +118,7 @@ Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:
 
 ---
  
-#### *Division* ![Division](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/button_7.png)
+#### *Division*
 
 1) Geben Sie im Feld **Wert** den Wert ein, durch den Sie dividieren wollen.  
 
@@ -140,7 +140,7 @@ Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:
 
 ---
 
-#### *Gleichverteilung* ![Gleichverteilung](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/button_2.png)
+#### *Gleichverteilung*
 
 1) Geben Sie im Feld **Wert** den Wert ein, den Sie gleichverteilen wollen.  
 
@@ -163,7 +163,7 @@ Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:
 
 ---
 
-#### *Verhältnis* ![Verhältnis](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/button_3.png)
+#### *Verhältnis*
 
 1) Geben Sie im Feld **Wert** den Wert ein, den Sie verteilen wollen.  
 

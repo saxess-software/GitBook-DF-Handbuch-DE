@@ -2,7 +2,7 @@
 
 Die Clusterseite ist eine HTML-Seite die vom Web-Client wiedergegeben wird. Diese kann von berechtigten Nutzern beliebig angepasst werden und kann viele verschiedene Nutzen erfüllen.
 
->**Anwendungsbeispiele:** Die Clusterseite kann als 'Schwarzes Brett' für die Nutzer dienen, auf dem aktuelle Nachrichten zu betrieblichen Ereignissen, Termine für Meetings usw. angezeigt werden können.
+>**Anwendungsbeispiele:** Die Clusterseite kann als "Schwarzes Brett" für die Nutzer dienen, auf dem aktuelle Nachrichten zu betrieblichen Ereignissen, Termine, Angaben zu Meetings usw. angezeigt werden können.
 
 Die Clusterseite lässt sich mit Hilfe eines HTML-Editors bearbeiten. Um diesen Editor zu öffnen klicken Sie auf den **Stift** in der Buttonleiste.
 
@@ -20,11 +20,11 @@ Mit Öffnen des HTML-Editors wird der Buttonleiste eine weitere Zeile mit Steuere
 
 Diese werden nachfolgend erklärt:
 
-|Icon|Funktion|
-|-|-|
+| Icon | Funktion |
+| - | - |
 |![Fett](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_3.png)|**Text fett formatieren**|
 |![Kursiv](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_4.png)|*Setzt den Text kursiv*|
-|![Unterstreichen](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_5.png)|_Unterstreicht den Text_|
+|![Unterstreichen](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_5.png)|Unterstreicht den Text|
 |![Durchstreichen](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_6.png)|~~Text durchstreichen~~|
 |![Zitat](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_7.png)|Blockzitat einfügen|
 |![Link](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_8.png)|[Link](https://www.saxess-software.de) einfügen|
@@ -48,27 +48,27 @@ Diese werden nachfolgend erklärt:
 Mit diesen Tools können Sie die HTML-Seite frei gestalten. Um Ihnen die Arbeit an der Clusterseite zu erleichtern, können Sie sich eine Vorschau der HTML-Seite anzeigen lassen. Dazu klicken Sie auf das **Augen**-Icon.
 
 ---
-![](/Pictures/Web-Client/Werk/Clusterseite/clusterseite_bearbeiten_25.png)
+![](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_25.png)
 
 ---
 
 Um die Seite wieder auf den ursprünglichen Zustand zurück zu setzen, klicken Sie auf das **Reset**-Icon.
 
 ---
-![](/Pictures/Web-Client/Werk/Clusterseite/clusterseite_bearbeiten_26.png)
+![](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_26.png)
 
 ---
 
 Wenn Sie Ihre Arbeit abgeschlossen haben, können Sie mit einem Klick auf die Diskette das Ergebnis speichern.
 
 ---
-![](/Pictures/Web-Client/Werk/Clusterseite/clusterseite_bearbeiten_27.png)
+![](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_27.png)
 
 ---
 
 Den HTML-Editor schließen Sie mit einem Klick auf das graue **X**.
 
 ---
-![](/Pictures/Web-Client/Werk/Clusterseite/clusterseite_bearbeiten_28.png)
+![](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_28.png)
 
 ---
