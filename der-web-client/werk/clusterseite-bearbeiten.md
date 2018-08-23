@@ -2,11 +2,7 @@
 
 Die Clusterseite ist eine HTML-Seite die vom Web-Client wiedergegeben wird. Diese kann von berechtigten Nutzern beliebig angepasst werden und kann viele verschiedene Nutzen erfüllen.
 
-<<<<<<< HEAD
->**Anwendungsbeispiele:** Die Clusterseite kann als "Schwarzes Brett" f�r die Nutzer dienen, auf dem aktuelle Nachrichten zu betrieblichen Ereignissen, Termine, Angaben zu Meetings usw. angezeigt werden k�nnen.
-=======
->**Anwendungsbeispiele:** Die Clusterseite kann als 'Schwarzes Brett' für die Nutzer dienen, auf dem aktuelle Nachrichten zu betrieblichen Ereignissen, Termine für Meetings usw. angezeigt werden können.
->>>>>>> 4ca5c37b4aba50eee3c01187055457da47f72e91
+>**Anwendungsbeispiele:** Die Clusterseite kann als "Schwarzes Brett" für die Nutzer dienen, auf dem aktuelle Nachrichten zu betrieblichen Ereignissen, Termine, Angaben zu Meetings usw. angezeigt werden.
 
 Die Clusterseite lässt sich mit Hilfe eines HTML-Editors bearbeiten. Um diesen Editor zu öffnen klicken Sie auf den **Stift** in der Buttonleiste.
 
