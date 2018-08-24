@@ -2,7 +2,7 @@
 
 Um auf den Web-Client zuzugreifen, haben Sie verschiedene Möglichkeiten.
 
-### **1) Über den Excel-Client**
+### 1) Über den Excel-Client
 
 #### *Option A*
 
@@ -23,11 +23,18 @@ Sie können auf Fabrik-, Produktlinien- oder Produktebene aus Ihrem Excel-Client
 |Produktlinie|![](/Pictures/Web-Client/Zugang/zugang_4.png)|![](/Pictures/Web-Client/Zugang/zugang_5.png)|
 |Produkt|![](/Pictures/Web-Client/Zugang/zugang_6.png)|![](/Pictures/Web-Client/Zugang/zugang_7.png)|
 
-### **2) Über die URL**
+### 2) Über die URL
 
-Durch Eingabe der URL in die Adressleiste Ihres Webbrowser gelangen Sie direkt zur Webansicht Ihres Werks.
+Durch Eingabe der URL ([factoryprovider.com](https://factoryprovider.com)) in die Adressleiste Ihres Webbrowsers gelangen Sie direkt zum Web-Client.
 
 ---
 ![](/Pictures/Web-Client/Zugang/zugang_8.png)
+
+---
+
+Um auf ein Werk zuzugreifen müssen Sie noch den Namen der Datenbank im Pfad der Webadresse eingeben.
+
+---
+![](/Pictures/Web-Client/Zugang/zugang_9.png)
 
 ---

@@ -8,7 +8,7 @@
   * [Technischer Überblick](Grundlagen/technischer-uberblick.md)
     * [Datenbank und API](Grundlagen/technischer-uberblick/datenbank-und-api.md)
     * [Client](Grundlagen/technischer-uberblick/client.md)
-    * [Zugriffsteuerung](Grundlagen/technischer-uberblick/zugriffsteuerung.md)
+    * [Zugriffssteuerung](Grundlagen/technischer-uberblick/zugriffsteuerung.md)
     * [Anbindung an weitere Systeme](Grundlagen/technischer-uberblick/anbindung-an-weitere-systeme.md)
 * [Der Excel-Client](der-excel-client.md)
   * [Übersicht](der-excel-client/ubersicht.md)
