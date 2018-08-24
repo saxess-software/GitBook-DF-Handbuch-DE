@@ -15,4 +15,6 @@ Sie können die Daten:
 
 in den Wertebereich eingeben.
 
-> **Hinweis:** Alle von Ihnen erfassten Daten sind zunächst nur temporär in Excel gespeichert. Erst wenn Sie auf die Schaltfläche **Speichern** klicken, werden die Daten in die Datenbank übertragen.  
+> **Hinweis 1:** Alle von Ihnen erfassten Daten sind zunächst nur temporär in Excel gespeichert. Erst wenn Sie auf die Schaltfläche **Speichern** klicken, werden die Daten in die Datenbank übertragen.
+
+> **Hinweis 2:** Sie können auch die in Excel verfübare Funktion **Auto Ausfüllen** nutzen um einen Wert bzw. eine Wertereihe in mehrere Zellen zu kopieren.

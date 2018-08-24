@@ -6,7 +6,7 @@ Sie können Daten mittels der Eingabe über Ihre Tastatur erfassen, indem Sie di
 ![](/Pictures/Web-Client/Produkt/Datenerfassung/Manuelle Eingabe/manuelle_eingabe_1.png)
 
 ---
->**Hinweis:** Zellen deren Inhalt verändert wurde werden orange markiert.
+>**Hinweis:** Zellen, deren Inhalt verändert wurde, werden orange markiert.
 
 Sie können für die Eingabe Ihrer Daten auch Excel-Formeln verwenden.  
 

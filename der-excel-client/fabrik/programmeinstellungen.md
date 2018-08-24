@@ -1,7 +1,7 @@
 ### Programmeinstellungen
-In den Programmeinstellungen können Sie Eigenschaften Ihrer Tabellen, Matrixeinstellungen und den globalen Zoomfaktor anpassen.
+In den Programmeinstellungen können Sie Eigenschaften Ihrer Tabellen, Matrixeinstellungen und den globalen Zoomfaktor anpassen. Die Einstellungen sind clientspezifisch und sind nur auf der von Ihnen genutzten Instanz sichtbar.
 
-1) Klicken Sie in das **...-Kontextmenü**.
+1) Klicken Sie auf den **ActionLink** unterhalb des Tabellenkopfbereichs.
 
 ---
 ![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_1.png)
@@ -22,7 +22,10 @@ In den Programmeinstellungen können Sie Eigenschaften Ihrer Tabellen, Matrixein
 
 ---
 
+>**Hinweis:** Sie können die Programmeinstellungen aus jeder Sicht aus über den ActionLink aufrufen.
+
 #### Globaler Zoomfaktor
+
 Wenn Sie Inhalte in DataFactory über einen Beamer oder im Web präsentieren, kann es notwendig sein, die Darstellungsgröße der Inhalte anzupassen. Über den globalen Zoomfaktor steuern Sie, in welcher Größe Ihnen die Oberfläche von DataFactory angezeigt wird. Der Global Zoomfaktor ist standardmäßig auf 100% Prozent eingestellt. 
 
 Wenn Sie den Zoomfaktor verringern wollen, klicken Sie auf den linken Pfeil. Wenn Sie den Zoomfaktor erhöhen wollen, klicken Sie auf den rechten Pfeil. Sie können den Zoomfaktor aber auch verändern, indem Sie den Schieber nach rechts oder nach links bewegen.
@@ -100,7 +103,7 @@ Wenn Sie Änderungen an den Tabelleneinstellungen vornehmen wollen, gehen Sie wi
 
 ---
 
-> **Hinweis**: Sie können die Tabelleneinstellungen auch deaktivieren. Klicken Sie dazu bei den Tabelleneinstellungen im Reiter ***Anzeige*** auf den Button **Deaktivieren** und bestätigen Sie mit **Anwenden**.
+> **Hinweis:** Sie können die Tabelleneinstellungen auch deaktivieren. Klicken Sie dazu bei den Tabelleneinstellungen im Reiter ***Anzeige*** auf den Button **Deaktivieren** und bestätigen Sie mit **Anwenden**.
 
 #### *Zeilen alternierend einfärben*
 

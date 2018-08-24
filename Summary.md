@@ -137,6 +137,7 @@
     * [Datenerfassung](der-web-client/produkt/datenerfassung.md)
       * [Manuelle Eingabe](der-web-client/produkt/datenerfassung/manuelle-eingabe.md)
       * [Eingabe mittels Rechner](der-web-client/produkt/datenerfassung/eingabe-mittels-rechner.md)
+	  * [Hyperlinks](der-web-client/produkt/datenerfassung/hyperlinks.md)
       * [FlexSuche](der-web-client/produkt/datenerfassung/flexsuche.md)
   * [Berechtigungen](der-web-client/berechtigung.md)
 
