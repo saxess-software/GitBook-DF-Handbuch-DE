@@ -1,7 +1,7 @@
 ### *Geänderte Werte anzeigen*
 Wenn Sie in einem Produkt Werte neu eingetragen, geändert oder gelöscht haben, können Sie sich die vorgenommenen Änderungen anzeigen lassen
 
-1) Klicken Sie im Produkt auf das **...-Kontextmenü**.
+1) Klicken Sie in der Produktsicht auf den ActionLink.
 
 ---
 ![](/Pictures/Excel-Client/Datenerfassung/Geänderte Werte anzeigen/geaenderte_werte_anzeigen_1.png)
@@ -22,4 +22,4 @@ Wenn Sie in einem Produkt Werte neu eingetragen, geändert oder gelöscht haben,
 
 ---
 
->**Hinweis:** Sie können das Programm auch so einstellen, dass automatisch ungespeicherte geänderte Werte hervorgehoben werden. Lesen Sie dazu das Kapitel [Programmeinstellungen](/der-excel-client/fabrik/programmeinstellungen.md)
+>**Hinweis:** Sie können das Programm auch so einstellen, dass automatisch ungespeicherte geänderte Werte hervorgehoben werden. Lesen Sie dazu das Kapitel [Programmeinstellungen](/der-excel-client/fabrik/programmeinstellungen.md).

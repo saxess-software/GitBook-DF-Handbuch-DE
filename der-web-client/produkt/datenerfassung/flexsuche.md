@@ -29,3 +29,5 @@ Wie auch im Excel-Client handelt es sich bei der FlexSuche um ein "intelligentes
 ![](/Pictures/Web-Client/Produkt/Datenerfassung/FlexSuche/flexsuche_4.png)
 
 ---
+
+>**Hinweis:** Die Flex-Funktionen sind in ihrer Funktionalität enorm individualisierbar. Eine pauschale Aussage über die Funktionen der FlexAktion lässt sich daher nicht treffen.

@@ -105,7 +105,7 @@ Wenn Sie Änderungen an den Tabelleneinstellungen vornehmen wollen, gehen Sie wi
 
 > **Hinweis:** Sie können die Tabelleneinstellungen auch deaktivieren. Klicken Sie dazu bei den Tabelleneinstellungen im Reiter ***Anzeige*** auf den Button **Deaktivieren** und bestätigen Sie mit **Anwenden**.
 
-#### *Zeilen alternierend einfärben*
+#### Zeilen alternierend einfärben
 
 Über die Option **Tabellenformat** haben Sie auch die Möglichkeit Ihre Tabellenzeilen alternierend einzufärben, d.h. das Ihre Zeilen abwechselnd farbig dargestellt werden. Dazu müssen zunächst alle anderen Tabelleneinstellungen deaktiviert werden und unter Tabellenformat eine Auswahl getroffen sein.
 

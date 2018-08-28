@@ -5,8 +5,8 @@ Das Feld **Herkunft** gibt an, woher die Werte stammen.
 | Einstellung | Beschreibung |
 | : | :|
 | Input | Dateneingabe direkt in Excel, keine Einschränkung |
-| Link | Bietet die Möglichkeit einen Link zu hinterlegen (bspw. zu einem Dokument oder einer Website) |
-|List-Strict|Dateneingabe nur über Dropdown-Menü - Werteliste bestimmt mögliche Dateneingaben|
+| Link | Bietet die Möglichkeit einen Link zu hinterlegen (bspw. zu einem Dokument oder einer Website) (siehe Kapitel [Hyperlinks] (/der-excel-client/datenerfassung/hyperlinks.md)) |
+|List-Strict|Dateneingabe nur über Dropdown-Menü - Werteliste bestimmt mögliche Dateneingaben (siehe Kapitel [Listen und Formate] (/der-excel-client/listen-und-formate.md)|
 | XLS | Werte durch eine Formel berechnen lassen - die Excel-Formel kann immer überschrieben und bearbeitet werden |
 | XLS Strict | Werte durch eine Formel berechnen lassen - die Excel-Formel kann nur bei aufgeklappten Details überschrieben und bearbeitet werden |
 

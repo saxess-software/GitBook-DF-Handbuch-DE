@@ -1,11 +1,11 @@
 #### *Ansicht des Templates/ Produkte definieren*
-Wenn Sie ein Template zum ersten Mal betreten, sind die Ansichtseinstellungen ***Fensterfixierung*** und ***Automatisch zum aktuellen Datum scrollen*** bereits vordefiniert. Sie können diese Voreinstellungen im **...-Kontextmenü** unter [Eigenschaften](../../produktlinie/eigenschaften.md) anpassen.
+Wenn Sie ein Template zum ersten Mal betreten, sind die Ansichtseinstellungen ***Fensterfixierung*** und ***Automatisch zum aktuellen Datum scrollen*** bereits vordefiniert. Sie können diese Voreinstellungen über den ActionLink im Menüpunkt [Eigenschaften](../../produktlinie/eigenschaften.md) anpassen.
 
 **Automatisch zum aktuellen Datum scrollen**
 
 Wenn Sie sich aktuell im Monat März des Jahres 2017 befinden, springt die Zeitleiste beim Betreten des Templates automatisch in diesen Monat. D.h. die erste Zeile, die Ihnen im Wertebereich angezeigt wird, ist der März 2017, selbst wenn die Zeitleiste Ihres Templates vielleicht schon im Januar 2016 beginnt. Wenn Sie diese automatische Scrollen deaktivieren möchten, gehen Sie wie folgt vor:
 
-1) Klicken Sie im Produkt auf das **...-Kontextmenü**.
+1) Klicken Sie im Produkt auf den ActionLink.
 
 ---
 ![](/Pictures/Excel-Client/Templates/Template konfigurieren/Ansicht/ansicht_1.png)
@@ -37,7 +37,7 @@ Wenn Sie sich aktuell im Monat März des Jahres 2017 befinden, springt die Zeitl
 
 Wenn Sie im Wertebereich hoch oder runter, nach rechts oder nach links scrollen, ist stets nur der Überschriften- und der Zeitleistenbereich fixiert. Sie können Ihre Ansichtseinstellungen aber auch so definieren, dass bspw. auch die erste Spalte oder die ersten beiden Zeilen im Wertebereich fixiert sind und Ihnen während des Scrollvorgangs stets angezeigt werden. Gehen Sie dazu wie folgt vor:
  
-1) Klicken Sie im Produkt auf das **...-Kontextmenü**.
+1) Klicken Sie im Produkt auf den ActionLink.
 
 ---
 ![](/Pictures/Excel-Client/Templates/Template konfigurieren/Ansicht/ansicht_5.png)

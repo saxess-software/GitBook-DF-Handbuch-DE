@@ -22,14 +22,14 @@ Um die IDs Ihrer Wertreihen zu ändern, gehen Sie wie folgt vor:
 
 ---
 
-3) Sie sehen im Dialog **SerienID Editor** die aktuelle ID und den Kurznamen. Geben Sie in der Spalte Neue ID ihre neuen IDs ein.  
+3) Sie sehen im Dialog **SerienID Editor** die aktuellen IDs und Kurznamen der Wertreihen. Wählen Sie die zu bearbeitende Wertreihen-ID aus und geben Sie im Textfeld *Neue ID* die neue ID ein.
 
 ---
 ![](/Pictures/Excel-Client/Templates/Template konfigurieren/IDs ändern/ids_aendern_3.png)
 
 ---
 
-4) Klicken Sie auf die Schaltfläche **Anwenden**, um die neuen IDs zu speichern.  
+4) Klicken Sie auf die Schaltfläche **Anwenden**, um die neue ID zu speichern.  
 
 ---
 ![](/Pictures/Excel-Client/Templates/Template konfigurieren/IDs ändern/ids_aendern_4.png)

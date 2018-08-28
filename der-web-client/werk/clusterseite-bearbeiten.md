@@ -1,4 +1,4 @@
-###Clusterseite bearbeiten
+### Clusterseite bearbeiten
 
 Die Clusterseite ist eine HTML-Seite die vom Web-Client wiedergegeben wird. Diese kann von berechtigten Nutzern beliebig angepasst werden und kann viele verschiedene Nutzen erfüllen.
 
@@ -59,7 +59,7 @@ Um die Seite wieder auf den ursprünglichen Zustand zurück zu setzen, klicken S
 
 ---
 
-Wenn Sie Ihre Arbeit abgeschlossen haben, können Sie mit einem Klick auf die Diskette das Ergebnis speichern.
+Wenn Sie Ihre Arbeit abgeschlossen haben, können Sie mit einem Klick auf das **Disketten**-Icon das Ergebnis speichern.
 
 ---
 ![](/Pictures/Web-Client/Werk/Clusterseite bearbeiten/clusterseite_bearbeiten_27.png)

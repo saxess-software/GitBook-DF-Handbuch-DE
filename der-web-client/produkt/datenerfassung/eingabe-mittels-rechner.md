@@ -23,36 +23,34 @@ Sie finden den Rechner im Tabellenkopfbereich.
 
 Um Werte mit Hilfe des Rechners einzufügen, gehen Sie wie folgt vor: 
 
-1) Geben Sie im Feld **Wert** den Wert ein, den Sie einfügen wollen.  
+1) Geben Sie im Textfeld den Wert ein, den Sie einfügen wollen und 2) wählen Sie die Zellen im Wertebereich aus, in welche Sie Daten einpflegen wollen.
+
+> **Hinweis**: Wenn Sie mehrere Zellen markieren, wird der Wert in allen markierten Zellen eingefügt.
 
 ---
 ![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_2.png)
 
 ---
 
-2) Klicken Sie in das Feld im Wertebereich, in welches Sie Daten einpflegen wollen.
-
-> **Hinweis**: Wenn Sie in Schritt 1 mehrere Zellen markieren, wird der Wert in allen markierten Zellen eingefügt.
+3) Klicken Sie auf den Button **Füllen**.
 
 ---
 ![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_3.png)
 
 ---
 
-3) Klicken Sie auf den Button **Füllen**.  
+4) Der eingegebene Wert wird in der markierten Zelle eingefügt.
 
 ---
 ![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_4.png)
 
 ---
 
-4) Der eingegebene Wert wird in der markierten Zelle eingefügt.  
-
 #### *Addition*
 
 Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:  
 
-1) Geben Sie im Feld **Wert** den Wert ein, den Sie Addieren wollen. 
+1) Geben Sie im Textfeld den Wert ein, den Sie Addieren wollen. 
 
 ---
 ![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_5.png)
@@ -74,7 +72,7 @@ Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:
 
 #### *Subtraktion*
 
-1) Geben Sie im Feld **Wert** den Wert ein, den Sie subtrahieren wollen.  
+1) Geben Sie im Textfeld den Wert ein, den Sie subtrahieren wollen.  
 
 ---
 ![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_8.png)
@@ -97,14 +95,14 @@ Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:
 
 #### *Multiplikation*
 
-1) Geben Sie im Feld **Wert** den Wert ein, mit dem Sie multiplizieren wollen.   
+1) Geben Sie im Textfeld den Wert ein, mit dem Sie multiplizieren wollen.   
 
 ---
 ![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_11.png)
 
 ---
 
-2) Markieren Sie die Zellen, die mit dem Wert multipliziert werden sollen und klicken Sie auf den Button *****.  
+2) Markieren Sie die Zellen, die mit dem Wert multipliziert werden sollen und klicken Sie auf den Button **x**.  
 
 ---
 ![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_12.png)
@@ -120,13 +118,13 @@ Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:
  
 #### *Division*
 
-1) Geben Sie im Feld **Wert** den Wert ein, durch den Sie dividieren wollen.  
+1) Geben Sie im Textfeld den Wert ein, durch den Sie dividieren wollen.  
 
 ---
 ![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_14.png)
 
 ---
-2) Markieren Sie die Zellen, die durch den Wert dividiert werden sollen und klicken Sie auf den Button **/**.  
+2) Markieren Sie die Zellen, die durch den Wert dividiert werden sollen und klicken Sie auf den Button **/**.
 
 ---
 ![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_15.png)
@@ -142,7 +140,7 @@ Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:
 
 #### *Gleichverteilung*
 
-1) Geben Sie im Feld **Wert** den Wert ein, den Sie gleichverteilen wollen.  
+1) Geben Sie im Textfeld den Wert ein, den Sie gleichverteilen wollen.  
 
 ---
 ![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_17.png)
@@ -165,7 +163,7 @@ Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:
 
 #### *Verhältnis*
 
-1) Geben Sie im Feld **Wert** den Wert ein, den Sie verteilen wollen.  
+1) Geben Sie im Textfeld den Wert ein, den Sie verteilen wollen.  
 
 ---
 ![](/Pictures/Web-Client/Produkt/Datenerfassung/Eingabe mittels Rechner/rechner_20.png)

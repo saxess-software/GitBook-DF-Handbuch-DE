@@ -9,7 +9,7 @@ Um das Werteformat einer Wertereihe zu ändern, gehen Sie wie folgt vor:
 
 ---
 
-> **Hinweis**: Es stehen Ihnen standardmäßig eine Reihe von Werteformaten zur Verfügung. Sie können jedoch auch [eigene Formate](../listen-und-formate/neues-format-anlegen.md) anlegen.  
+> **Hinweis:** Es stehen Ihnen standardmäßig eine Reihe von Werteformaten zur Verfügung. Sie können jedoch auch [eigene Formate](/der-excel-client/listen-und-formate/neues-format-anlegen.md) anlegen.  
 
 2) Klicken Sie auf die Schaltfläche **Speichern**, um Ihre Auswahl zu speichern.  
 

@@ -93,6 +93,13 @@ Es öffnet sich das Dialogfenster **Hyperlink bearbeiten**.
 
 ---
 
->**Hinweis 1:** Um den Link zu entfernen gehen sie wie in Schritt 1 & 2 beschrieben vor und klicken dann auf **Entfernen Sie den Link**.
+>**Hinweis:** Um den Link zu entfernen gehen sie wie in Schritt 1 & 2 beschrieben vor und klicken dann auf **Entfernen Sie den Link**.
+
+
+<!---
+
 
 >**Hinweis 2:** Damit der Link auch als solcher in der Datenbank gespeichert wird, müssen Sie vorher die Herkunft der Spalte auf **Link** umschalten. Siehe Kapitel [Herkunft ändern](/der-excel-client/templates/template-konfigurieren/herkunft-andern.md).
+
+
+-->

@@ -105,7 +105,7 @@ Wenn Sie die Datei im Excel-Client wieder importieren wollen, speichern Sie die 
 
 **Option B**
 
-1) Klicken Sie in der Ansicht *Fabriken und Produktlinien* auf den **...-ActionLink**.
+1) Klicken Sie in der Ansicht *Fabriken und Produktlinien* auf den ActionLink.
 
 ---
 ![](/Pictures/Excel-Client/Import und Export/import_und_export_12.png)
@@ -176,7 +176,7 @@ Der Import von Produktlinien findet auf Werksebene statt.
 
 Der Export von Fabriken findet auf Werksebene statt. 
 
-1) Klicken Sie in der Ansicht *Fabriken und Produktlinien* auf den **...-ActionLink**.
+1) Klicken Sie in der Ansicht *Fabriken und Produktlinien* auf den ActionLink.
 
 ---
 ![](/Pictures/Excel-Client/Import und Export/import_und_export_20.png)

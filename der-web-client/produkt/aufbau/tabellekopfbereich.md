@@ -4,7 +4,7 @@ Im Tabellenkopfbereich finden Sie ein **Erläuterungsfeld**, den **Rechner** zur
 
 #### *Erläuterungsfeld*
 
-Hier haben Sie die Möglichkeit, den Inhalt Ihres Produkt näher zu beschreiben.
+Hier haben Sie die Möglichkeit, den Inhalt Ihres Produktes näher zu beschreiben.
 
 ---
 ![](/Pictures/Web-Client/Produkt/Aufbau/Tabellenkopfbereich/tabellenkopfbereich_1.png)
@@ -48,6 +48,6 @@ Wenn Sie auf den Button **Kommentare** klicken, öffnet sich ein Fenster, in wel
 
 ---
 
->**Hinweis 1:** Wie auch im Excel-Client, kann ein Nutzer dazu verpflichtet sein, jede Datenänderung durch einen kurzen Kommentar zu begründen. Diese Funktionalität hinterlegen Sie im Excel-Client bei der Benutzerverwaltung.
+>**Hinweis 1:** Wie auch im Excel-Client, kann ein Nutzer dazu verpflichtet sein, jede Datenänderung durch einen kurzen Kommentar zu begründen. Diese Funktionalität hinterlegen Sie im Excel-Client bei der [Benutzerverwaltung](/der-excel-client/werk/benutzer-verwalten.md).
 
 >**Hinweis 2:** Informationen zu den weiteren Funktionen im Tabellenkopfbereich erfahren Sie im Kapitel [Datenerfassung](/der-web-client/produkt/aufbau/tabellenkopfbereich.md).

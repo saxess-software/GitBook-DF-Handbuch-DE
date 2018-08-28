@@ -1,6 +1,6 @@
 ### Manuelle Eingabe
 
-Sie können Daten mittels der Eingabe über Ihre Tastatur erfassen, indem Sie die Werte direkt in die gewünschten Zellen eingeben.  
+Sie können Daten direkt über Ihre Tastatur erfassen, indem Sie die Werte in die gewünschten Zellen eingeben.  
 
 ---
 ![](/Pictures/Web-Client/Produkt/Datenerfassung/Manuelle Eingabe/manuelle_eingabe_1.png)
@@ -8,16 +8,16 @@ Sie können Daten mittels der Eingabe über Ihre Tastatur erfassen, indem Sie di
 ---
 >**Hinweis:** Zellen, deren Inhalt verändert wurde, werden orange markiert.
 
-Sie können für die Eingabe Ihrer Daten auch Excel-Formeln verwenden.  
+Sie können für die Berechnung Ihrer Daten auch Excel-Formeln verwenden.  
 
 ---
 ![](/Pictures/Web-Client/Produkt/Datenerfassung/Manuelle Eingabe/manuelle_eingabe_2.png)
 
 ---
   
-> **Hinweis**: Nur, wenn die Wertereihe bei der Einstellung Herkunft vom Typ XLS oder XLS-Strict definiert ist, bleibt die Formel im Wertebereich bestehen. Andernfalls wird die Formel beim Speichern durch den Wert ersetzt.   
+> **Hinweis**: Nur, wenn die Wertereihe bei der Einstellung [Herkunft](/der-excel-client/templates/template-konfigurieren/herkunft-andern.md) vom Typ XLS oder XLS-Strict definiert ist, bleibt die Formel im Wertebereich bestehen. Andernfalls wird die Formel beim Speichern durch den Wert ersetzt.   
 
-Wenn Sie zuvor im Excel-Client einer Spalte eine Werteliste zugeordnet haben, dann können Sie in diesen Spalten vorgegebene Werte aus einem Dropdown-Menü auswählen.
+Wenn Sie zuvor im Excel-Client einer Spalte eine [Werteliste](/der-excel-client/templates/template-konfigurieren/werteliste-hinzufugen.md) zugeordnet haben, dann können Sie in diesen Spalten vorgegebene Werte aus einem Dropdown-Menü auswählen.
 
 ---
 ![](/Pictures/Web-Client/Produkt/Datenerfassung/Manuelle Eingabe/manuelle_eingabe_3.png)

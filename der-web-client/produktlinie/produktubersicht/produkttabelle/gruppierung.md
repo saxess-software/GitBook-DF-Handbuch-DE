@@ -9,7 +9,7 @@ Die Spaltenüberschriften Ihrer Produkttabelle können als Attribute Ihrer Produ
 
 ---
 
-1) Klicken Sie mit der linken Maustaste in die Spaltenüberschrift, nach der Sie Ihre Spalte gern gruppieren möchten und halten Sie diese gedrückt. Ziehen Sie nun das ausgewählte Feld in das Gruppierungsfeld und lassen Sie die linke Maustaste los.
+1) Klicken Sie mit der linken Maustaste in die Spaltenüberschrift, nach der Sie Ihre Spalte gern gruppieren möchten, und halten Sie diese gedrückt. Ziehen Sie nun das ausgewählte Feld in das Gruppierungsfeld und lassen Sie die linke Maustaste los.
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Gruppieren/gruppierung_2.png)
@@ -23,7 +23,7 @@ Die Spaltenüberschriften Ihrer Produkttabelle können als Attribute Ihrer Produ
 
 ---
 
-3) Wenn Sie eine einzelne Gruppierung ausblenden wollen, klicken Sie auf den kleinen Pfeil links der Gruppierungen. Damit können Sie die Gruppierung zuklappen (und auch wieder aufklappen). 
+3) Wenn Sie eine einzelne Gruppierung ausblenden wollen, klicken Sie auf den kleinen Pfeil links neben den Gruppierungen. Damit können Sie die Gruppierung zuklappen (und auch wieder aufklappen). 
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Gruppieren/gruppierung_4.png)
@@ -42,7 +42,7 @@ Die Spaltenüberschriften Ihrer Produkttabelle können als Attribute Ihrer Produ
 
 ---
 
-5) Sie können innerhalb der bereits vorgenommenen Gruppierung weitere Untergruppierungen vornehmen. Ziehen Sie dazu wie in Schritt 1 beschrieben die gewünschte Spaltenüberschrift in das Gruppierungsfeld.
+5) Sie können innerhalb der bereits vorgenommenen Gruppierung weitere Untergruppierungen vornehmen. Ziehen Sie dazu, wie in Schritt 1 beschrieben, die gewünschte Spaltenüberschrift in das Gruppierungsfeld.
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Gruppieren/gruppierung_7.png)

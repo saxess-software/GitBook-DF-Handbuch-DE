@@ -36,8 +36,9 @@ Wertreihen definieren die Charaktereigenschaften der Werte, die Sie später in d
 
 Jede Wertreihe besitzt eine Reihe von Eigenschaften und Optionen.
 
-* **Nummer** \| Laufende Nummer der Wertreihe \(kann durch den Nutzer nicht verändert werden\) 
-* **Aktion** \| ActionLink, hinter dem sich weitere Optionen verbergen
+* **Nummer** | Laufende Nummer der Wertreihe (kann durch den Nutzer nicht verändert werden)
+
+* **Aktion** | ActionLink, hinter dem sich weitere Optionen verbergen:
 
 | Einstellung | Beschreibung |
 | --- | --- |
@@ -49,16 +50,16 @@ Jede Wertreihe besitzt eine Reihe von Eigenschaften und Optionen.
 | Kommentar bearbeiten | Öffnet das Kommentarfeld in der Zelle "Name" der Wertreihe |
 | Ausschneiden | Schneidet die aktuelle Wertreihe aus |
 
-* **Ist-numerisch** \| Gibt an, ob es sich bei der Eingabe um einen numerischen Wert handelt
+* **Ist-numerisch** | Gibt an, ob es sich bei der Eingabe um einen numerischen Wert handelt:
 
 | Einstellung | Beschreibung |
 | --- | --- |
-| 0 | Nein, bei der Eingabe handelt es sich nicht um eine numerische Zahl |
-| 1 | Ja, bei der Eingabe handelt es sich um eine numerische Zahl |
+| **0** | Nein, bei der Eingabe handelt es sich nicht um eine numerische Zahl. |
+| **1** | Ja, bei der Eingabe handelt es sich um eine numerische Zahl. |
 
-* **Sichtbarkeitsstufe** \|  Bietet die Möglichkeit, Spalten für den Nutzer bei der Dateneingabe auszublenden
+* **Sichtbarkeitsstufe** |  Bietet die Möglichkeit, Spalten für den Nutzer bei der Dateneingabe auszublenden
 
-* **Herkunft** \| Gibt an, woher die Werte stammen
+* **Herkunft** | Gibt an, woher die Werte stammen:
 
 | Einstellung | Beschreibung |
 | --- | --- |
@@ -67,13 +68,11 @@ Jede Wertreihe besitzt eine Reihe von Eigenschaften und Optionen.
 | XLS | Werte durch eine Formal berechnen lassen. Die Excel-Formel kann immer überschrieben und bearbeitet werden |
 | XLS Strict | Werte durch eine Formel berechnen lassen. Die Excel-Formel kann nur bei aufgeklappten Details überschrieben und bearbeitet werden |
 
-* **Werteliste** \| Bietet die Möglichkeit eine Liste mit Werten zu hinterlegen, die im Wertebereich per Dropdown ausgewählt werden können.
+* **Werteliste** | Bietet die Möglichkeit eine Liste mit Werten zu hinterlegen, die im Wertebereich per Dropdown ausgewählt werden können.
+* **Werteformat** | Einstellung eines vordefinierten Werteformats. Sie können individuelle Formate vordefinieren und hier auswählen.
+* **Einheit** | Gibt an, in welcher Einheit die Werte in der Datenbank gespeichert werden. (z.B. EUR, Kilogramm, Kilometer, Prozent, Stück, Text, USD). Sie können jederzeit neue Einheiten in der Liste [**sxUnits**](../listen-und-formate.md) frei definieren.
 
-* **Werteformat** \| Einstellung eines vordefinierten Werteformats. Sie können individuelle Formate vordefinieren und hier auswählen.
-
-* **Einheit** \| Gibt an, in welcher Einheit die Werte in der Datenbank gespeichert werden. \(z.B. EUR, Kilogramm, Kilometer, Prozent, Stück, Text, USD\). Sie können jederzeit neue Einheiten in der Liste [**sxUnits**](../listen-und-formate.md) frei definieren.
-
-* **Skalierung** \| Gibt die Skalierung an, in der die Werte in der Datenbank gespeichert werden. Diese Einstellung hat nur Auswirkungen auf numerische Werte.
+* **Skalierung** | Gibt die Skalierung an, in der die Werte in der Datenbank gespeichert werden. Diese Einstellung hat nur Auswirkungen auf numerische Werte:
 
 | Einstellung | Beschreibung |
 | --- | --- |
@@ -83,7 +82,7 @@ Jede Wertreihe besitzt eine Reihe von Eigenschaften und Optionen.
 | 1000 | Drei Nachkommastelle |
 | 10000 | Vier Nachkommastelle |
 
-* **Effekt** \| Beschreibt das betriebswirtschaftlichen Merkmal, das ein Wert innehat.
+* **Effekt** | Beschreibt das betriebswirtschaftlichen Merkmal, das ein Wert innehat:
 
 | Einstellung | Beschreibung |
 | --- | --- |
@@ -101,11 +100,9 @@ Jede Wertreihe besitzt eine Reihe von Eigenschaften und Optionen.
 | Text | Textwert |
 | Überschrift | Reine Überschrift |
 
-* **Parameter** \| Gibt die Breite der Wertreihe an.
-
-* **Name** \| Bezeichnung der Wertreihe. Es empfiehlt sich, an den Namen einen aussagekräftigen, beschreibenden Kommentar anzufügen, um dem Nutzer die Eingabe zu erleichtern.
-
-* **ID** \| ID der Wertreihe. Kann durch den Nutzer verändert werden. Innerhalb einen Produkts muss die ID der Wertreihe eindeutig sein.
+* **Parameter** | Gibt die Breite der Wertreihe an.
+* **Name** | Bezeichnung der Wertreihe. Es empfiehlt sich, an den Namen einen aussagekräftigen, beschreibenden Kommentar anzufügen, um dem Nutzer die Eingabe zu erleichtern.
+* **ID** | ID der Wertreihe. Kann durch den Nutzer verändert werden. Innerhalb einer Produktlinie muss die ID der Wertreihe eindeutig sein.
 
 Die Eigenschaften und Optionen werden durch das Klicken auf die Schaltfläche **Details zeigen** sichtbar.
 

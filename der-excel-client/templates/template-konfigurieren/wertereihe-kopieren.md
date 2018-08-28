@@ -14,7 +14,7 @@
 
 ---  
 
-3) Geben Sie die Zeile bzw. Spalte ein, vor der Sie die Kopie/n einfügen wollen und geben Sie die Anzahl der Kopien, die Sie erstellen wollen. Klicken Sie auf den Button **Kopieren**, um die Kopien einzufügen.  
+3) Geben Sie die Zeile bzw. Spalte ein, vor der Sie die Kopie/n einfügen wollen und geben Sie die Anzahl der Kopien an, die Sie erstellen wollen. Klicken Sie auf den Button **Kopieren**, um die Kopien einzufügen.  
 
 ---
 ![](/Pictures/Excel-Client/Templates/Template konfigurieren/Wertreihe kopieren/wertreihe_kopieren_3.png)  

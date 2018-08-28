@@ -30,18 +30,18 @@ Tippen Sie einen Suchbegriff in die Suchleiste ein um die Auswahl zu filtern.
 
 ---
 
-Um ein Element zur Auswertung hinzuzufügen habe Sie zwei Möglichkeiten:
+Um ein Element zur Auswertung hinzuzufügen haben Sie zwei Möglichkeiten:
 
-1) klicken Sie auf das Quadrat links neben dem Elementnamen um es mit einem Haken zu markieren und automatisch einem Feld hinzuzufügen
+1) Klicken Sie auf das Quadrat links neben dem Elementnamen um es mit einem Haken zu markieren und automatisch einem Feld hinzuzufügen.
 
-2) ziehen Sie per Drag & Drop das Element in das gewünschte Feld.
+2) Ziehen Sie per Drag & Drop das Element in das gewünschte Feld.
 
 ---
 ![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Feldliste/feldliste_5.png)
 
 ---
 
->**Hinweis:** Die Reihenfolge der Elemente innerhalb der Auswahllisten bestimmt ihre hierarchische Position/Zuorndung. 
+>**Hinweis:** Die Reihenfolge der Elemente innerhalb der Auswahllisten bestimmt ihre hierarchische Position/Zuordnung.
 
 Wenn Sie ein Element einem anderen Feld zuordnen wollen, ziehen Sie das Element per Drag & Drop in das gewünschte Feld.
 
@@ -54,6 +54,7 @@ Wenn Sie ein Element einem anderen Feld zuordnen wollen, ziehen Sie das Element 
 
 
 <!---
+
 
 Der Feldlisten-Bereich unterteilt sich in einen Primär- und einen Sekundärbereich. Je nachdem welches Feld Sie im Primärbereich gewählt haben, wird Ihnen im Sekundärbereich eine andere Auswahl an Feldern angezeigt.
 
@@ -117,6 +118,7 @@ Klicken Sie auf das Feld, welches Sie einblenden wollen und ziehen Sie es mit ge
 ---
 ![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Feldliste/feldliste15.png)
 ---
+
 
 -->
 

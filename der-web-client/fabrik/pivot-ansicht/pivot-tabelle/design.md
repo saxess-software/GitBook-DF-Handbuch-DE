@@ -55,7 +55,7 @@ Das Filterfeld hat keinen direkten Einfluss auf die Pivot-Tabelle. Sie können d
 
 ---
 
->**Hinweis:** Um die Filter- und Sortierfunktion zu nutzen gehen Sie wie in den Kapiteln [Filtern](https://saxess-software.gitbooks.io/datafactory-handbuch-deutsch/content/der-web-client/fabrik/pivot-ansicht/pivot-tabelle/filter-setzen.html) und [Sortierfunktion](https://saxess-software.gitbooks.io/datafactory-handbuch-deutsch/content/der-web-client/fabrik/pivot-ansicht/pivot-tabelle/sortierfunktion.html) beschrieben vor.
+>**Hinweis:** Um die Filter- und Sortierfunktion zu nutzen gehen Sie wie in den Kapiteln [Filter setzen](/der-web-client/fabrik/pivot-ansicht/pivot-tabelle/filter-setzen.md) und [Sortierfunktion](der-web-client/fabrik/pivot-ansicht/pivot-tabelle/sortierfunktion.md) beschrieben vor.
 
 #### *Wertefeld*
 

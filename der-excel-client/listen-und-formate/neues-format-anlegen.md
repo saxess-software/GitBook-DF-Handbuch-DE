@@ -9,6 +9,8 @@ Um ein neues Format anzulegen, gehen Sie wie folgt vor:
 
 ---
 
+> **Hinweis:** Die Option ist auch von anderen Sichten aus über den ActionLink verfügbar.
+
 2) Klicken Sie auf die Option **Formate editieren**.  
 
 ---
@@ -32,7 +34,7 @@ Um ein neues Format anzulegen, gehen Sie wie folgt vor:
 
 > **Hinweis:** Achten Sie bei der Eingabe auf die Verwendung des korrekten Präfixes.  
 
-5) Wählen Sie in der Spalte **BackColor** ggf. eine Hintergrundfarbe, FontColor eine Schriftfarbe und bestimmen Sie in der Spalte **ValueFormat** ggf. ein Anzeigeformat ein.  
+5) Wählen Sie in der Spalte **BackColor** ggf. eine Hintergrundfarbe, **FontColor** eine Schriftfarbe und bestimmen Sie in der Spalte **ValueFormat** ggf. ein Anzeigeformat.
 
 ---
 ![](/Pictures/Excel-Client/Listen und Formate/Neues Format anlegen/neues_format_anlegen_5.png)

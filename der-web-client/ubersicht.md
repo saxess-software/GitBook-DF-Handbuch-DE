@@ -5,12 +5,3 @@ Der Web-Client ist eine Web-Applikation, die Sie mit jeder Art von Webbrowser ö
 Im Gegensatz zum Excel-Client können Sie im Web-Client nur Daten erfassen und visualisieren. Das heißt, Sie können im Web-Client keine neuen Fabriken oder Produktlinien anlegen. Im Web-Client können Sie ausschließlich Objekte (Produkte) kreieren und auf Objekten Daten erfassen.
 
 Sie lernen in den folgenden Kapiteln die gesamten Funktionen und Möglichkeiten des Web-Clients kennen.
-
-
-
-
-
-
-
-
-

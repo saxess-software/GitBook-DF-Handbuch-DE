@@ -2,21 +2,21 @@
 
 Die für ein Produkt definierten Globalattributwerte sowie die Fabrik-, Produktlinien- und Produkt-ID stehen Ihnen in den ausgeblendeten Spalten des Templates für eine mögliche Weiterverwendung zur Verfügung. 
 
-Im folgenden Beispiel sind für einige Produkte Globalattributwerte vergeben worden. Diese Globalattribute sowie die die Fabrik-, Produktlinien- und Produkt-ID sollen im Template selbst als Zellwerte für die Weiterverwendung genutzt werden können.
+Im folgenden Beispiel sind für einige Produkte Globalattributwerte vergeben worden. Diese Globalattribute sowie die die Fabrik-, Produktlinien- und Produkt-ID sollen im Template selbst als Zellenwerte für die Weiterverwendung genutzt werden können.
 
 ---
 ![](/Pictures/Excel-Client/Templates/Template konfigurieren/Globalattribute und IDs verwenden/globalattribute_und_ids_verwenden_1.png)
 
 ---
 
-Im Template werden Ihnen die Globalattributwerte zur Information unterhalb der Kommentarzeile angezeigt. Allerdings können Sie die Werte in dieser Form nicht ohne Weiteres in Formel weiterverwenden.
+Im Template werden Ihnen die Globalattributwerte zur Information unterhalb der Kommentarzeile angezeigt. Allerdings können Sie die Werte in dieser Form nicht ohne Weiteres in Formeln weiterverwenden.
 
 ---
 ![](/Pictures/Excel-Client/Templates/Template konfigurieren/Globalattribute und IDs verwenden/globalattribute_und_ids_verwenden_2.png)
 
 ---
 
-Die Globalattributwerte werden im Template noch an einer anderen Stelle ausgewiesen. Diese ist allerdings in der Templatestandardansicht nicht sichtbar bzw. ausgeblendet. Um die Globalattributwerte bzw. die Fabrik-, Produktlinien- und Produkt-ID einzublenden gehen Sie wie folgt vor.
+Die Globalattributwerte werden im Template noch an einer anderen Stelle ausgewiesen. Diese ist allerdings in der Standardansicht nicht sichtbar bzw. ausgeblendet. Um die Globalattributwerte bzw. die Fabrik-, Produktlinien- und Produkt-ID einzublenden gehen Sie wie folgt vor.
 
 1) Setzen Sie im Excel-Menüband im Reiter **Ansicht** bei der Option **Überschriften** ein Häckchen. Es werden die Spalten- und Zeilennummerierungen eingeblendet.
 

@@ -1,6 +1,6 @@
 #### *Spalte (Wertreihe) ausblenden*  
 
-Sie können Wertreihen ausblenden, sodass diese bei eingeklappten Details nicht zu sehen ist.  
+Sie können Wertreihen ausblenden, sodass diese bei eingeklappten Details nicht zu sehen sind.  
 
 Um eine Spalte auszublenden, gehen Sie wie folgt vor:  
 
@@ -18,7 +18,7 @@ Um eine Spalte auszublenden, gehen Sie wie folgt vor:
 
 ---
 
-3) Die Spalte wird ist nun ausgeblendet und nur noch bei aufgeklappten Details sichtbar.
+3) Die Spalte ist nun ausgeblendet und nur noch bei aufgeklappten Details sichtbar.
 
 ---
 ![](/Pictures/Excel-Client/Templates/Template konfigurieren/Spalten ausblenden/spalten_ausblenden_3.png)

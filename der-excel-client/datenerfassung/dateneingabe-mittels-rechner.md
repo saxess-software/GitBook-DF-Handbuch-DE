@@ -1,6 +1,6 @@
 ### Dateneingabe mittels Rechner   
 
-In DataFactory haben Sie die Möglichkeit, Ihre Daten komfortabel über einen Rechner einzugeben. Der Rechner bietet folgende Rechenoperationen.  
+In DataFactory haben Sie die Möglichkeit, Ihre Daten komfortabel über einen Rechner einzugeben. Der Rechner bietet folgende Rechenoperationen:
 
 |Rechenoperation|Beschreibung|
 | - | -: |

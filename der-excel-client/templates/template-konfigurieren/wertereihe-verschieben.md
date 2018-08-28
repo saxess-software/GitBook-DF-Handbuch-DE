@@ -23,7 +23,7 @@ Um eine Wertreihe zu verschieben, gehen Sie wie folgt vor:
 
 ---  
 
-4) Klicken Sie in der Spalte, in die Sie die Wertreihe verschieben auf den ActionLink in der Zeile **Aktion** und klicken Sie auf die Option **Davor einfügen**, wenn Sie die Spalte vor die gewählte Spalte verschieben wollen oder klicken Sie auf die Option **Danach einfügen**, wenn Sie die Spalte nach der gewählten Spalte einfügen wollen.  
+4) Klicken Sie in der Spalte, in die Sie die Wertreihe verschieben auf den ActionLink in der Zeile **Aktion** und klicken Sie auf die Option **Davor einfügen**, wenn Sie die Spalte vor die gewählte Spalte verschieben wollen, oder klicken Sie auf die Option **Danach einfügen**, wenn Sie die Spalte nach der gewählten Spalte einfügen wollen.  
 
 ---
 ![](/Pictures/Excel-Client/Templates/Template konfigurieren/Wertreihe verschieben/wertreihe_verschieben_4.png)  

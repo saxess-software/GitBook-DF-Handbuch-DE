@@ -1,6 +1,6 @@
 ## DataFactory auf dem Reißbrett entwerfen
 
-Es kann sinnvoll sein, die Struktur von DataFactory für den eigenen Anwendungsfall zunächst auf Papier zu entwickeln bevor Sie mit dem Aufbau im System beginnen. Für die Lösung einer Problemstellungen mit DataFactory gibt es oft nicht nur eine einzige Lösung gibt, sondern verschiedene. 
+Es kann sinnvoll sein, die Struktur von DataFactory für den eigenen Anwendungsfall zunächst auf Papier zu entwickeln bevor Sie mit dem Aufbau im System beginnen. Für die Lösung einer Problemstellung mit DataFactory gibt es oft nicht nur eine einzige Lösung, sondern verschiedene. 
 
 Bei der Konzeptionierung des Systems werden Sie sich Fragen stellen wie bspw.:
 

@@ -2,7 +2,7 @@
 
 Damit der Benutzer möglichst einfach und schnell ein Verständnis für den Inhalt und die Funktionsweise des Templates erlangt, können Sie über die **Kommentarfunktion** jede einzelne Spalte näher beschreiben.
 
-1) Klicken Sie in der gewünschten Spalten auf das **...**-Kontextmenü.
+1) Klicken Sie in der gewünschten Spalte auf den ActionLink in der Spalte **Aktion**.
 
 ---
 ![](/Pictures/Excel-Client/Templates/Template konfigurieren/Kommentare einfügen/kommentare_einfuegen_1.png)

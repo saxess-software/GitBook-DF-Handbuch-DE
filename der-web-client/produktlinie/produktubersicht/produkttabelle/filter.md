@@ -16,7 +16,7 @@ Indem Sie Filter in Ihrer Produkttabelle verwenden, können Sie die Anzahl der I
 
 ---
 
-2) Wählen Sie als erstes mit Hilfe des obersten Dropdown-Menüs das gewünschte Suchmuster aus, nach dem die Produkte gefiltert werden sollen. Sie können definieren, dass die Spalte, in der Sie filtern möchten, nur Zeilen angezeigt werden, die:
+2) Wählen Sie als erstes mit Hilfe des obersten Dropdown-Menüs das gewünschte Suchmuster aus, nach dem die Produkte gefiltert werden sollen. Sie können definieren, dass der Filter die Datensätze aussortiert, die:
 
 * gleich / ungleich dem Filterwert sind
 * mit dem Filterwert beginnen / enden

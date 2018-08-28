@@ -1,4 +1,4 @@
-## Neue Liste anlegen  
+### Neue Liste anlegen  
 
 Um eine neue Liste anzulegen, gehen Sie wie folgt vor:  
 
@@ -8,6 +8,8 @@ Um eine neue Liste anzulegen, gehen Sie wie folgt vor:
 ![](/Pictures/Excel-Client/Listen und Formate/Neue Listen anlegen/neue_listen_anlegen_1.png)
 
 ---
+
+> **Hinweis:** Die Option ist auch von anderen Sichten aus über den ActionLink verfügbar.
 
 2) Klicken Sie auf die Option **Listen editieren**.  
 
@@ -24,7 +26,7 @@ Um eine neue Liste anzulegen, gehen Sie wie folgt vor:
 ---
  
 
-4) Geben Sie in der Spalte **ListID** eine ListeID ein.  
+4) Geben Sie in der Spalte **ListID** eine ListenID ein.  
 
 ---
 ![](/Pictures/Excel-Client/Listen und Formate/Neue Listen anlegen/neue_listen_anlegen_4.png) 

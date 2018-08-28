@@ -1,6 +1,6 @@
 ## Werk
 
-#### Allgemein
+### Allgemein
 
 Im Gegensatz zum Excel-Client können Sie sich im Web-Client nur ein einzelnes Werk anzeigen lassen. Die Möglichkeit der Werksübersicht steht Ihnen nur im Excel-Client zur Verfügung.
 

@@ -15,7 +15,7 @@ Wenn die Kommentarfunktion für einen Benutzer aktiviert ist, öffnet sich beim 
 #### *Bemerkungen anzeigen*
 Sie können sich alle Bemerkungen, die Benutzer in einem Produkt eingestellt haben, anzeigen lassen.
 
-1) Klicken Sie im Produkt auf das **...-Kontextmenü**.
+1) Klicken Sie bei der Produktsicht auf den ActionLink.
 
 ---
 ![](/Pictures/Excel-Client/Datenerfassung/Bemerkungen/bemerkungen_2.png)
@@ -29,7 +29,7 @@ Sie können sich alle Bemerkungen, die Benutzer in einem Produkt eingestellt hab
 
 ---
 
-3) Ihnen werden alle Kommentare angezeigt zu diesem Produkt angezeigt.
+3) Ihnen werden alle Kommentare zu diesem Produkt angezeigt.
 
 ---
 ![](/Pictures/Excel-Client/Datenerfassung/Bemerkungen/bemerkungen_4.png)

@@ -1,6 +1,6 @@
 ### *Hyperlinks*
 
-Um in einer Spalte Hyperlinks einfügen zu können muss die Herkunft der Spalte zuvor auf Links umgestellt werden. (siehe im Kapitel [Herkunft ändern](/der-excel-client/templates/template-konfigurieren/herkunft-andern.md))
+Um in einer Spalte Hyperlinks einfügen zu können muss die Herkunft der Spalte zuvor auf *Link* umgestellt werden. (siehe im Kapitel [Herkunft ändern](/der-excel-client/templates/template-konfigurieren/herkunft-andern.md))
 
 ---
 ![](/Pictures/Excel-Client/Datenerfassung/Hyperlinks/hyperlinks_1.png)
@@ -25,7 +25,7 @@ Es öffnet sich ein Dialogfenster mit dem Sie die die Verlinkung konfigurieren k
 
 #### Lokale Hyperlinks
 
-Sie können den Hyperlink so konfigurieren, dass dieser auf eine lokale Datei oder einem lokalen Ordner verweist. Wenn man diesen Link anwählt öffnet sich ein neues Fenster des Explorers. Um den Pfad der Datei oder des Ordners anzugeben können entweder den Pfad manuell in das große Textfeld eintippen oder Sie nutzen die Funktionen **Ordner auswählen** bzw. **Datei auswählen**. Alternativ können Sie sich den Pfad mit Klick auf **Aus Zwischenablage einfügen** in das Textfeld einfügen lassen, sollten Sie diesen zuvor wo anders kopiert haben.
+Sie können den Hyperlink so konfigurieren, dass dieser auf eine lokale Datei oder einem lokalen Ordner verweist. Wenn man diesen Link anwählt öffnet sich ein neues Fenster des Explorers. Um den Pfad der Datei oder des Ordners anzugeben können Sie entweder den Pfad manuell in das große Textfeld eintippen oder Sie nutzen die Funktionen **Ordner auswählen** bzw. **Datei auswählen**. Alternativ können Sie sich den Pfad mit Klick auf **Aus Zwischenablage einfügen** in das Textfeld einfügen lassen, sollten Sie diesen zuvor wo anders kopiert haben.
 
 ---
 ![](/Pictures/Excel-Client/Datenerfassung/Hyperlinks/hyperlinks_4.png)
@@ -48,7 +48,7 @@ Abschließend vergeben Sie einen **Anzeigenamen** und bestätigen mit Klick auf 
 
 #### Internetlinks
 
-Der Link kann auch auf Internetseiten, wie z.B. die Unternehmenswebseite oder dem Ticketsystem, verweisen. Dazu wählen sie das Untermenü **Internet**.
+Der Link kann auch auf Internetseiten, wie z.B. die Unternehmenswebseite oder dem Ticketsystem, verweisen. Dazu wechseln Sie zur Registerkarte **Internet**.
 
 ---
 ![](/Pictures/Excel-Client/Datenerfassung/Hyperlinks/hyperlinks_7.png)
@@ -61,7 +61,7 @@ Die URL tippen sie wieder in das obere Textfeld ein oder lassen es durch die Fun
 
 #### Befehle
 
-Mit der dritten Option **Befehl** können Sie Sichten der DataFactory (Fabriksicht, Produktdatentabelle, etc.) verlinken.
+Im dritten Tab **Befehl** können Sie Sichten der DataFactory (Fabriksicht, Produktdatentabelle, etc.) verlinken.
 
 ---
 ![](/Pictures/Excel-Client/Datenerfassung/Hyperlinks/hyperlinks_8.png)
@@ -82,4 +82,4 @@ Danach wählen Sie absteigend die von Ihnen gewünschte Sicht aus, vergeben eine
 
 ---
 
->**Hinweis:** Wenn Sie die Option **Index als Anzeigename verwenden** wählen, dann wird statt dem Abzeigenamen die Pfadangabe der Sicht mit Hilfe der IDs angezeigt.
+>**Hinweis:** Wenn Sie die Option **Index als Anzeigename verwenden** wählen, dann wird statt dem Anzeigenamen die Pfadangabe der Sicht mit Hilfe der IDs angezeigt.
