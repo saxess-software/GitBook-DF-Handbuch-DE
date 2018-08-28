@@ -30,7 +30,7 @@ Um diese Darstellungsweise für ein Template/Produkt zu aktivieren, gehen Sie wi
 2) Klicken Sie in die Spalte **Template** und ändern Sie im Suffix das zeitliche Kennzeichen (J, M oder T) in **N** und **speichern** Sie im Anschluss Ihre Änderung.
 
 ---
-![]/Pictures/Web-Client/Produkt/Aufbau/Tabellenbereich/tabellenbereich_4.png
+![](/Pictures/Web-Client/Produkt/Aufbau/Tabellenbereich/tabellenbereich_4.png)
 
 ---
 
