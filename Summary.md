@@ -140,6 +140,4 @@
 	  * [Hyperlinks](der-web-client/produkt/datenerfassung/hyperlinks.md)
       * [FlexSuche](der-web-client/produkt/datenerfassung/flexsuche.md)
   * [Berechtigungen](der-web-client/berechtigung.md)
-
-
-
+* [DataFactory-Datenbank](installation-der-datafactory-datenbank.md)

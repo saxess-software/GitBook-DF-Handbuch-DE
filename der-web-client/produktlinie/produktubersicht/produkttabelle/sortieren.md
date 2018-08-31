@@ -9,7 +9,7 @@ Um die Werte innerhalb einer Spalte zu sortieren, haben Sie zwei Möglichkeiten:
 1) Klicken Sie auf das Kontextmenü-Symbol (drei vertikal angeorndete Punkte) rechts neben der Überschrift der Spalte, in der Sie die Sortierung vornehmen wollen und wählen Sie **Aufsteigend sortieren/Absteigend sortieren**.
 
 ---
-![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Sortieren/sortieren_l.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Sortieren/sortieren_1.png)
 
 ---
 

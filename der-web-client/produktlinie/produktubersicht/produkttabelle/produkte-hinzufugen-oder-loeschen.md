@@ -11,7 +11,7 @@ Sie haben zwei Möglichkeiten, ein neues Produkt anzulegen.
 1) Klicken Sie in der Buttonleiste auf das **+**-Symbol ("Produkt hinzufügen").
 
 ---
-![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Produkte-hinzufuegen-oder-loeschen/produkte_hinzufuegen_oder_loeschen_l.png)
+![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Produkte-hinzufuegen-oder-loeschen/produkte_hinzufuegen_oder_loeschen_1.png)
 
 ---
 
