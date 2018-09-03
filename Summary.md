@@ -13,13 +13,6 @@
 * [Der Excel-Client](der-excel-client.md)
   * [Übersicht](der-excel-client/ubersicht.md)
   * [Installation und Updates](der-excel-client/installation-und-update.md)
-  
-<!---
-  
-  * [Updates](der-excel-client/updates.md)
- 
--->
- 
   * [Struktureller Aufbau](der-excel-client/struktureller-aufbau.md)
   * [Werk](der-excel-client/werk.md)
     * [Werksübersicht](der-excel-client/werk/werksubersicht.md)
