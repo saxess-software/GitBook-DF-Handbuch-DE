@@ -54,7 +54,7 @@ Um den Excel-Client herunterzuladen, müssen Sie sich zunächst zunächst auf **
 -->
 
 
-> **Hinweis:** Bei der heruntergeladenen Datei handelt es sich um eine .zip-Datei, d.h. eine Datei, deren Inhalt komprimiert wurde. Diese muss zunächst entpackt werden.
+> **Hinweis:** Bei der Installationsdatei handelt es sich um eine .zip-Datei, d.h. eine Datei, deren Inhalt komprimiert wurde. Diese muss zunächst entpackt werden.
 
 #### Datei entpacken und öffnen
 
