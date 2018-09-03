@@ -1,4 +1,4 @@
-## Installation
+## Installation und Updates
 
 Der Umfang der Installation richtet sich danach, ob Sie Ihre DataFactory-Datenbank auf einem eigenen SQL Server verwalten oder wir Ihre Datenbank auf unseren Cloud-Server für Sie hosten. 
 
@@ -6,7 +6,11 @@ In beiden Fällen wird zunächst der Excel-Client auf Ihrem System installiert. 
 
 ### Installation des Excel-Clients
 
-Die Installationsdatei wurde Ihnen ggf. bereits zur Verfügung gestellt. Wenn nicht, können Sie sich diesen unter <https://planning-factory.com> herunterladen.
+Die Installationsdatei wird Ihnen von uns zur Verfügung gestellt.
+
+
+<!---
+
 
 #### Registrierung und Download
 
@@ -46,6 +50,10 @@ Um den Excel-Client herunterzuladen, müssen Sie sich zunächst zunächst auf **
 
 ---
 
+
+-->
+
+
 > **Hinweis:** Bei der heruntergeladenen Datei handelt es sich um eine .zip-Datei, d.h. eine Datei, deren Inhalt komprimiert wurde. Diese muss zunächst entpackt werden.
 
 #### Datei entpacken und öffnen
@@ -84,5 +92,33 @@ Wenn Sie eine DataFactory-Datenbank auf Ihrem eigenen Server nutzen wollen, bitt
 
 ### Update des Excel-Clients
 
-Den aktuellen Release des Excel-Clients finden Sie auf <https://planning-factory.com>. Laden Sie ihn dort herunter und installieren Sie Ihn wie Kapitel [Updates](../../updates.md) beschrieben.
+Den aktuellen Release des Excel-Clients stellen wir Ihnen stets zur Verfügung. Nachdem Sie die neue Version des Excel-Clients heruntergeladen haben installieren Sie Ihn wie oben beschrieben. Bei Nutzung eines neuen Releases gehen die Verbindungen die Sie im alten Client genutzt haben verloren. Im Folgenden wird Ihnen erklärt wie Sie die Verbindungen wiederherstellen können.
 
+Die Verbindungen zu Ihren DataFactory-Datenbanken haben Sie bereits über Ihre bisherigen Excel-Client-Versionen definiert. Für jede Datenbankverbindung, die Sie in Ihrem Excel-Client anlegen, wird eine sogenannte Key-File erstellt und in Ihrem DataFactory-Ordner **+** abgelegt. Lesen Sie dazu mehr in Kapitel [Keys](werk/keys.md).
+
+Über diese Key-Files können Sie in Ihrer neuen Excel-Client-Version einfach und schnell Ihre Datenbankverbindungen  wiederherstellen. Ihre Key-Files haben Sie wie in Kapitel [Keys](werk/keys.md) erläutert in einem von Ihnen gewählten Ordner gespeichert. In Ihrem neuen Excel-Client muss nun die Information hinterlegt werden, in welchem Ordner  sich die Key-Files befinden. Gehen Sie dazu wie folgt vor.
+
+1) Wählen Sie in der **Werksübersicht** die Option **Neu**.
+
+---
+![](/Pictures/Excel-Client/Updates/updates_1.png)
+
+---
+
+2) In dem sich öffnenden Fenster wählen Sie den Ordner aus, in dem sich Ihre Key-Files befinden und klicken Sie auf **OK**.
+
+---
+![](/Pictures/Excel-Client/Updates/updates_2.png)
+
+---
+
+3) In Ihrem Excel-Client werden Ihnen nun Ihre Cluster angezeigt.
+
+---
+![](/Pictures/Excel-Client/Updates/updates_3.png)
+
+---
+
+### Update der API
+
+Es kann notwendig sein, ein Update der API durchzuführen. Sollte die Versionsnummer der Datei nicht der Versionsnummer des Servers entsprechen, bitten Sie den Administrator diesen zu updaten. Sollten Sie selbst der Administrator sein, lesen Sie in Kapitel [Installation der DataFactory-Datenbank](../installation-der-datafactory-datenbank.md) weiter.

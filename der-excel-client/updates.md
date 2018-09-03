@@ -2,7 +2,7 @@
 
 ### Update des Excel-Clients
 
-Das aktuelle Release des Excel-Clients finden Sie auf <https://planning-factory.com>. Laden Sie ihn dort herunter und installieren Sie Ihn wie in Kapitel [Installation](installation-und-update.md) beschrieben.
+Das aktuelle Release des Excel-Clients wird Ihnen von uns direkt bereitgestellt. Sie erhalten einen Downloadlink mit dem Sie Zugriff auf die aktuellste Client-Version erhalten. Laden Sie den Client herunter und installieren den Client wie in Kapitel [Installation](installation-und-update.md) beschrieben.
 
 Die Verbindungen zu Ihren DataFactory-Datenbanken haben Sie bereits über Ihre bisherigen Excel-Client-Versionen definiert. Für jede Datenbankverbindung, die Sie in Ihrem Excel-Client anlegen, wird eine sogenannte Key-File erstellt und in Ihrem DataFactory-Ordner **+** abgelegt. Lesen Sie dazu mehr in Kapitel [Keys](werk/keys.md).
 
