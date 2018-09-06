@@ -49,40 +49,16 @@ Um den Zoomfaktor auf die Standardeinstellung zurückzusetzen, klicken Sie auf d
 
 ---
 
-#### Seiteneinstellungen
+#### Tabellenformateinstellungen
 
-In den Seiteneinstellungen, die sich in im Reiter **Anzeige** und **Anzeige 2** befinden, können Sie definieren, wie die DataFactory in den einzelnen Sichten dargestellt wird.
-
-<!---
+In den Tabelleneinstellung können Sie definieren, wie Ihre Produktübersicht auf der Produktlinien-Ebene dargestellt wird.
 
 ---
 ![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_7.png)
 
 ---
 
--->
-
-|Allgemeine Seiteneinstellungen|Beschreibung|
-| : | : |
-|Linkfarbe|Schriftfarbe für den als Hyperlink markierten Text.|
-|Kopf Hintergrundfarbe|Hintergrundfarbe des Kopfbereiches.|
-|Kopf Schriftfarbe|Schriftfarbe vom Text im Kopfbereich.|
-|Seite Hintergrundfarbe|Hintergrundfarbe des allgemeinen Seitenbereiches.|
-
-|Werksseiteneinstellungen|Beschreibung|
-| : | : |
-|Kachel Hintergrundfarbe|Hintergrundfarbe der Verbindungskacheln auf der Werksübersicht.|
-|Kachel Linienfarbe|Farbe der Umrandung der Verbindungskacheln, denen kein Bild zugeordnet ist.|
-|Kachel Schriftfarbe|Farbe mit dem die Kachelbezeichnung in der Werksübersicht geschrieben ist.|
-
-|Fabrikseiteneinstellungen|Beschreibung|
-| : | : |
-|Fabrik Hintergrundfarbe|Farbe mit der die Balken, in denen Farbik-ID und Fabrikname stehen, gefüllt sind.|
-|Fabrik Schriftfarbe|Schriftfarbe mit dem der Text in jenen Balken geschrieben ist.|
-|Linien Schriftfarbe Schreibrecht|Schriftfarbe mit der die Produktlinien in der Fabriksicht, für die Sie Schreibrechte haben, geschrieben sind.|
-|Linien Schriftfarbe Leserecht|Schriftfarbe mit der die Produktlinien in der Fabriksicht, für die Sie Leserechte haben, geschrieben sind.|
-
-|Tabelleneinstellungen|Beschreibung|
+|Tabelleneinstellung|Beschreibung|
 | : | : |
 |Wertefarbe|Hintergrundfarbe der Spalten **NameShort**, **Status**,**Template** und der **Globalattribute**.|
 |Wertefarbe nach Änderung| Hintergrundfarbe der Spalten **NameShort**, **Status**,**Template** und der **Globalattribute** wenn ein Wert geändert wurde.|
@@ -90,16 +66,16 @@ In den Seiteneinstellungen, die sich in im Reiter **Anzeige** und **Anzeige 2** 
 |Statische Farbe nach Änderung| Hintergrundfarbe der Spalten **Action**, **ProductID** wenn ein Wert geändert wurde.|
 |Tabellenformat|Layout, in welchem die Tabelle angezeigt wird. Die zur Auswahl stehenden Formate entsprechen den Tabellenformaten, die Ihnen standardmäßig in Excel zur Verfügung stehen. Wenn Sie in Excel eine neue Vorlage für ein Tabellenformat erstellen, steht Ihnen dieses auch an dieser Stelle zur Verfügung.|
 
-Wenn Sie Änderungen an den Seiteneinstellungen vornehmen wollen, gehen Sie wie folgt vor.
+Wenn Sie Änderungen an den Tabelleneinstellungen vornehmen wollen, gehen Sie wie folgt vor.
 
-1) Klicken Sie auf den Button mit der Seiteneinstellung, die Sie ändern wollen.
+1) Klicken Sie auf den Button mit der Tabelleneinstellung, die Sie ändern wollen.
 
 ---
 ![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_8.png)
 
 ---
 
-2) Wählen Sie in dem sich öffnenden Fenster die gewünschte Farbe aus und klicken Sie auf **OK**.
+2) Wählen Sie in dem sich öffnenden Fenster die gewünschte Farbe aus und Klicken Sie auf **OK**.
 
 ---
 ![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_9.png)
@@ -131,18 +107,15 @@ Wenn Sie Änderungen an den Seiteneinstellungen vornehmen wollen, gehen Sie wie 
 
 #### Zeilen alternierend einfärben
 
-Über die Option **Tabelleneinstellungen**, im Reiter **Anzeige 2**, haben Sie auch die Möglichkeit Ihre Tabellenzeilen alternierend einzufärben, d.h. das Ihre Zeilen abwechselnd farbig dargestellt werden. Dazu müssen zunächst alle anderen Tabelleneinstellungen deaktiviert werden und unter Tabellenformat eine Auswahl getroffen sein.
+Über die Option **Tabellenformat** haben Sie auch die Möglichkeit Ihre Tabellenzeilen alternierend einzufärben, d.h. das Ihre Zeilen abwechselnd farbig dargestellt werden. Dazu müssen zunächst alle anderen Tabelleneinstellungen deaktiviert werden und unter Tabellenformat eine Auswahl getroffen sein.
 
 ---
 ![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_13.png)
 
 ---
-
 ![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_14.png)
 
 ---
-
->**Hinweis:** Sie können als Tabellenformat auch weiterhin die Standardauswahl nutzen. Die Farbe der Tabellenzeilen wird sich auch dann abwechseln.
 
 #### Matrixeinstellungen
 
