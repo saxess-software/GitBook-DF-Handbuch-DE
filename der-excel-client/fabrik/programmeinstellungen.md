@@ -161,3 +161,23 @@ Folgende Optionen stehen Ihnen zur Verfügung:
 | Zeilenüberschriften| Zeilenüberschriften, die Sie neu eingeben oder ändern, werden markiert. |
 | Spaltenüberschriften| Spaltenüberschriften, die Sie neu eingeben oder ändern, werden markiert. |
 | Kalkulierte Einträge| Zellen, die Formeln enthalten und die durch Änderung der Bezugswerte neue Ergebnisse berechnen, werden markiert. |
+
+#### Einstellungen exportieren
+
+Sie können Ihre Einstellungen als .ini-Datei exportieren lassen. Wenn Sie bspw. auf eine neuere Version der DataFactory umsteigen oder eine Neuinstallation durchführen, dann haben Sie mit der Konfigurationsdatei die Möglichkeit Ihre Einstellungen auf die neue Installation zu importieren.
+
+Klicken Sie im Reiter **Anzeige** auf **Exportieren**.
+
+>**Hinweis:** Mit der Option **Ungenutzte Schlüssel einbeziehen** werden auch die Variablen in die Konfigurationsdatei kopiert die noch die Standardwerte enthalten. Sie haben dann die Möglichkeit mit einem Texteditor die Einstellungen weiter anzupassen.
+
+---
+![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_16.png)
+
+---
+
+Es öffnet sich ein Speicherdialog. Bestimmen Sie sowohl Speicherort als auch Dateiname und bestätigen Sie mit **Speichern**.
+
+---
+![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_17.png)
+
+---

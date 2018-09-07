@@ -21,4 +21,4 @@ Doppelklicken Sie auf ein Ergebnis um den entsprechenden Pfad zu öffnen.
 
 ---
 
->**Hinweis:** Das Dialogfenster schließt sich beim Öffnen eines Suchergebnisses automatisch.
+>**Hinweis:** Das Dialogfenster schließt sich beim Öffnen eines Suchergebnisses automatisch. Ihre Suchergebnisse bleiben aber bis zum Neustart des Clients zwischengespeichert.
