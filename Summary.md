@@ -93,6 +93,7 @@
   * [Daten auswerten](der-excel-client/daten-auswerten.md)
     * [Pivot auswerten](der-excel-client/daten-auswerten/pivot-auswerten.md)
   * [Import und Export](der-excel-client/import-und-export.md)
+  * [Suche](der-excel-client/suche.md)
   * [DataFactory auf dem Reißbrett](der-excel-client/datafactory-auf-dem-reissbrett.md)
 * [Der Web-Client](der-web-client.md)
   * [Übersicht](der-web-client/ubersicht.md)
