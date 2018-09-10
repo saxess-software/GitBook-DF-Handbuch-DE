@@ -50,3 +50,16 @@ Um in einem Template/Produkt die Zeitachse zu erweitern, gehen Sie wie folgt vor
 ---
 
 > **Hinweis:** Die neuen Zeitwerte werden automatisch einsortiert, d.h. Sie können auch Werte einfügen, die vor dem ersten Zeitwert der bestehenden Zeitachse liegen.
+
+#### Zeitachse kürzen
+
+Um in einem Template/Produkt die Zeitachse zu kürzen, gehen Sie wie folgt vor:
+
+1) Klicken Sie mit der rechten Maustaste auf den Zeitwert den Sie entfernen wollen und wählen Sie **Löschen**.
+
+---
+![](/Pictures/Excel-Client/Templates/Template konfigurieren/Zeitachse erweitern/zeitachse_erweitern_8.png)
+
+---
+
+>**Hinweis:** Um mehrere Zeiteinträge auf einmal zu löschen, markieren Sie die gewünschten Einträge mit gedrückter linker Maustaste und klicken dann auf **Löschen**. Sollten in den Zeilen noch Werte gestanden haben können Sie diese wiederherstellen indem Sie jene Zeiteinträge wieder hinzufügen.

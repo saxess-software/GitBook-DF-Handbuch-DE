@@ -7,7 +7,7 @@ Abgesehen von der Werksübersicht, befindet sich auf jeder Sicht rechts neben de
 
 ---
 
-In das obere Textfeld tippen Sie den SUchbegriff ein und bestätigen Ihre Auswahl mit *Suchen*.
+In das obere Textfeld tippen Sie den Suchbegriff ein und bestätigen Ihre Auswahl mit **Suchen**.
 
 ---
 ![](/Pictures/Excel-Client/Suche/suche_2.png)
