@@ -62,6 +62,11 @@ In den Seiteneinstellungen, die sich in im Reiter **Anzeige** und **Anzeige 2** 
 
 -->
 
+---
+![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_18.png)
+
+---
+
 |Allgemeine Seiteneinstellungen|Beschreibung|
 | : | : |
 |Linkfarbe|Schriftfarbe für den als Hyperlink markierten Text.|
@@ -74,6 +79,11 @@ In den Seiteneinstellungen, die sich in im Reiter **Anzeige** und **Anzeige 2** 
 |Kachel Hintergrundfarbe|Hintergrundfarbe der Verbindungskacheln auf der Werksübersicht.|
 |Kachel Linienfarbe|Farbe der Umrandung der Verbindungskacheln, denen kein Bild zugeordnet ist.|
 |Kachel Schriftfarbe|Farbe mit dem die Kachelbezeichnung in der Werksübersicht geschrieben ist.|
+
+---
+![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_19.png)
+
+---
 
 |Fabrikseiteneinstellungen|Beschreibung|
 | : | : |
