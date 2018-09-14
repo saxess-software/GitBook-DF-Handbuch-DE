@@ -70,15 +70,15 @@ In den Seiteneinstellungen, die sich in im Reiter **Anzeige** und **Anzeige 2** 
 |Allgemeine Seiteneinstellungen|Beschreibung|
 | : | : |
 |Linkfarbe|Schriftfarbe für den als Hyperlink markierten Text.|
-|Kopf Hintergrundfarbe|Hintergrundfarbe des Kopfbereiches.|
+|Kopf Hintergrundfarbe|Hintergrundfarbe vom **Kopfbereich**.|
 |Kopf Schriftfarbe|Schriftfarbe vom Text im Kopfbereich.|
 |Seite Hintergrundfarbe|Hintergrundfarbe des allgemeinen Seitenbereiches.|
 
 |Werksseiteneinstellungen|Beschreibung|
 | : | : |
-|Kachel Hintergrundfarbe|Hintergrundfarbe der Verbindungskacheln auf der Werksübersicht.|
+|Kachel Hintergrundfarbe|Hintergrundfarbe der Verbindungskacheln auf der **Werksübersicht**.|
 |Kachel Linienfarbe|Farbe der Umrandung der Verbindungskacheln, denen kein Bild zugeordnet ist.|
-|Kachel Schriftfarbe|Farbe mit dem die Kachelbezeichnung in der Werksübersicht geschrieben ist.|
+|Kachel Schriftfarbe|Farbe mit dem die **Kachelbezeichnung** in der Werksübersicht geschrieben ist.|
 
 ---
 ![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_19.png)
@@ -89,8 +89,8 @@ In den Seiteneinstellungen, die sich in im Reiter **Anzeige** und **Anzeige 2** 
 | : | : |
 |Fabrik Hintergrundfarbe|Farbe mit der die Balken, in denen Farbik-ID und Fabrikname stehen, gefüllt sind.|
 |Fabrik Schriftfarbe|Schriftfarbe mit dem der Text in jenen Balken geschrieben ist.|
-|Linien Schriftfarbe Schreibrecht|Schriftfarbe mit der die Produktlinien in der Fabriksicht, für die Sie Schreibrechte haben, geschrieben sind.|
-|Linien Schriftfarbe Leserecht|Schriftfarbe mit der die Produktlinien in der Fabriksicht, für die Sie Leserechte haben, geschrieben sind.|
+|Linien Schriftfarbe Schreibrecht|Schriftfarbe mit der die Produktlinien in der **Fabriksicht**, für die Sie Schreibrechte haben, geschrieben sind.|
+|Linien Schriftfarbe Leserecht|Schriftfarbe mit der die Produktlinien in der **Fabriksicht**, für die Sie Leserechte haben, geschrieben sind.|
 
 |Tabelleneinstellungen|Beschreibung|
 | : | : |
@@ -98,7 +98,7 @@ In den Seiteneinstellungen, die sich in im Reiter **Anzeige** und **Anzeige 2** 
 |Wertefarbe nach Änderung| Hintergrundfarbe der Spalten **NameShort**, **Status**,**Template** und der **Globalattribute** wenn ein Wert geändert wurde.|
 |Statische Farbe| Hintergrundfarbe der Spalten **Action**, **ProductID**.|
 |Statische Farbe nach Änderung| Hintergrundfarbe der Spalten **Action**, **ProductID** wenn ein Wert geändert wurde.|
-|Tabellenformat|Layout, in welchem die Tabelle angezeigt wird. Die zur Auswahl stehenden Formate entsprechen den Tabellenformaten, die Ihnen standardmäßig in Excel zur Verfügung stehen. Wenn Sie in Excel eine neue Vorlage für ein Tabellenformat erstellen, steht Ihnen dieses auch an dieser Stelle zur Verfügung.|
+|Tabellenformat|Layout, in welchem die Tabelle angezeigt wird. Die zur Auswahl stehenden Formate entsprechen den Tabellenformaten, die Ihnen standardmäßig in Excel zur Verfügung stehen. Wenn Sie in Excel eine neue Vorlage für ein Tabellenformat erstellen, steht Ihnen diese auch in der DataFactory zur Verfügung.|
 
 Wenn Sie Änderungen an den Seiteneinstellungen vornehmen wollen, gehen Sie wie folgt vor.
 

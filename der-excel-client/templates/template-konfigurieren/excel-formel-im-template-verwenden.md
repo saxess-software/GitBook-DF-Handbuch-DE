@@ -18,7 +18,7 @@ Um Excel-Formeln in Ihr Template zu integrieren, gehen Sie wie folgt vor:
 ---
 
 
-> **Hinweis:** Wie Sie später bei der Dateneingabe die Möglichkeit haben wollen, die Formel zu überschreiben, wählen Sie die Einstellung XLS. Soll die Formel schreibgeschützt sein, wählen Sie die Einstellung XLS-Strict.  
+> **Hinweis:** Wenn Sie später bei der Dateneingabe die Möglichkeit haben wollen, die Formel zu überschreiben, wählen Sie die Einstellung XLS. Soll die Formel schreibgeschützt sein, wählen Sie die Einstellung XLS-Strict.  
 
 3) Gehen Sie nun in die erste Zeile Ihres Wertebereichs und geben Sie Ihre gewünschte Formel ein.  
 
@@ -37,4 +37,6 @@ Um Excel-Formeln in Ihr Template zu integrieren, gehen Sie wie folgt vor:
 5) Klicken Sie auf die Schaltfläche **Speichern**, um Ihre Eingabe zu sichern.  
 
 
-> **Hinweis:** Sie können all ihre bekannten Excel-Formeln in gewohnter Art und Weise nutzen. Es besteht auch die Möglichkeit einen ***manuellen Zeilenumbruch*** *(Alt+Enter)* in die Formel einzubauen.
+> **Hinweis 1:** Sie können all ihre bekannten Excel-Formeln in gewohnter Art und Weise nutzen. Es besteht auch die Möglichkeit einen ***manuellen Zeilenumbruch*** *(Alt+Enter)* in die Formel einzubauen.
+
+> **Hinweis 2:** Verweise auf die Eigenschaften einer Spalte (bspw. Werttyp, Effekt, usw.) sind nicht kompatibel.
