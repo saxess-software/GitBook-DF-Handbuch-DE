@@ -15,7 +15,7 @@ Sie können für die Berechnung Ihrer Daten auch Excel-Formeln verwenden.
 
 ---
   
-> **Hinweis**: Nur, wenn die Wertereihe bei der Einstellung [Herkunft](/der-excel-client/templates/template-konfigurieren/herkunft-andern.md) vom Typ XLS oder XLS-Strict definiert ist, bleibt die Formel im Wertebereich bestehen. Andernfalls wird die Formel beim Speichern durch den Wert ersetzt.   
+> **Hinweis:** Nur, wenn die Wertereihe bei der Einstellung [Herkunft](/der-excel-client/templates/template-konfigurieren/herkunft-andern.md) vom Typ XLS oder XLS-Strict definiert ist, bleibt die Formel im Wertebereich bestehen. Andernfalls wird die Formel beim Speichern durch den Wert ersetzt.   
 
 Wenn Sie zuvor im Excel-Client einer Spalte eine [Werteliste](/der-excel-client/templates/template-konfigurieren/werteliste-hinzufugen.md) zugeordnet haben, dann können Sie in diesen Spalten vorgegebene Werte aus einem Dropdown-Menü auswählen.
 
@@ -39,4 +39,8 @@ Wenn Sie mit der rechten Maustaste in eine Zelle klicken, haben Sie die Möglich
 
 ---
 
-> **Hinweis**: Mit der Tastenkombination **Alt + Enter** können Sie innerhalb einer Zelle einen **Zeilenumbruch** einfügen.
+> **Hinweis:** Mit der Tastenkombination **Alt + Enter** können Sie innerhalb einer Zelle einen **Zeilenumbruch** einfügen.
+
+> **Hinweis:** Achten Sie bei der Dateneingabe darauf, dass keine Kommata am Anfang oder am Ende des Zelleninhalts stehen! Andernfalls wird eine Fehlermeldung (Fehlercode 404 oder 500) ausgelöst und die Eingaben werden nicht gespeichert oder das Komma, gemeinsam mit dem anhängenden Zeichen, wird beim Speichervorgang gelöscht.
+
+>**Hinweis:** Der Web-Client unterstützt im Speichervorgang keine boole'schen Werte (`WAHR` und `FALSCH`). Achten Sie also darauf, wenn Sie eine Formel erstellen. Bei Ausgabe eines boole'schen Wertes müssen Sie das Ergebnis im Nachhinein mit Hilfe bspw. einer `wenn()` Funktion umformen. Sonst schlägt der Speichervorgang fehl.

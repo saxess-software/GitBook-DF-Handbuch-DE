@@ -24,3 +24,7 @@ Wenn Sie mit der rechten Maustaste in eine Zelle klicken, haben Sie die Möglich
 ---
 
 > **Hinweis:** Mit der Tastenkombination **Alt + Enter** können Sie innerhalb einer Zelle einen **Zeilenumbruch** einfügen.
+
+> **Hinweis:** Achten Sie bei der Dateneingabe darauf, dass keine Kommata am Anfang oder am Ende des Zelleninhalts stehen! Andernfalls wird eine Fehlermeldung (Fehlercode 404 oder 500) ausgelöst und die Eingaben werden nicht gespeichert oder das Komma, gemeinsam mit dem anhängenden Zeichen, wird beim Speichervorgang gelöscht.
+
+>**Hinweis:** Der Web-Client unterstützt im Speichervorgang keine boole'schen Werte (`WAHR` und `FALSCH`). Wenn Sie die Tabelle, samt Formel, also auch überm Web-Client nutzen möchten, müssen Sie beim Erstellen der Formel auf Folgendes achten: Bei Ausgabe eines boole'schen Wertes müssen Sie das Ergebnis im Nachhinein mit Hilfe bspw. einer `wenn()` Funktion umformen.

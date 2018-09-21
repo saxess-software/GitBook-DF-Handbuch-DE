@@ -37,3 +37,5 @@ Um ein neues Produkt anzulegen, gehen Sie wie folgt vor:
 ![](/Pictures/Excel-Client/Produkt/Neues Produkt anlegen/neues_produkt_anlegen_5.png) 
 
 ---
+
+>**Hinweis:** Markieren Sie den Auswahlkasten **Editor geöffnet lassen** um das Dialogfenster nach der Bestätigung mit **Anwenden** weiterhin geöffnet zu lassen.
