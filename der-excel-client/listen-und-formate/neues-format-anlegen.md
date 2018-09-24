@@ -47,3 +47,5 @@ Um ein neues Format anzulegen, gehen Sie wie folgt vor:
 ![](/Pictures/Excel-Client/Listen und Formate/Neues Format anlegen/neues_format_anlegen_6.png)
 
 ---
+
+> **Hinweis:** Um Werte, beginnend mit einer Null (bspw. Postleitzahl, Telefonnummern, etc.), speichern zu können, muss als **ValueFormat** ein **@** gesetzt sein. Andernfalls wird die Null am Anfang des Wertes nicht gespeichert.
