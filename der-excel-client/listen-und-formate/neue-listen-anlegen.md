@@ -81,6 +81,8 @@ Um Werte zu einer Liste hinzuzufügen, gehen Sie wie folgt vor:
 
 3) Geben Sie ggf. in die Spalte **ValueComment** einen Kommentar und in die Spalte **FormatID** das gewünschte Format ein.  
 
+> **Hinweis:** Die Formatierung einer Wertereihe wird in der Zelle, in der ein Liesteneintrag eingefügt ist, mit der im Listeneintrag verwendeten FormatID überschrieben.
+
 ---
 ![](/Pictures/Excel-Client/Listen und Formate/Neue Listen anlegen/neue_listen_anlegen_10.png) 
 
