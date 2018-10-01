@@ -74,6 +74,7 @@
       * [Ansicht](der-excel-client/templates/template-konfigurieren/ansicht.md)
       * [Globalattribute und IDs verwenden](der-excel-client/templates/template-konfigurieren/globalattribute-und-ids-verwenden.md)
       * [Zeitachse erweitern](der-excel-client/templates/template-konfigurieren/zeitachse-erweitern.md)
+	  * [Zeitachse formatieren](der-excel-client/templates/template-konfigurieren/zeitachse-formatieren.md)
     * [Senden und Empfangen](der-excel-client/templates/senden-und-empfangen.md)
     * [Solutions](der-excel-client/templates/solutions.md)
   * [Listen und Formate](der-excel-client/listen-und-formate.md)
