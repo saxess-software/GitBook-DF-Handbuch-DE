@@ -1,12 +1,12 @@
 ## Import und Export
 
-Sie haben die Möglichkeit, sowohl Templates bzw. Produkte als auch komplette Produktlinien oder Fabriken im Excel-Client zu exportieren und zu importieren.
+Sie haben die Möglichkeit, sowohl Templates bzw. Produkte als auch komplette Produktlinien oder Fabriken im Excel-Client zu exportieren und zu importieren. Bedenken Sie, dass der Import von Produkten, Produktlinien und Fabriken mit einem Import der in den Produkten genutzten Listen und Formate einhergeht! Der Import von Listen und Formaten erfordert Adminrechte (Schreibrechte) auf Werksebene. Aufgrunddessen empfehlen wir, dass der Export und Import vom Werksadministrator durchgeführt wird.
 
 ### *1) Import und Export eines Templates/Produktes*
 
 #### Export
 
-Der Export von Templates/Produkten findet auf Produktebene statt. 
+Der Export von Templates/Produkten findet auf Produktebene statt.
 
 1) Öffnen Sie das Produkt, welches Sie exportieren möchten und klicken Sie auf den ActionLink.
 
