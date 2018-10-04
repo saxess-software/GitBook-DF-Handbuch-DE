@@ -14,7 +14,7 @@ Sie können für die Eingabe Ihrer Daten auch Excel-Formeln verwenden.
 
 ---
   
-> **Hinweis:** Nur, wenn die Wertreihe bei der Einstellung Herkunft vom Typ XLS oder XLS-Strict definiert ist, bleibt die Formel im Wertebereich bestehen. Andernfalls wird die Formel beim Speichern durch den Wert ersetzt.   
+> **Hinweis:** Nur, wenn die Wertreihe bei der Einstellung [Herkunft](/der-excel-client/templates/template-konfigurieren/herkunft-andern.md) vom Typ XLS oder XLS-Strict definiert ist, bleibt die Formel im Wertebereich bestehen. Andernfalls wird die Formel beim Speichern durch den Wert ersetzt.   
 
 Wenn Sie mit der rechten Maustaste in eine Zelle klicken, haben Sie die Möglichkeit Inhalte auszuschneiden, zu kopieren, einzufügen oder zu löschen. Werte, die Sie in der Zwischenablage gespeichert haben, können Sie über die Auswahl **Einfügen** in die markierte Zelle einfügen.
 
