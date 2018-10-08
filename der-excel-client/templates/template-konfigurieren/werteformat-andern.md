@@ -17,3 +17,5 @@ Um das Werteformat einer Wertereihe zu ändern, gehen Sie wie folgt vor:
 ![](/Pictures/Excel-Client/Templates/Template konfigurieren/Werteformat ändern/werteformat_aendern_2.png)
 
 ---
+
+>**Hinweis:** Damit Nachkommastellen auch gespeichert werden, muss die **Skalierung** mindestens auf **10** gestellt sein (eine Nachkommastelle). Andernfalls werden eingegebene Nachkommastellen nicht gespeichert!
