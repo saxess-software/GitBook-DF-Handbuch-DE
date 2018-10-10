@@ -17,10 +17,10 @@ Mit der Funktion **Templates senden** und **Templates empfangen** haben Sie die 
 > **Hinweis:** Im Produkt manuell eingegebene Daten werden nicht gelöscht oder überschrieben. 
 **Ausnahmen:**
 * Eine Wertereihe ist nicht im Template enthalten, dann wird diese, samt Werten, gelöscht.
-* Die Zeitachse wurde verkürzt bzw. verschoben - Werte die nicht mehr vorhandenen Zeitwerten zugeordnet sind werden gelöscht.
+* Die Zeitachse wurde verkürzt bzw. verschoben - Werte die gelöschten Zeitwerten zugeordnet sind werden ebenfalls gelöscht.
 * Wird der Werttyp von numerisch auf nicht-numerisch, und umgekehrt, geändert gehen die Werte dieser Spalte verloren.
 * Bei Änderung der Skalierung auf eine geringere Zahl gehen Nachkommastellen verloren.
-**Wir empfehlen daher: Sichern Sie die empfangenden Produkte ab bevor sie ein Template ausrollen!**
+**Empfehlung: Erstellen Sie eine Sicherungskopie der empfangenden Produkte bevor sie ein Template ausrollen!**
 
 #### Template empfangen
 
