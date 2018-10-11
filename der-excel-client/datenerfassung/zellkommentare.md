@@ -15,4 +15,6 @@ Wenn Sie Werte im Wertebereich eines Produkts pflegen, können Sie in den Zellen
 
 ---
 
-> **Hinweis:** Um das Kommentarfeld zu schließen, klicken Sie in irgendeine Zelle des Wertebereichs. Um sich den Kommentar in einer Zelle anzeigen zu lassen, setzen Sie den Mauszeiger auf die entsprechende Zelle (ohne Klicken).
+> **Hinweis 1:** Um das Kommentarfeld zu schließen, klicken Sie in irgendeine Zelle des Wertebereichs. Um sich den Kommentar in einer Zelle anzeigen zu lassen, setzen Sie den Mauszeiger auf die entsprechende Zelle (ohne Klicken).
+
+> **Hinweis 2:** Wenn Sie Werte aus Tabellen löschen zu denen Kommentare verfasst sind, dann werden die Kommentare ebenfalls gelöscht.

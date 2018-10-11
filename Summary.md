@@ -139,6 +139,7 @@
       * [Manuelle Eingabe](der-web-client/produkt/datenerfassung/manuelle-eingabe.md)
       * [Eingabe mittels Rechner](der-web-client/produkt/datenerfassung/eingabe-mittels-rechner.md)
 	  * [Hyperlinks](der-web-client/produkt/datenerfassung/hyperlinks.md)
+	  * [Zellkommentare](der-web-client/produkt/datenerfassung/zellkommentare.md)
       * [FlexSuche](der-web-client/produkt/datenerfassung/flexsuche.md)
   * [Berechtigungen](der-web-client/berechtigung.md)
 * [DataFactory-Datenbank](installation-der-datafactory-datenbank.md)

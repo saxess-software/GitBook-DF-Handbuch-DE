@@ -14,7 +14,7 @@ Es öffnet sich das Dialogfenster **Hyperlink bearbeiten**.
 
 ---
 
-3) Tragen Sie den anzuzeigenden Namen und die URL des Links ein. Bestätigen Sie abschließend mit **OK**.
+3) Tragen Sie den anzuzeigenden Namen und die URL des Links ein. Beachten Sie, dass der Link vollständig ausgeschrieben sein muss (https://www.[Internetadresse].de/). Bestätigen Sie abschließend mit **OK**.
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Werte-aendern/werte_aendern_9.png)

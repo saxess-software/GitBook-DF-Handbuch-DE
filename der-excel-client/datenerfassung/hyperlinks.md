@@ -55,7 +55,7 @@ Der Link kann auch auf Internetseiten, wie z.B. die Unternehmenswebseite oder de
 
 ---
 
-Die URL tippen sie wieder in das obere Textfeld ein oder lassen es durch die Funktion **Aus Zwischenablage einfügen** automatisch einfügen. Ihre Eingaben bestätigen Sie abschließend wieder mit **Anwenden**.
+Die URL tippen sie wieder in das obere Textfeld ein oder lassen es durch die Funktion **Aus Zwischenablage einfügen** automatisch einfügen. Ihre Eingaben bestätigen Sie abschließend wieder mit **Anwenden**. Beachten Sie, dass der Link vollständig ausgeschrieben sein muss (https://www.[Internetadresse].de/).
 
 >**Hinweis:** Sie können die URL mir der Funktion **Im Browser öffnen** auf seine Funktion hin prüfen.
 
