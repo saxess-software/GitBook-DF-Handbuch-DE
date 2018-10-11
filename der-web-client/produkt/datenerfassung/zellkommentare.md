@@ -11,14 +11,14 @@ Wenn Sie Werte im Wertebereich eines Produkts pflegen, können Sie in den Zellen
 2) Es öffnet sich das Dialogfenster **Kommentar zur Zelle hinzufügen**. Tragen Sie Ihren Kommentar in das Textfeld ein. Bestätigen Sie ihre Eingaben mit einem Klick auf **OK**.
 
 ---
-![](/Pictures/Excel-Client/Datenerfassung/Zellkommentare/zellkommentare_2.png)
+![](/Pictures/Excel-Client/Produkt/Datenerfassung/Zellkommentare/zellkommentare_2.png)
 
 ---
 
 3) Eine kommentierte Zelle erkennen Sie an den drei vertikal ausgerichteten Punkten rechts in der Zelle.
 
 ---
-![](/Pictures/Excel-Client/Datenerfassung/Zellkommentare/zellkommentare_3.png)
+![](/Pictures/Excel-Client/Produkt/Datenerfassung/Zellkommentare/zellkommentare_3.png)
 
 ---
 
