@@ -4,21 +4,21 @@ In den Programmeinstellungen können Sie Eigenschaften Ihrer Tabellen, Verbindun
 1) Klicken Sie auf den **ActionLink** unterhalb des Tabellenkopfbereichs.
 
 ---
-![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_1.png)
+![](/Pictures/Excel-Client/Programmeinstellungen/programmeinstellungen_1.png)
 
 ---
 
 2) Wählen Sie die Option **Einstellungen**.
 
 ---
-![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_2.png)
+![](/Pictures/Excel-Client/Programmeinstellungen/programmeinstellungen_2.png)
 
 ---
 
 3) Es öffnet sich das Fenster **Programmeinstellungen**.
 
 ---
-![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_3.png)
+![](/Pictures/Excel-Client/Programmeinstellungen/programmeinstellungen_3.png)
 
 ---
 
@@ -31,21 +31,21 @@ Wenn Sie Inhalte in DataFactory über einen Beamer oder im Web präsentieren, ka
 Den globalen Zoomfaktor können Sie im Reiter **Anzeige 3** bestimmen. Wenn Sie den Zoomfaktor verringern wollen, klicken Sie auf den linken Pfeil. Wenn Sie den Zoomfaktor erhöhen wollen, klicken Sie auf den rechten Pfeil. Sie können den Zoomfaktor aber auch verändern, indem Sie den Schieber nach rechts oder nach links bewegen.
 
 ---
-![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_4.png)
+![](/Pictures/Excel-Client/Programmeinstellungen/programmeinstellungen_4.png)
 
 ---
 
 Der eingestellte Zoomfaktor wird Ihnen anschließend auf der linken Seite angezeigt.
 
 ---
-![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_5.png)
+![](/Pictures/Excel-Client/Programmeinstellungen/programmeinstellungen_5.png)
 
 ---
 
 Um den Zoomfaktor auf die Standardeinstellung zurückzusetzen, klicken Sie auf den Button **Standard**.
 
 ---
-![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_6.png)
+![](/Pictures/Excel-Client/Programmeinstellungen/programmeinstellungen_6.png)
 
 ---
 
@@ -56,14 +56,14 @@ In den Seiteneinstellungen, die sich in im Reiter **Anzeige** und **Anzeige 2** 
 <!---
 
 ---
-![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_7.png)
+![](/Pictures/Excel-Client/Programmeinstellungen/programmeinstellungen_7.png)
 
 ---
 
 -->
 
 ---
-![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_18.png)
+![](/Pictures/Excel-Client/Programmeinstellungen/programmeinstellungen_18.png)
 
 ---
 
@@ -81,7 +81,7 @@ In den Seiteneinstellungen, die sich in im Reiter **Anzeige** und **Anzeige 2** 
 |Kachel Schriftfarbe|Farbe mit dem die **Kachelbezeichnung** in der Werksübersicht geschrieben ist.|
 
 ---
-![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_19.png)
+![](/Pictures/Excel-Client/Programmeinstellungen/programmeinstellungen_19.png)
 
 ---
 
@@ -105,35 +105,35 @@ Wenn Sie Änderungen an den Seiteneinstellungen vornehmen wollen, gehen Sie wie 
 1) Klicken Sie auf den Button mit der Seiteneinstellung, die Sie ändern wollen.
 
 ---
-![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_8.png)
+![](/Pictures/Excel-Client/Programmeinstellungen/programmeinstellungen_8.png)
 
 ---
 
 2) Wählen Sie in dem sich öffnenden Fenster die gewünschte Farbe aus und klicken Sie auf **OK**.
 
 ---
-![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_9.png)
+![](/Pictures/Excel-Client/Programmeinstellungen/programmeinstellungen_9.png)
 
 ---
 
 3) Ihre Farbauswahl wird Ihnen auf der rechten Seite angezeigt. Klicken Sie auf **Anwenden**.
 
 ---
-![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_10.png)
+![](/Pictures/Excel-Client/Programmeinstellungen/programmeinstellungen_10.png)
 
 ---
 
 4) Ihre Farbauswahl wird Ihnen angezeigt.
 
 ---
-![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_11.png)
+![](/Pictures/Excel-Client/Programmeinstellungen/programmeinstellungen_11.png)
 
 ---
 
 5) Um die Farbauswahl auf die Standardeinstellung zurückzusetzen, wählen Sie unter Tabelleneinstellung **Standard** und bestätigen Sie mit **Anwenden**.
 
 ---
-![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_12.png)
+![](/Pictures/Excel-Client/Programmeinstellungen/programmeinstellungen_12.png)
 
 ---
 
@@ -144,11 +144,11 @@ Wenn Sie Änderungen an den Seiteneinstellungen vornehmen wollen, gehen Sie wie 
 Über die Option **Tabelleneinstellungen**, im Reiter **Anzeige 2**, haben Sie auch die Möglichkeit Ihre Tabellenzeilen alternierend einzufärben, d.h. das Ihre Zeilen abwechselnd farbig dargestellt werden. Dazu müssen zunächst alle anderen Tabelleneinstellungen deaktiviert werden und unter Tabellenformat eine Auswahl getroffen sein.
 
 ---
-![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_13.png)
+![](/Pictures/Excel-Client/Programmeinstellungen/programmeinstellungen_13.png)
 
 ---
 
-![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_14.png)
+![](/Pictures/Excel-Client/Programmeinstellungen/programmeinstellungen_14.png)
 
 ---
 
@@ -159,7 +159,7 @@ Wenn Sie Änderungen an den Seiteneinstellungen vornehmen wollen, gehen Sie wie 
 In den Matrixeinstellungen können Sie festlegen, ob und in welcher Form geänderte Werte in einem Produkt hervorgehoben werden sollen. Setzen Sie dazu einfach im Reiter **Anzeige 2** ein Häkchen bei den gewünschten Optionen.
 
 ---
-![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_15.png)
+![](/Pictures/Excel-Client/Programmeinstellungen/programmeinstellungen_15.png)
 
 ---
 
@@ -181,13 +181,35 @@ Klicken Sie im Reiter **Anzeige** auf **Exportieren**.
 >**Hinweis:** Mit der Option **Ungenutzte Schlüssel einbeziehen** werden auch die Variablen in die Konfigurationsdatei kopiert die noch die Standardwerte enthalten. Sie haben dann die Möglichkeit mit einem Texteditor die Einstellungen weiter anzupassen.
 
 ---
-![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_16.png)
+![](/Pictures/Excel-Client/Programmeinstellungen/programmeinstellungen_16.png)
 
 ---
 
 Es öffnet sich ein Speicherdialog. Bestimmen Sie sowohl Speicherort als auch Dateiname und bestätigen Sie mit **Speichern**.
 
 ---
-![](/Pictures/Excel-Client/Fabrik/Programmeinstellungen/programmeinstellungen_17.png)
+![](/Pictures/Excel-Client/Programmeinstellungen/programmeinstellungen_17.png)
 
 ---
+
+#### Standard-Internetbrowser
+
+Sie können abseits des systemweiten Standardbrowsers einen anderen für Links aus DataFactory zuteilen. Öffnen Sie dazu den **http**-Tab der **Programmeinstellungen**.
+
+---
+![](/Pictures/Excel-Client/Programmeinstellungen/programmeinstellungen_20.png)
+
+---
+
+Klicken Sie auf **Auswählen** im Bereich Standard-Browser. Es öffnet sich ein Explorer-Fenster mit dem Sie die ausführbare Datei des gewünschten Internetbrowsers auswählen und bestätigen. Alle Hyperlinks - die auf eine Webseite verweisen - und Webclient-Links werden nun über diesen Browser geöffnet.
+
+#### Internet-Protokoll ändern
+
+In speziellen Fällen (bpsw. wenn Sie mit der Datenbank über ein VPN oder WLAN verbunden sind) kann die Verbindung zur Datenbank im Hintergrund abbrechen was insbesondere bei Speichervorgängen unvorhergesehen zu Fehlern führen kann. In solchen Fällen kann es unter Umständen helfen das Protokoll der Verbindung auf TCP umzustellen. Öffnen Sie hierfür den **SQL**-Tab in den **Programmeinstellungen**. Wählen Sie als Netzwerk-Protokoll **TCP** aus der Dropdownliste.
+
+---
+![](/Pictures/Excel-Client/Programmeinstellungen/programmeinstellungen_21.png)
+
+---
+
+> **Hinweis:** Bevor Sie die DataFactory über eine TCP-Verbindung nutzen können müssen Sie vorher das TCP-Protokoll für die Datenbank aktivieren!
