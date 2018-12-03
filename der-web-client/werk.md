@@ -11,7 +11,7 @@ Im Gegensatz zum Excel-Client können Sie sich im Web-Client nur ein einzelnes W
 
 #### Übersicht eines Werks
 
-Nachdem Sie Ihr Werk über den Web-Client aufgerufen haben, sehen Sie in der Eingangsoberfläche den Button für die **Navigationsleiste**, den **aktuellen Pfad** innerhalb des Werkes, die **Suchleiste**, Ihren **Nutzernamen** mit dem Sie gerade eingeloggt sind und eine **Buttonleiste**.
+Nachdem Sie Ihr Werk über den Web-Client aufgerufen haben, sehen Sie in der Eingangsoberfläche den Button für die **Navigationsleiste**, den **aktuellen Pfad** innerhalb des Werkes, die **Suchleiste**, Ihren **Nutzernamen** mit dem Sie gerade eingeloggt sind, eine **Buttonleiste** und das **Logo**.
 
 ---
 ![](/Pictures/Web-Client/Werk/werk_2.png)
@@ -134,5 +134,21 @@ Mit den Elementen der Buttonleiste lässt sich die Werkssicht (Startseite) anpas
 
 ---
 ![](/Pictures/Web-Client/Werk/werk_17.png)
+
+---
+
+**6) Logo**
+
+Das Logo in der Ecke rechtsoben ist werksabhängig und kann von Nutzern mit Schreibrechten auf Werksebene verändert werden. Bewegen Sie dazu die Maus in die Ecke und klicken Sie auf das erscheinende Icon *Logo ändern*.
+
+---
+![](/Pictures/Web-Client/Werk/werk_18.png)
+
+---
+
+Es öffnet sich der Windows-Explorer. Wählen Sie das gewünschte Logo und bestätigen Sie abschließend mit Klick auf **Öffnen**. Ünterstützte Datenformate sind *GIF*, *JPEG* und *PNG*.
+
+---
+![](/Pictures/Web-Client/Werk/werk_19.png)
 
 ---
