@@ -10,15 +10,15 @@ Standardmäßig werden mit der DataFactory folgende Prozeduren ausgeliefert:
 | :------- | :------: | -------: |
 | DATAOUTPUT_Balance | Ruft alle Aktiv- und Passivbestandsdaten ab | Aktivbestand, Passivbestand |
 | DATAOUTPUT_CashValues | Ruft alle Daten zu Geldein- und ausgängen ab | Einzahlung, Auszahlung, Ertrag=Einzahlg, Kosten=Auszahlg |
-| DATAOUTPUT_dFactories | Erhebt alle Daten die auf Fabrikebene zu entnehmen sind ||
-| DATAOUTPUT_dProductLines | Erhebt alle Daten die auf Produktlinienebene zu entnehmen sind ||
-| DATAOUTPUT_dProducts | Erhebt alle Daten die auf Produktebene, aber nicht der Datentabelle, zu entnehmen sind ||
-| DATAOUTPUT_dValueSeries | Erhebt alle Daten die den ValueSeries zu entnehmen sind ||
+| DATAOUTPUT_dFactories | Erhebt alle Daten die auf Fabrikebene zu entnehmen sind | |
+| DATAOUTPUT_dProductLines | Erhebt alle Daten die auf Produktlinienebene zu entnehmen sind | |
+| DATAOUTPUT_dProducts | Erhebt alle Daten die auf Produktebene, aber nicht der Datentabelle, zu entnehmen sind | |
+| DATAOUTPUT_dValueSeries | Erhebt alle Daten die den ValueSeries zu entnehmen sind | |
 | DATAOUTPUT_FactorySummary | Diese Prozedur erfordert die Angabe einer **Factory ID** und gibt die Daten in jener Fabrik aggregiert nach Produkt und Monat wieder | Aktiv-, Passivbestand, Ein-, Auszahlung, Ertrag, Kosten, Ertrag=Einzahlg, Kosten=Auszahlg, Menge, Stück |
-| DATAOUTPUT_fValues | Ruft alle Daten der Datentabellen ab |
-| DATAOUTPUT_NumericValues | Ruft alle als numerisch angegebenen Werte ab ||
-| DATAOUTPUT_Profit | Ruft alle gewinn- und verlustrelevanten Daten ab | Ertrag, Kosten, Ertrag=Einzahlg, Kosten=Auszahlg |
-| DATAOUTPUT_TextValues | Ruft alle nicht-numerischen Daten ab ||
+| DATAOUTPUT_fValues | Ruft die Werte aller Datentabellen ab | |
+| DATAOUTPUT_NumericValues | Ruft alle numerischen Tabellenwerte ab | |
+| DATAOUTPUT_Profit | Ruft alle gewinn- und verlustwirksamen Daten ab | Ertrag, Kosten, Ertrag=Einzahlg, Kosten=Auszahlg |
+| DATAOUTPUT_TextValues | Ruft alle nicht-numerischen Tabellenwerte ab | |
 
 ### Zugriff überm Webbrowser
 
