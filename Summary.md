@@ -142,5 +142,6 @@
 	  * [Zellkommentare](der-web-client/produkt/datenerfassung/zellkommentare.md)
       * [FlexSuche](der-web-client/produkt/datenerfassung/flexsuche.md)
   * [Berechtigungen](der-web-client/berechtigung.md)
+  * [Daten auswerten](der-web-client/daten-auswerten.md)
   % [Logo und Oberfläche](der-web-client/logo-und-oberflaeche.md)
 * [DataFactory-Datenbank](installation-der-datafactory-datenbank.md)

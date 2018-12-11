@@ -1,6 +1,6 @@
 ## Logo und Oberfläche
 
-Das DataFactory-Logo am oberen rechten Bildschirmrand lässt sich durch das Ihre ersetzen und die Farbe der Oberfläche an Ihrem Corporate Design anpassen. Die Informationen werden unmittelbar auf der Datenbank gespeichert. Um die Anpassungen vornehmen zu können benötigen Sie das SQL Server Management Studio von Microsoft.
+Das DataFactory-Logo am oberen rechten Bildschirmrand lässt sich durch das ihre ersetzen und die Farbe der Oberfläche an Ihrem Corporate Design anpassen. Die Informationen werden unmittelbar auf der Datenbank gespeichert. Um die Oberflächenfarbe anpassen zu können benötigen Sie das SQL Server Management Studio von Microsoft.
 
 ### Logo ändern
 
