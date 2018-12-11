@@ -103,6 +103,7 @@
 	* [Clusterseite bearbeiten](der-web-client/werk/clusterseite-bearbeiten.md)
   * [Fabrik](der-web-client/fabrik.md)
     * [Navigation](der-web-client/fabrik/navigation.md)
+	* [Fabriktabs](der-web-client/fabrik/Fabriktabs.md)
     * [Pivot-Ansicht](der-web-client/fabrik/pivot-ansicht.md)
       * [Feldliste](der-web-client/fabrik/pivot-ansicht/feldliste.md)
 	  * [Layout speichern](der-web-client/fabrik/pivot-ansicht/layout-speichern.md)
