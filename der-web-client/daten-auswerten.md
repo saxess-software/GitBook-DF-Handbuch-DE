@@ -1,6 +1,10 @@
 ## Daten auswerten
 
-Bei Bedarf können Sie über einen Webservice auf Ihre Daten zugreifen. Auf diese Weise sind individuelle Berichte in Excel oder PowerBI möglich. Die Adresse zum Webservice baut sich forgendermaßen zusammen: **[ihreDomain.de]/api/v4/csv/[Datenbankname]/[Prozedurname]/[FabrikID]/[ProduktlinienID]?seperator=|** Die Angabe der Fabrik ID und Produktlinien ID ist optional. Wenn Sie nur die Datenbank und Prozedur angeben, dann wird die Ausgabe der Prozedur nicht gefiltert. dann werden die Werte für die gesamte Datenbank abgefragt.
+Bei Bedarf können Sie über einen Webservice auf Ihre Daten zugreifen. Auf diese Weise sind individuelle Berichte in Excel oder PowerBI möglich. Die Adresse zum Webservice baut sich forgendermaßen zusammen: 
+
+**[ihreDomain.de]/api/v4/csv/[Datenbankname]/[Prozedurname]/[FabrikID]/[ProduktlinienID]?seperator=|**
+
+Die Angabe der Fabrik ID und Produktlinien ID ist optional. Wenn Sie nur die Datenbank und Prozedur angeben, dann wird die Ausgabe der Prozedur nicht gefiltert. dann werden die Werte für die gesamte Datenbank abgefragt.
 
 Für eine detailliertere Beschreibung des Webservices und wie dieser genutzt wird lesen Sie im [Knowledge-Center]( https://github.com/saxess-software/DataFactory-Knowledge-Center/blob/master/4b.%20Integration%20with%20Excel%20Reporting/Create_XLS_Pivottable_from_Webservice_Data.md ) weiter.
 
