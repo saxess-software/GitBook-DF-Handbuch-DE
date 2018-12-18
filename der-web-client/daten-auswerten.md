@@ -34,7 +34,7 @@ Beim Abruf des Webservices müssen Sie sich mit ihren Daten anmelden. Bestätige
 
 ---
 
->**Hinweis:** Über den Webservice lassen sich nur als Prozeduren und nicht Sichten gespeicherte Datenabfragen aufrufen. Die Sichten können via Excel abgerufen werden.
+>**Hinweis:** Über den Webservice lassen sich nur als Prozeduren gespeicherte Datenabfragen aufrufen. Die Sichten können via Excel abgerufen werden.
 
 ### Zugriff über Excel & PowerBI
 

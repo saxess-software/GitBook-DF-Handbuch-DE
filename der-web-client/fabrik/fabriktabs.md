@@ -13,14 +13,14 @@ Standardmäßig verfügt die Fabrik **Templates (ZT)** über Fabriktabs mit Fehl
 
 * **Rechteübersicht:** Zeigt alle für das Cluster berechtigte Nutzer und ihre Privilegien.
 * **Systemfehler:** Zeigt das Ergebnis der Prozedur `control.spSystemFailureReport` bestehend aus vier Tests auf potentielle Fehlerquellen.
-
-<!---
-* **Anwenderfehler:** BAUSTELLE
--->
-
 * **Clusterstatistik:** Gibt eine kurze Zusammenfassung zu der Anzahl der Fabriken, Produktlinien und Produkten.
 
+
 <!---
+
+
+* **Anwenderfehler:** BAUSTELLE
+
 ---
 ![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/fabriktabs_1.png)
 
@@ -37,4 +37,8 @@ Standardmäßig verfügt die Fabrik **Templates (ZT)** über Fabriktabs mit Fehl
 ![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/fabriktabs_4.png)
 
 ---
+
+
 -->
+
+
