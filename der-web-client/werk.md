@@ -137,18 +137,32 @@ Mit den Elementen der Buttonleiste lässt sich die Werkssicht (Startseite) anpas
 
 ---
 
-**6) Logo**
+**6) Logo und Oberflächeneinstellungen**
 
-Das Logo in der Ecke rechtsoben ist werksabhängig und kann von Nutzern mit Schreibrechten auf Werksebene verändert werden. Bewegen Sie dazu die Maus in die Ecke und klicken Sie auf das erscheinende Icon *Logo ändern*.
+Wenn Sie die Maus über das Logo an der rechten oberen Bildschirmecke halten erscheint ein Zahnradsymbol. Klicken Sie auf das Symbol um die **Oberflächeneinstellungen** zu öffnen.
 
 ---
 ![](/Pictures/Web-Client/Werk/werk_18.png)
 
 ---
 
-Es öffnet sich der Windows-Explorer. Wählen Sie das gewünschte Logo und bestätigen Sie abschließend mit Klick auf **Öffnen**. Ünterstützte Datenformate sind *GIF*, *JPEG* und *PNG*.
+Das Logo in der Ecke rechtsoben und die Farbe der Kopfzeile ist werksabhängig und kann von Nutzern mit Schreibrechten auf Werksebene verändert werden. Klicken Sie im Dropdown-Menü auf die Option **Logo ändern**.
 
 ---
 ![](/Pictures/Web-Client/Werk/werk_19.png)
+
+---
+
+Es öffnet sich der Windows-Explorer. Wählen Sie das gewünschte Logo und bestätigen Sie abschließend mit einem Klick auf **Öffnen**. Ünterstützte Datenformate sind **GIF**, **JPEG** und **PNG**.
+
+---
+![](/Pictures/Web-Client/Werk/werk_20.png)
+
+---
+
+Mit der Option **Hauptfarbe ändern** öffnet sich die Farbauswahl für die Kopfzeile. Sie können entweder über die Farbpalette die gewünschte Farbe auswählen oder Sie tippen den Farbcode in das Textfeld ein.
+
+---
+![](/Pictures/Web-Client/Werk/werk_21.png)
 
 ---

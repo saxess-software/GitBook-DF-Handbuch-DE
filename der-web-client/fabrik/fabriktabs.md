@@ -6,39 +6,18 @@ Wenn Sie einen Fabriktab erstellen haben Sie die Wahl zwischen folgenden Anzeige
 
 * **Pivot:** Lädt die Daten einer Prozedur in ein Datenmodell das als Pivottabelle und Pivotdiagramm dargestellt werden kann.
 * **DataGrid:** Lädt die Daten einer Prozedur in ein Datenmodell das in Tabellenform präsentiert wird.
-* **statische HTML:** Erstellt eine leere HTML-Seite und schaltet den [HTML-Editor](/der-web-client/werk/clusterseite-bearbeiten.md) frei.
-* **verlinkte HTML:** Öffnet eine beliebige externe Webseite 
+* **HTML_Editor:** Erstellt eine leere HTML-Seite und schaltet den [HTML-Editor](/der-web-client/werk/clusterseite-bearbeiten.md) frei.
+* **HTML_URL:** Öffnet eine beliebige externe Webseite.
+* **HTML_Static:** Erstellt eine HTML-Seite aus einer gespeicherten Prozedur.
 
 Standardmäßig verfügt die Fabrik **Templates (ZT)** über Fabriktabs mit Fehlerreports. Zu diesen gehören:
 
 * **Rechteübersicht:** Zeigt alle für das Cluster berechtigte Nutzer und ihre Privilegien.
-* **Systemfehler:** Zeigt das Ergebnis der Prozedur `control.spSystemFailureReport` bestehend aus vier Tests auf potentielle Fehlerquellen.
+* **Systemfehler:** Zeigt das Ergebnis der Prozedur `control.spSystemFailureReport` die auf Datenkonsistenz prüft.
+* **Anwenderfehler:** Ein für jeden Anwenderfall individuell entwickelter Test der auf potentielle Fehlerquellen prüft (z.B. Überprüfung des Stagings, Imports, Kalkulationen o.ä.).
 * **Clusterstatistik:** Gibt eine kurze Zusammenfassung zu der Anzahl der Fabriken, Produktlinien und Produkten.
-
-
-<!---
-
-
-* **Anwenderfehler:** BAUSTELLE
 
 ---
 ![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/fabriktabs_1.png)
 
 ---
----
-![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/fabriktabs_2.png)
-
----
----
-![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/fabriktabs_3.png)
-
----
----
-![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/fabriktabs_4.png)
-
----
-
-
--->
-
-
