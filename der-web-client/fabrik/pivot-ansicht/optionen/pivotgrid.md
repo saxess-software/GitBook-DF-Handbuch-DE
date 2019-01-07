@@ -66,7 +66,23 @@ Abschließend geben Sie in dem Textfeld **Feldbreite** die gewünschte Spaltenbr
 
 ---
 
->**Hinweis:** Die Spaltenbreite kann eine Mindestbreite nicht unterschreiten. Ein Ausblenden der Spalte auf diese Weise ist somit nicht möglich.
+>**Hinweis:** Die Spaltenbreite kann eine Mindestbreite nicht unterschreiten. Das Ausblenden einer Spalte ist auf diese Weise nicht möglich.
+
+#####Aggregation
+
+In diesem Tab bestimmen Sie wie die Werte zusammengefasst werden. Alternativ können Sie mit einem Rechtsklick auf ein Element im Wertefeld ein Dropdown-Menü öffnen mit dem Sie eine Auswahl treffen können.
+
+---
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Optionen/PivotGrid/pivotgrid_9.png)
+
+---
+
+Standardmäßig haben Sie die Wahl zwischen:
++ Summen
++ Durchschnitt
++ Minimum
++ Maximal
++ Anzahl
 
 #####Summen
 
@@ -75,9 +91,19 @@ In diesem Untermenü können Sie festlegen ob
 + Zeilen-Zwischensummen
 + Spaltensummen oder
 + Spalten-Zwischensummen
+
 angezeigt werden sollen.
 
 ---
-![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Optionen/PivotGrid/pivotgrid_9.png)
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Optionen/PivotGrid/pivotgrid_10.png)
+
+---
+
+#####Zellfarben
+
+In diesem Reiter wird die Formatierung (*Schrift- und Hintergrundfarbe*) von Werten größer, kleiner und gleich Null festgelegt. Sie können entweder den Farbcode direkt im Hexadezimal-Format eingeben oder mit Klick auf das Pfeil-Symbol am rechten Rand eine Farbauswahl öffnen.
+
+---
+![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Optionen/PivotGrid/pivotgrid_11.png)
 
 ---
