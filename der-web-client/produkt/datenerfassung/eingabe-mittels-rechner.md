@@ -19,7 +19,7 @@ Sie finden den Rechner im Tabellenkopfbereich.
 
 ---
 
-#### *Einfügen von Werten*
+#### Einfügen von Werten
 
 Um Werte mit Hilfe des Rechners einzufügen, gehen Sie wie folgt vor: 
 
@@ -46,7 +46,7 @@ Um Werte mit Hilfe des Rechners einzufügen, gehen Sie wie folgt vor:
 
 ---
 
-#### *Addition*
+#### Addition
 
 Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:  
 
@@ -70,7 +70,7 @@ Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:
 
 ---
 
-#### *Subtraktion*
+#### Subtraktion
 
 1) Geben Sie im Textfeld den Wert ein, den Sie subtrahieren wollen.  
 
@@ -93,7 +93,7 @@ Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:
 
 ---
 
-#### *Multiplikation*
+#### Multiplikation
 
 1) Geben Sie im Textfeld den Wert ein, mit dem Sie multiplizieren wollen.   
 
@@ -116,7 +116,7 @@ Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:
 
 ---
  
-#### *Division*
+#### Division
 
 1) Geben Sie im Textfeld den Wert ein, durch den Sie dividieren wollen.  
 
@@ -138,7 +138,7 @@ Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:
 
 ---
 
-#### *Gleichverteilung*
+#### Gleichverteilung
 
 1) Geben Sie im Textfeld den Wert ein, den Sie gleichverteilen wollen.  
 
@@ -161,7 +161,7 @@ Um Werte mit Hilfe des Rechners zu addieren, gehen Sie wie folgt vor:
 
 ---
 
-#### *Verhältnis*
+#### Verhältnis
 
 1) Geben Sie im Textfeld den Wert ein, den Sie verteilen wollen.  
 

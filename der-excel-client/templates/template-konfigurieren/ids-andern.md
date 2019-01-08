@@ -1,4 +1,4 @@
-#### *IDs ändern* 
+#### IDs ändern
 
 Wenn Sie ein Template neu anlegen bzw. eine neue Spalte in Ihr Template einfügen, wird den Wertreihen bereits eine *Default-ID* zugewiesen, d.h. sie tragen IDs mit der Bezeichnung *ID1, ID2,...,IDn*. Die IDs können Sie individuell anpassen.
 

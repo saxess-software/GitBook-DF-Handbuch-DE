@@ -6,6 +6,7 @@ Sie können Daten direkt über Ihre Tastatur erfassen, indem Sie die Werte in di
 ![](/Pictures/Web-Client/Produkt/Datenerfassung/Manuelle Eingabe/manuelle_eingabe_1.png)
 
 ---
+
 >**Hinweis:** Zellen, deren Inhalt verändert wurde, werden orange markiert.
 
 Sie können für die Berechnung Ihrer Daten auch Excel-Formeln verwenden.  
@@ -30,6 +31,7 @@ Das Dropdown-Menü öffnet sich mit einem Klick auf das Stift-Symbol rechts nebe
 ![](/Pictures/Web-Client/Produkt/Datenerfassung/Manuelle Eingabe/manuelle_eingabe_4.png)
 
 ---
+
 >**Hinweis:** Sollten Sie bei der Einstellung [Herkunft](/der-excel-client/templates/template-konfigurieren/herkunft-andern.md) nicht `List-Strict` angegeben haben, dann lassen sich neben den vorgegebenen auch individuelle Werte eintragen.
 
 Wenn Sie mit der rechten Maustaste in eine Zelle klicken, haben Sie die Möglichkeit Inhalte zu kopieren, einzufügen und Zellenkommentare zu bearbeiten. Werte, die Sie in der Zwischenablage gespeichert haben, können Sie über die Auswahl **Einfügen** in die markierte Zelle einfügen.

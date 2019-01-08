@@ -1,9 +1,8 @@
-#### *Wertreihe löschen*  
+#### Wertreihe löschen
 
 Um eine Wertreihe zu löschen, gehen Sie wie folgt vor:
 
 1) Klicken Sie in der Spalte, die Sie löschen wollen auf den ActionLink in der Zeile **Aktion**.  
-
 
 ---
 ![](/Pictures/Excel-Client/Templates/Template konfigurieren/Wertreihe löschen/wertreihe_loeschen_1.png)

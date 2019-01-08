@@ -8,10 +8,3 @@ Durch Klick auf eine Produktlinie im Navigationsbereich öffnet sich die **Produ
 ---
 
 Die Produktübersicht enthält den **Produkttabellenbereich** sowie einen übergeordneten Bereich mit der **Erläuterungszeile** als auch der **Buttonleiste**.
-
-
-
-
-
-
-

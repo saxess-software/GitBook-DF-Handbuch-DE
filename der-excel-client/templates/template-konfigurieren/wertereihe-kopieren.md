@@ -1,4 +1,4 @@
-#### *Wertreihe kopieren*  
+#### Wertreihe kopieren
 
 1) Klicken Sie in der Spalte, die Sie kopieren wollen auf den ActionLink in der Zeile **Aktion**.  
 
@@ -30,4 +30,3 @@
 ![](/Pictures/Excel-Client/Templates/Template konfigurieren/Wertreihe kopieren/wertreihe_kopieren_4.png)  
 
 ---  
-

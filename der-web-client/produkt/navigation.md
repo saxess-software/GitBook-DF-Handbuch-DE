@@ -13,8 +13,6 @@ In der **Navigationsleiste** oder der Pfadangabe am oberen Rand der Seite könne
 ![](/Pictures/Web-Client/Produkt/Navigation/navigation_2.png)
 
 ---
-
----
 ![](/Pictures/Web-Client/Produkt/Navigation/navigation_3.png)
 
 ---

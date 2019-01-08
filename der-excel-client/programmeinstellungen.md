@@ -53,15 +53,6 @@ Um den Zoomfaktor auf die Standardeinstellung zurückzusetzen, klicken Sie auf d
 
 In den Seiteneinstellungen, die sich in im Reiter **Anzeige** und **Anzeige 2** befinden, können Sie definieren, wie die DataFactory in den einzelnen Sichten dargestellt wird.
 
-<!---
-
----
-![](/Pictures/Excel-Client/Programmeinstellungen/programmeinstellungen_7.png)
-
----
-
--->
-
 ---
 ![](/Pictures/Excel-Client/Programmeinstellungen/programmeinstellungen_18.png)
 

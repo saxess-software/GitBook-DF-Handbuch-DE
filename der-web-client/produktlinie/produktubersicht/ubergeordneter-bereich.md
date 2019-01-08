@@ -1,6 +1,6 @@
 ### Übergeordneter Bereich
 
-#### *Buttonleiste*
+#### Buttonleiste
 
 Hier finden Sie die folgenden Buttons:
 
@@ -15,7 +15,7 @@ Hier finden Sie die folgenden Buttons:
 |![Layout speichern](/Pictures/Web-Client/Produktlinie/Produktübersicht/uebergeordneter-bereich/buttonleiste_7.png)| Speichert alle Änderungen am Layout der Produkttabelle. Eine detaillierte Beschreibung hierzu finden Sie im Kapitel [Speichern und Zurücksetzen](/der-web-client/produktlinie/produktubersicht/produkttabelle/speichern.md).|
 |![Layout zurücksetzen](/Pictures/Web-Client/Produktlinie/Produktübersicht/uebergeordneter-bereich/buttonleiste_8.png)|Stellt das Standard-Layout für die Produkttabelle wieder her. Eine detaillierte Beschreibung hierzu finden Sie im Kapitel [Speichern und Zurücksetzen](/der-web-client/produktlinie/produktubersicht/produkttabelle/speichern.md).|
 
-#### *Erläuterungszeile*
+#### Erläuterungszeile
 
 Hier haben Sie die Möglichkeit, den Inhalt Ihrer Produktlinie näher zu beschreiben.
 
@@ -23,36 +23,3 @@ Hier haben Sie die Möglichkeit, den Inhalt Ihrer Produktlinie näher zu beschre
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/uebergeordneter-bereich/buttonleiste_9.png)
 
 ---
-
-<!---
-
-#### *Suchleiste*
-
-Hier können Sie einen Begriff eingeben, welchen Sie in der Produkttabelle suchen möchten. 
-
-Geben Sie den gesuchten Begriff in das Suchfeld ein. Ihnen werden automatisch alle Produkte angezeigt, welche den Suchbegriff enthalten.
-
----
-![](/assets/wpl2.png)
-
----
-
-Sie können die Suchleiste auch ausblenden.
-
-1) Klicken Sie mit der rechten Maustaste in eine Spaltenüberschrift im Produkttabellenbereich und wählen Sie **Suchleiste**.
-
----
-![](/assets/wpl22.png)
-
----
-
-2) Die Suchleiste ist nun ausgeblendet.
-
----
-![](/assets/wpl23.png)
-
----
-
-> **Hinweis**: Nach dem gleichen Vorgehen können Sie die Suchleiste auch wieder einblenden.
-
--->

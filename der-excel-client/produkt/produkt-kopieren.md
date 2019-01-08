@@ -11,14 +11,12 @@ Um ein bestehendes Produkt zu kopieren, gehen Sie wie folgt vor:
 ![](/Pictures/Excel-Client/Produkt/Produkt kopieren/produkt_kopieren_1.png)
 ---
 
-
 2) Klicken Sie auf die Option **Kopieren**.  
 
 ---
 
 ![](/Pictures/Excel-Client/Produkt/Produkt kopieren/produkt_kopieren_2.png)
 ---
-
 
 3) Wählen Sie für Ihr Zielprodukt eine **Zielfabrik** und **Zielproduktlinie** aus.  
 
@@ -41,8 +39,7 @@ Um ein bestehendes Produkt zu kopieren, gehen Sie wie folgt vor:
 
 ---
 
-
-#### *Mehrfachkopie*  
+#### Mehrfachkopie
 
 DataFactory bietet die Möglichkeit, gleichzeitig mehrere Kopien eines Produkts anzulegen.  
 Um mehrere Kopien gleichzeitig anzulegen, gehen Sie wie folgt vor:  

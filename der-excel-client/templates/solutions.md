@@ -10,4 +10,3 @@ Derzeit existieren Solutions für folgende Anwendungsbereiche:
 * Windparkverwaltung
 
 Weitere Solutions sind in der kontinuierlichen Entwicklung.
-

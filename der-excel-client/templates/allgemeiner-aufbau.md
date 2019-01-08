@@ -36,73 +36,62 @@ Wertreihen definieren die Charaktereigenschaften der Werte, die Sie später in d
 
 Jede Wertreihe besitzt eine Reihe von Eigenschaften und Optionen.
 
-* **Nummer** | Laufende Nummer der Wertreihe (kann durch den Nutzer nicht verändert werden)
+* **Nummer |** Laufende Nummer der Wertreihe (kann durch den Nutzer nicht verändert werden)
 
-* **Aktion** | ActionLink, hinter dem sich weitere Optionen verbergen:
+* **Aktion |** ActionLink, hinter dem sich weitere Optionen verbergen:
+	* **Neu davor |** Fügt eine neue Wertreihe vor der aktuellen Wertreihe ein.
+	* **Neu danach |** Fügt eine neue Wertreihe nach der aktuellen Wertreihe ein.
+	* **Merhfachkopie |** Erstellt mehrere Kopien der aktuellen Wertreihe und fügt sie an der gewünschten Stelle ein.
+	* **Wertreihe löschen |** Löscht die aktuelle Wertreihe.
+	* **IDs bearbeiten |** Öffnet den Dialog zum Bearbeiten der IDs.
+	* **Kommentar bearbeiten |** Öffnet das Kommentarfeld in der Zelle "Name" der Wertreihe.
+	* **Ausschneiden |** Schneidet die aktuelle Wertreihe aus.
 
-| Einstellung | Beschreibung |
-| --- | --- |
-| Neu davor | Fügt eine neue Wertreihe vor der aktuellen Wertreihe ein |
-| Neu danach | Fügt eine neue Wertreihe nach der aktuellen Wertreihe ein |
-| Merhfachkopie | Erstellt mehrere Kopien der aktuellen Wertreihe und fügt sie an der gewünschten Stelle ein |
-| Wertreihe löschen | Löscht die aktuelle Wertreihe |
-| IDs bearbeiten | Öffnet den Dialog zum Bearbeiten der IDs |
-| Kommentar bearbeiten | Öffnet das Kommentarfeld in der Zelle "Name" der Wertreihe |
-| Ausschneiden | Schneidet die aktuelle Wertreihe aus |
+* **Ist-numerisch |** Gibt an, ob es sich bei der Eingabe um einen numerischen Wert handelt:
+	* **0 |** Auch nicht-numerische Werte werden gespeichert.
+	* **1 |** Ausschließlich numerische Werte werden gespeichert.
 
-* **Ist-numerisch** | Gibt an, ob es sich bei der Eingabe um einen numerischen Wert handelt:
+* **Sichtbarkeitsstufe |**  Bietet die Möglichkeit, Spalten für den Nutzer bei der Dateneingabe auszublenden
 
-| Einstellung | Beschreibung |
-| --- | --- |
-| **0** | Nein, bei der Eingabe handelt es sich nicht um eine numerische Zahl. |
-| **1** | Ja, bei der Eingabe handelt es sich um eine numerische Zahl. |
+* **Herkunft |** Gibt an, woher die Werte stammen:
+	* **Input |** Dateneingabe direkt in Excel, keine Einschränkung.
+	* **Link |** Bietet die Möglichkeit einen Link zu hinterlegen \(bspw. zu einem Dokument oder einer Website\).
+	* **XLS |** Werte durch eine Formal berechnen lassen. Die Excel-Formel kann immer überschrieben und bearbeitet werden.
+	* **XLS Strict |** Werte durch eine Formel berechnen lassen. Die Excel-Formel kann nur bei aufgeklappten Details überschrieben und bearbeitet werden.
 
-* **Sichtbarkeitsstufe** |  Bietet die Möglichkeit, Spalten für den Nutzer bei der Dateneingabe auszublenden
+* **Werteliste |** Bietet die Möglichkeit eine Liste mit Werten zu hinterlegen, die im Wertebereich per Dropdown ausgewählt werden können.
 
-* **Herkunft** | Gibt an, woher die Werte stammen:
+* **Werteformat |** Einstellung eines vordefinierten Werteformats. Sie können individuelle Formate vordefinieren und hier auswählen.
 
-| Einstellung | Beschreibung |
-| --- | --- |
-| Input | Dateneingabe direkt in Excel, keine Einschränkung |
-| Link | Bietet die Möglichkeit einen Link zu hinterlegen \(bspw. zu einem Dokument oder einer Website\) |
-| XLS | Werte durch eine Formal berechnen lassen. Die Excel-Formel kann immer überschrieben und bearbeitet werden |
-| XLS Strict | Werte durch eine Formel berechnen lassen. Die Excel-Formel kann nur bei aufgeklappten Details überschrieben und bearbeitet werden |
+* **Einheit |** Gibt an, in welcher Einheit die Werte in der Datenbank gespeichert werden. (z.B. EUR, Kilogramm, Kilometer, Prozent, Stück, Text, USD). Sie können jederzeit neue Einheiten in der Liste [**sxUnits**](../listen-und-formate.md) frei definieren.
 
-* **Werteliste** | Bietet die Möglichkeit eine Liste mit Werten zu hinterlegen, die im Wertebereich per Dropdown ausgewählt werden können.
-* **Werteformat** | Einstellung eines vordefinierten Werteformats. Sie können individuelle Formate vordefinieren und hier auswählen.
-* **Einheit** | Gibt an, in welcher Einheit die Werte in der Datenbank gespeichert werden. (z.B. EUR, Kilogramm, Kilometer, Prozent, Stück, Text, USD). Sie können jederzeit neue Einheiten in der Liste [**sxUnits**](../listen-und-formate.md) frei definieren.
+* **Skalierung |** Gibt die Skalierung an, in der die Werte in der Datenbank gespeichert werden. Diese Einstellung hat nur Auswirkungen auf numerische Werte:
+	* **1 |** Keine Nachkommastelle
+	* **10 |** Eine Nachkommastelle
+	* **100 |** Zwei Nachkommastelle
+	* **1000 |** Drei Nachkommastelle
+	* **10000 |** Vier Nachkommastelle
 
-* **Skalierung** | Gibt die Skalierung an, in der die Werte in der Datenbank gespeichert werden. Diese Einstellung hat nur Auswirkungen auf numerische Werte:
+* **Effekt |** Beschreibt das betriebswirtschaftlichen Merkmal, das ein Wert innehat:
+	* **Aktivbestand |** Wert geht in die Bilanzaktiva ein
+	* **Auszahlung |** Reine Auszahlung
+	* **Einzahlung |** Reine Einzahlung
+	* **Ertrag |** Einzahlungsunwirksamer Ertrag
+	* **Ertrag=Einzahlung |** Einzahlungswirksamer Ertrag
+	* **Hilfswert |** Reiner Hilfswert, dient der Zwischenberechnung
+	* **Kosten |** Auszahlungsunwirksame Kosten
+	* **Kosten=Auszahlung |** Auszahlungswirksame Kosten
+	* **Menge |** Gibt die mengenmäßige Veränderung an
+	* **Passivbestand |** Wert geht in die Bilanzpassiva ein
+	* **Stück |** Anzahl
+	* **Text |** Textwert
+	* **Überschrift |** Reine Überschrift
 
-| Einstellung | Beschreibung |
-| --- | --- |
-| 1 | Keine Nachkommastelle |
-| 10 | Eine Nachkommastelle |
-| 100 | Zwei Nachkommastelle |
-| 1000 | Drei Nachkommastelle |
-| 10000 | Vier Nachkommastelle |
+* **Parameter |** Gibt die Breite der Wertreihe an.
 
-* **Effekt** | Beschreibt das betriebswirtschaftlichen Merkmal, das ein Wert innehat:
+* **Name |** Bezeichnung der Wertreihe. Es empfiehlt sich, an den Namen einen aussagekräftigen, beschreibenden Kommentar anzufügen, um dem Nutzer die Eingabe zu erleichtern.
 
-| Einstellung | Beschreibung |
-| --- | --- |
-| Aktivbestand | Wert geht in die Bilanzaktiva ein |
-| Auszahlung | Reine Auszahlung |
-| Einzahlung | Reine Einzahlung |
-| Ertrag | Einzahlungsunwirksamer Ertrag |
-| Ertrag=Einzahlung | Einzahlungswirksamer Ertrag |
-| Hilfswert | Reiner Hilfswert, dient der Zwischenberechnung |
-| Kosten | Auszahlungsunwirksame Kosten |
-| Kosten=Auszahlung | Auszahlungswirksame Kosten |
-| Menge | Gibt die mengenmäßige Veränderung an |
-| Passivbestand | Wert geht in die Bilanzpassiva ein |
-| Stück | Anzahl |
-| Text | Textwert |
-| Überschrift | Reine Überschrift |
-
-* **Parameter** | Gibt die Breite der Wertreihe an.
-* **Name** | Bezeichnung der Wertreihe. Es empfiehlt sich, an den Namen einen aussagekräftigen, beschreibenden Kommentar anzufügen, um dem Nutzer die Eingabe zu erleichtern.
-* **ID** | ID der Wertreihe. Kann durch den Nutzer verändert werden. Innerhalb einer Produktlinie muss die ID der Wertreihe eindeutig sein.
+* **ID |** ID der Wertreihe. Kann durch den Nutzer verändert werden. Innerhalb einer Produktlinie muss die ID der Wertreihe eindeutig sein.
 
 Die Eigenschaften und Optionen werden durch das Klicken auf die Schaltfläche **Details zeigen** sichtbar.
 
@@ -160,7 +149,7 @@ Das Suffix hat sowohl Auswirkung auf die Orientierung als auch auf die Zeitachse
 
 ---
 
-#### _Drehen des Templates_
+#### Drehen des Templates
 
 Es besteht jederzeit die Möglichkeit, das Template zu drehen. Dies ist zum einen im Template selbst möglich sowie durch die Änderung der Namenskonvention.
 

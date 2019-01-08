@@ -40,19 +40,10 @@ Um sich zu einem Werk bzw. mit einer Datenbank zu verbinden, müssen Sie einen n
 
 >**Hinweis:** Das Passwort wird erst beim Verbindungsversuch abgefragt und wird nicht vom Connection Manager erfasst.
 
-<!---
-
----
-![](/Pictures/Excel-Client/Werk/Werk verbinden/werk_verbinden_4.PNG)
-
----
-
--->
-
 6) Klicken Sie den Button **Verbindung testen**, um die Verbindung zu testen. Sofern alle Einstellungen korrekt sind, erfolgt die Meldung: **Die Verbindung wurde erfolgreich hergestellt.**  
 
 ---
-![](/Pictures/Excel-Client/Werk/Werk verbinden/werk_verbinden_5.PNG)
+![](/Pictures/Excel-Client/Werk/Werk verbinden/werk_verbinden_5.png)
 
 ---
 

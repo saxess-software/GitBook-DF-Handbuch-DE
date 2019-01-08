@@ -1,4 +1,4 @@
-#### *Globalattribute und IDs zur Berechnung verwenden*
+#### Globalattribute und IDs zur Berechnung verwenden
 
 Die für ein Produkt definierten Globalattributwerte sowie die Fabrik-, Produktlinien- und Produkt-ID stehen Ihnen in den ausgeblendeten Spalten des Templates für eine mögliche Weiterverwendung zur Verfügung. 
 

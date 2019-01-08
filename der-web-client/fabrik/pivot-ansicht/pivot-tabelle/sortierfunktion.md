@@ -17,4 +17,3 @@ Sie können in der Pivot-Tabelle die Zeilen und Spalten ab- bzw. aufsteigend sor
 ---
 
 >**Hinweis:** Standardmäßig sind die Elemente aufsteigend sortiert.
-

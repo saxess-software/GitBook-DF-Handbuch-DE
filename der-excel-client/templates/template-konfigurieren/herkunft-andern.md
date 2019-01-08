@@ -1,4 +1,4 @@
-#### *Herkunft ändern*  
+#### Herkunft ändern
 
 Das Feld **Herkunft** gibt an, woher die Werte stammen.
 

@@ -10,7 +10,7 @@ Die Regelung der Zugriffsrechte erfolgt in **3 Stufen**:
 | 2 | Read | Leserechte |
 | 3 | Write | Schreib- und Leserechte |
 
-##### Kommentarfunktion
+#### Kommentarfunktion
 
 Darüber hinaus haben Sie die Möglichkeit zum Zwecke der Sicherheit und Dokumentation von jedem Nutzer beim Lesen und/oder Ändern von Inhalten in Ihrer DataFactory einen Kommentar zu erzwingen.  
 
@@ -20,4 +20,3 @@ Darüber hinaus haben Sie die Möglichkeit zum Zwecke der Sicherheit und Dokumen
 | ReadCommentMandatory (1) | Der Nutzer muss beim Lesen von Inhalten einen Kommentar abgeben. |
 | WriteCommentMandatory (0) | Der Nutzer muss beim Schreiben von Inhalten keinen Kommentar abgeben |
 | WriteCommentMandatory (1) | Der Nutzer muss beim Schreiben von Inhalten einen Kommentar abgeben. |
-

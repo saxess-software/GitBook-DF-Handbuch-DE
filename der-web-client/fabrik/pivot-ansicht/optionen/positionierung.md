@@ -6,4 +6,3 @@ In diesem Menü lässt sich die Position der Pivot-Tabelle relativ zum Pivot-Dia
 ![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Optionen/Positionierung/positionierung_1.png)
 
 ---
-

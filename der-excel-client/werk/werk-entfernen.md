@@ -32,7 +32,6 @@ Um ein Werk zu entfernen, gehen Sie wie folgt vor:
 
 ---
 
-
 6) Klicken Sie auf den Button **Ja**, um die Verbindung zu löschen.  
 
 ---

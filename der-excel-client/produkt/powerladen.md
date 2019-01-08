@@ -9,7 +9,7 @@ Die Funktion **PowerLaden** kommt insbesondere dann zur Anwendung, nachdem Sie D
 | Unvollendete PowerLaden | Für Produkte, bei denen PowerLaden-Vorgang nicht vollständig ausgeführt wurde, wird das PowerLaden durchgeführt |
 | Fehler Powerladen | Für fehlerhaft geladene Produkte wird das PowerLaden durchgeführt |
 
-#### *Ebenen*
+#### Ebenen
 
 Sie können die Funktion **PowerLaden** auf unterschiedlichen Ebenen Ihres Clusters durchführen. Entsprechend der Ebene, die Sie für den PowerLaden-Vorgang ausgewählt haben, reduziert sich die Anzahl an Produkten, die Ihnen zum PowerLaden zur Auswahl angeboten werden.
 
@@ -20,8 +20,7 @@ Sie können die Funktion **PowerLaden** auf unterschiedlichen Ebenen Ihres Clust
 |Produktlinie|![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_5.png)|![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_6.png)|
 |Produkt|![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_7.png)| ![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_8.png)| 
 
-
-#### *Durchführen des PowerLaden-Vorgangs*
+#### Durchführen des PowerLaden-Vorgangs
 
 1) Nachdem Sie über den ActionLink auf der gewünschten Ebene **PowerLaden** ausgewählt haben, öffnet sich das **PowerLaden-Fenster**. Wählen Sie hier die Produkte aus, die Sie aktualisieren wollen.  
 

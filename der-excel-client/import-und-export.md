@@ -2,7 +2,7 @@
 
 Sie haben die Möglichkeit, sowohl Templates bzw. Produkte als auch komplette Produktlinien oder Fabriken im Excel-Client zu exportieren und zu importieren. Bedenken Sie, dass der Import von Produkten, Produktlinien und Fabriken mit einem Import der in den Produkten genutzten Listen und Formate einhergeht! Der Import von Listen und Formaten erfordert Adminrechte (Schreibrechte) auf Werksebene. Aufgrunddessen empfehlen wir, dass der Export und Import vom Werksadministrator durchgeführt wird.
 
-### *1) Import und Export eines Templates/Produktes*
+### 1) Import und Export eines Templates/Produktes
 
 #### Export
 
@@ -72,7 +72,7 @@ Der Import von Templates/Produkten findet auf Werksebene statt.
 
 6) Das Template/Produkt wurde in die von Ihnen vorgegebene Zielstruktur importiert.
 
-### *2) Import und Export einer Produktlinie*
+### 2) Import und Export einer Produktlinie
 
 #### Export
 

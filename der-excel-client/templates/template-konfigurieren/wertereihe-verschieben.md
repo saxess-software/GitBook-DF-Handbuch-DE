@@ -1,4 +1,4 @@
-#### *Wertreihe verschieben*  
+#### Wertreihe verschieben
 
 Um eine Wertreihe zu verschieben, gehen Sie wie folgt vor:  
 

@@ -1,4 +1,4 @@
-### *Hyperlinks*
+### Hyperlinks
 
 Um in einer Spalte Hyperlinks einfügen zu können muss die Herkunft der Spalte zuvor auf *Link* umgestellt werden. (siehe im Kapitel [Herkunft ändern](/der-excel-client/templates/template-konfigurieren/herkunft-andern.md))
 

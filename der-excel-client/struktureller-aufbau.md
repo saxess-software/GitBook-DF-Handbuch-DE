@@ -17,6 +17,3 @@ Listen und Formate werden auf Werksebene verwaltet und können in allen Hierarch
 ![](/Pictures/Excel-Client/Struktureller Aufbau/struktureller_aufbau_1.png)
 
 ---
-
-
-

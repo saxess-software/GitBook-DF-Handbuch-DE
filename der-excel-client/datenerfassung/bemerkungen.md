@@ -1,4 +1,4 @@
-### *Bemerkungen*
+### Bemerkungen
 
 Im Kapitel [Werk - Benutzer verwalten](../werk/benutzer-verwalten.md) haben Sie erfahren, dass Sie in DataFactory die Möglichkeit haben, zum Zwecke der Sicherheit und Dokumentation von jedem Nutzer beim Lesen und/oder Ändern von Inhalten die Eingabe eines Kommentars zu erzwingen.
 

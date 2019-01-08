@@ -1,4 +1,4 @@
-#### *Spaltenbreite ändern*  
+#### Spaltenbreite ändern
 
 Um die Breite einer Spalte zu ändern, gehen Sie wie folgt vor:  
 

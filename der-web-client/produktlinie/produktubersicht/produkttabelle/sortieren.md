@@ -12,8 +12,6 @@ Um die Werte innerhalb einer Spalte zu sortieren, haben Sie zwei Möglichkeiten:
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Sortieren/sortieren_1.png)
 
 ---
-
----
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Sortieren/sortieren_2.png)
 
 ---

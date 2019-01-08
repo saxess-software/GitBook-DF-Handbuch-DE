@@ -1,4 +1,4 @@
-### *FlexSuche*  
+### FlexSuche
 
 Bei der FlexSuche handelt es sich um ein "intelligentes Suchfeld", d.h. ein Suchfeld, welches um eine automatische Vorschlagsliste erweitert wurde. Der Listeninhalt kann von Produkt zu Produkt variieren, da Ihnen nur Inhalte anzeigt werden, die für das ausgewählte Produkt relevant sind.
 

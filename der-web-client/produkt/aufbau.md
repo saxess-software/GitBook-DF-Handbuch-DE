@@ -6,4 +6,3 @@ In der Produktansicht finden Sie den **Tabellenkopfbereich** sowie den **Tabelle
 ![](/Pictures/Web-Client/Produkt/Aufbau/aufbau_1.png)
 
 ---
-

@@ -7,7 +7,7 @@ Die Pivot-Tabelle besteht aus den fünf Bereichen **Zeilenfeld**, **Spaltenfeld*
 
 ---
 
-#### *Zeilenfeld*
+#### Zeilenfeld
 
 Das Zeilenfeld zeigt die Elemente an, nach denen die Werte in den Zeilen gruppiert sind. Die Zeilen lassen sich durch einen Klick auf- und wieder zuklappen.
 
@@ -30,7 +30,7 @@ Aufgeklappte Gruppierungen werden parallel zu den Elementüberschriften angeordn
 
 ---
 
-#### *Spaltenfeld*
+#### Spaltenfeld
 
 Das Spaltenfeld zeigt die Elemente an, nach denen die Werte spaltenweise gruppiert sind.
 
@@ -46,7 +46,7 @@ Klicken Sie mit der linken Maustaste auf das Feld, welches Sie auf- oder zuklapp
 
 ---
 
-#### *Filterfeld*
+#### Filterfeld
 
 Das Filterfeld hat keinen direkten Einfluss auf die Pivot-Tabelle. Sie können die Werte der Pivot-Tabelle nach den im Filterfeld aufgeführten Eigenschaften filtern und sortieren.
 
@@ -57,7 +57,7 @@ Das Filterfeld hat keinen direkten Einfluss auf die Pivot-Tabelle. Sie können d
 
 >**Hinweis:** Um die Filter- und Sortierfunktion zu nutzen gehen Sie wie in den Kapiteln [Filter setzen](/der-web-client/fabrik/pivot-ansicht/pivot-tabelle/filter-setzen.md) und [Sortierfunktion](der-web-client/fabrik/pivot-ansicht/pivot-tabelle/sortierfunktion.md) beschrieben vor.
 
-#### *Wertefeld*
+#### Wertefeld
 
 Das Wertefeld dient als Kontrollinstrument. Es führt nochmals alle Elemente auf, die in der Pivot-Tabelle aggregiert werden.
 
@@ -66,7 +66,7 @@ Das Wertefeld dient als Kontrollinstrument. Es führt nochmals alle Elemente auf
 
 ---
 
-#### *Wertebereich*
+#### Wertebereich
 
 In dem Wertebereich werden die aggregierten Daten aus allen Produktlinien angezeigt.
 
@@ -74,15 +74,3 @@ In dem Wertebereich werden die aggregierten Daten aus allen Produktlinien angeze
 ![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Pivot-Tabelle/Design/design_9.png)
 
 ---
-
-
-<!---
- 
-> **Hinweis:** Sie können weitere Felder aus dem Sekundärbereich der Feldliste in den Bereich Datenfelder ziehen. Gehen Sie dazu wie oben beschrieben vor und platzieren Sie das Feld an der gewünschten Stelle und lassen Sie dann erst die linke Maustaste los. Das Feld wird an dieser Stelle eingefügt.
-
----
-![](/Pictures/Web-Client/Fabrik/Pivot-Ansicht/Pivot-Tabelle/Design/25.png)
-
----
-
--->

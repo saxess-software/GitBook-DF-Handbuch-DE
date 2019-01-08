@@ -62,4 +62,4 @@ Um mehrere Produkte gleichzeitig zu löschen, gehen Sie wie folgt vor:
 ---
 ![](/Pictures/Excel-Client/Produkt/Produkt löschen/produkt_loeschen_8.png)
 
----  
+---

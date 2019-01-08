@@ -45,4 +45,3 @@ Unter anderem können die Fabrik-Tabs eine **Pivot-Ansicht** enthalten.
 Links neben den Fabrik-Tabs befindet sich die Buttonleiste mit nützlichen Funktionen. Informationen zu deren Anwendung finden Sie in den Kapiteln [Feldliste](https://saxess-software.gitbooks.io/datafactory-handbuch-deutsch/content/der-web-client/fabrik/pivot-ansicht/feldliste.html), [Layout speichern](https://saxess-software.gitbooks.io/datafactory-handbuch-deutsch/content/der-web-client/fabrik/pivot-ansicht/layout-speichern.html), [Export nach Excel](https://saxess-software.gitbooks.io/datafactory-handbuch-deutsch/content/der-web-client/fabrik/pivot-ansicht/nach-excel-exportieren.html) und [Optionen](https://saxess-software.gitbooks.io/datafactory-handbuch-deutsch/content/der-web-client/fabrik/pivot-ansicht/optionen.html).
 
 In den folgenden Kapiteln wird beschrieben, wie Sie die verschiedenen Funktionalitäten der Pivot-Ansicht nutzen können, um aussagekräftige Berichte zu kreieren.
-

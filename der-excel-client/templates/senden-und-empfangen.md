@@ -14,7 +14,6 @@ Mit der Funktion **Templates senden** und **Templates empfangen** haben Sie die 
 * Änderungen der Zeitachse
 * gelöschte und hinzugefügte Spalten
 
-
 ---
 **Hinweis:** Im Produkt manuell eingegebene Daten werden nicht gelöscht oder überschrieben.
 

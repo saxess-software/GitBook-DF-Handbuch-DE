@@ -1,4 +1,4 @@
-#### *Ansicht des Templates/ Produkte definieren*
+#### Ansicht des Templates/ Produkte definieren
 
 Wenn Sie ein Template zum ersten Mal betreten, sind die Ansichtseinstellungen ***Fensterfixierung*** und ***Automatisch zum aktuellen Datum scrollen*** bereits vordefiniert. Sie können diese Voreinstellungen und auch weitere Optionen über den ActionLink (Produktseite) im Menüpunkt **Eigenschaften** anpassen.
 

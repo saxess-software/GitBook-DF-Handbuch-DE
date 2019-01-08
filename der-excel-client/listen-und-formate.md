@@ -10,4 +10,4 @@ Listen und Formate werden in DataFactory zentral für ein Werk verwaltet und sin
 |**su**|Solution|Listen und Formate mit dem Präfix "su" stehen für Solutionlisten bzw. -formate. Diese werden mit einzelnen Solutions mitgeliefert.|
 |**c**|Solution|Listen und Formate mit dem Präfix "c" stehen für Customerlisten bzw. -formate und können individuell von Ihnen angelegt werden.|
 
-Wie Sie ihre Listen und Formate verwalten können, erfahren Sie im folgenden Abschnitt.  
+Wie Sie ihre Listen und Formate verwalten können, erfahren Sie im folgenden Abschnitt.

@@ -1,6 +1,6 @@
 ### Pivot-Diagramm
 
-#### *Struktur*
+#### Struktur
 Die Struktur des Pivot-Diagramms entspricht der Struktur Ihrer Pivot-Tabelle. D.h. die Felder, die Sie in der Pivot-Tabelle als Zeilen-, Spalten- und Datenfelder definiert haben, finden Sie auch im Pivot-Diagramm wieder.
 
 |Pivot-Tabelle|Entsprechung im Pivot-Diagramm|
@@ -9,7 +9,7 @@ Die Struktur des Pivot-Diagramms entspricht der Struktur Ihrer Pivot-Tabelle. D.
 |Spaltenfeld|X-Achse/ horizontale Achse|
 |Datenfeld|Graph/ Datenreihe|
 
-#### *Darstellung*
+#### Darstellung
 
 Öffnen Sie das Dialogfenster **Optionen**, welches sich in der Buttonleiste befindet.
 
@@ -46,9 +46,4 @@ Klicken Sie auf die Dropdown-Auswahl und wählen Sie den von Ihnen gewünschten 
 
 ---
 
-
-<!---
-
 > **Hinweis:** Wenn Sie mit Ihrem Mauszeiger über die Graphen fahren, werden Ihnen die Werte zu diesen Graphen angezeigt.
-
--->

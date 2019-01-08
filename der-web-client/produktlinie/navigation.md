@@ -6,6 +6,3 @@ Durch Klick auf eine Fabrik werden Ihnen darunter die zugeordneten Produktlinien
 ![](/Pictures/Web-Client/Produktlinie/Navigation/navigation_1.png)
 
 ---
-
-
-

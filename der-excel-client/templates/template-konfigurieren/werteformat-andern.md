@@ -1,4 +1,4 @@
-#### *Werteformat ändern* 
+#### Werteformat ändern
 
 Um das Werteformat einer Wertereihe zu ändern, gehen Sie wie folgt vor:  
 

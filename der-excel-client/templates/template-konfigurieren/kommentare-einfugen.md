@@ -1,4 +1,4 @@
-#### *Kommentare einfügen*
+#### Kommentare einfügen
 
 Damit der Benutzer möglichst einfach und schnell ein Verständnis für den Inhalt und die Funktionsweise des Templates erlangt, können Sie über die **Kommentarfunktion** jede einzelne Spalte näher beschreiben.
 

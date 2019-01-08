@@ -2,7 +2,7 @@
 
 Im Tabellenkopfbereich finden Sie ein **Erläuterungsfeld**, den **Rechner** zur Eingabe von Daten in den Tabellenbereich sowie **Buttons** zum Speichern, nach Excel exportieren, Kommentieren, Hyperlinks hinzufügen und den Flex-Funktionen.
 
-#### *Erläuterungsfeld*
+##### Erläuterungsfeld
 
 Hier haben Sie die Möglichkeit, den Inhalt Ihres Produktes näher zu beschreiben.
 
@@ -11,7 +11,7 @@ Hier haben Sie die Möglichkeit, den Inhalt Ihres Produktes näher zu beschreibe
 
 ---
 
-#### *Buttons*
+##### Buttons
 
 ***Speichern***
 
@@ -28,8 +28,6 @@ Sie können die Daten des Produkts nach Excel exportieren. Nach dem Klick auf de
 
 ---
 ![](/Pictures/Web-Client/Produkt/Aufbau/Tabellenkopfbereich/tabellenkopfbereich_3.png)
-
----
 
 ---
 ![](/Pictures/Web-Client/Produkt/Aufbau/Tabellenkopfbereich/tabellenkopfbereich_4.png)

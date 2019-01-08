@@ -11,7 +11,6 @@ Dazu gehen Sie wie folgt vor:
 
 ---
 
-
 2) Verschieben Sie Keyfiles in Ihre Ordnerstruktur.
 
 ---

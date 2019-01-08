@@ -1,4 +1,4 @@
-#### *Neue Wertreihe anlegen*
+#### Neue Wertreihe anlegen
 
 Um eine neue Wertreihe anzulegen, gehen Sie wie folgt vor:  
 

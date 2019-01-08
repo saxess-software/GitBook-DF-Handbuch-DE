@@ -29,8 +29,6 @@ Die Spaltenüberschriften Ihrer Produkttabelle können als Attribute Ihrer Produ
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Gruppieren/gruppierung_4.png)
 
 ---
-
----
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Gruppieren/gruppierung_5.png)
 
 ---

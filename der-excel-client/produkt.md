@@ -11,6 +11,4 @@ Jedes Produkt basiert auf einem Template, d.h. auf einer Vorlage aus der es ents
 
 Wenn Sie in eine Produktlinie hineingehen, gelangen Sie zur Übersicht der Produkte. In der Übersicht sehen Sie die in der Produktlinie definierten Globalattribute.  
 
-  
-
-In dieser Ansicht haben Sie die Möglichkeit, die Globalattribute mit Informationen zu füllen.  
+In dieser Ansicht haben Sie die Möglichkeit, die Globalattribute mit Informationen zu füllen.

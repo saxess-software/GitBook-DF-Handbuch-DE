@@ -22,4 +22,3 @@ Um einen Benutzer zu löschen, gehen Sie wie folgt vor:
 ![](/Pictures/Excel-Client/Werk/Benutzer löschen/benutzer_loeschen_3.png)
 
 ---
-

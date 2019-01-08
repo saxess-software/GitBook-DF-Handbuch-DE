@@ -31,5 +31,4 @@ Um einen neuen Benutzer anzulegen, gehen Sie wie folgt vor:
 
 ---
 
-
-> **Hinweis**: Sie haben nun einen neuen Nutzer angelegt. Sie müssen nun dem Nutzer noch die gewünschten Rechte in Ihrer DataFactory einräumen.
+> **Hinweis:** Sie haben nun einen neuen Nutzer angelegt. Sie müssen nun dem Nutzer noch die gewünschten Rechte in Ihrer DataFactory einräumen.

@@ -1,4 +1,4 @@
-#### *Werteliste hinzufügen*  
+#### Werteliste hinzufügen
 
 Wenn Sie für eine Wertereihe eine Liste hinterlegen, bedeutet das, dass die Einträge dieser Liste als Vorschläge für die Zellwerte angezeigt werden.
 

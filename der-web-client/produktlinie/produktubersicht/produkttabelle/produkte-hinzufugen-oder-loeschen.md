@@ -67,4 +67,3 @@ Sie haben zwei Möglichkeiten, ein neues Produkt anzulegen.
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Produkte-hinzufuegen-oder-loeschen/produkte_hinzufuegen_oder_loeschen_8.png)
 
 ---
-

@@ -1,4 +1,4 @@
-### *Geänderte Werte anzeigen*
+### Geänderte Werte anzeigen
 Wenn Sie in einem Produkt Werte neu eingetragen, geändert oder gelöscht haben, können Sie sich die vorgenommenen Änderungen anzeigen lassen
 
 1) Klicken Sie in der Produktsicht auf den ActionLink.

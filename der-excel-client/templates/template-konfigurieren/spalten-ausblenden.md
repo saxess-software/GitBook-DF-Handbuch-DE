@@ -1,4 +1,4 @@
-#### *Spalte (Wertreihe) ausblenden*  
+#### Spalte (Wertreihe) ausblenden
 
 Sie können Wertreihen ausblenden, sodass diese bei eingeklappten Details nicht zu sehen sind.  
 

@@ -4,7 +4,7 @@ Um auf den Web-Client zuzugreifen, haben Sie verschiedene Möglichkeiten.
 
 ### 1) Über den Excel-Client
 
-#### *Option A*
+#### Option A
 
 Wenn Sie DataFactory in der Cloudversion nutzen, d.h. wenn sich Ihre Datenbank auf einem Cloudserver befindet, wird im Excel-Client auf der Werksübersicht unterhalb des Cluster die Option **Web-Client** angezeigt. Durch einen Klick auf die Option **Web-Client** wird Ihr Standard-Webbrowser geöffnet und Sie gelangen zur Webansicht Ihres Werks.
 
@@ -13,7 +13,7 @@ Wenn Sie DataFactory in der Cloudversion nutzen, d.h. wenn sich Ihre Datenbank a
 
 ---
 
-#### *Option B*
+#### Option B
 
 Sie können auf Fabrik-, Produktlinien- oder Produktebene aus Ihrem Excel-Client heraus direkt in die gleiche Ebene in Ihrem Web-Client springen.
 

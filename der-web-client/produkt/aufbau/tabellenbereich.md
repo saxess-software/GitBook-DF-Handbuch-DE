@@ -9,7 +9,7 @@ Im Excel-Client wurde die Struktur und Berechnungslogik der Tabelle definiert, w
 
 An den beiden Achsen können Sie keine Änderungen vornehmen. Nur im Wertebereich können Daten erfasst, verändert oder gelöscht werden.
 
-#### *Unsichtbare Zeitachse*
+##### Unsichtbare Zeitachse
 
 Im Web-Client können Sie Ihre Templates/Produkte auch ohne Zeitachse darstellen lassen bzw. individuelle Zeitachsen einfügen. Ihnen wird dann nur noch die Bezeichnung und die ID der Wertreihen sowie der Wertebereich selbst angezeigt. Dies ist sowohl in horizontaler als auch in vertikaler Orientierung des Templates/Produkts möglich. Diese Templates/Produkte tragen die Namenskonvention **VN** oder **HN**.
 

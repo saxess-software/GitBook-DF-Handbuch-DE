@@ -7,7 +7,6 @@ Um ein Werk zu verwalten, müssen Sie zunächst das Werk betreten. In der Übers
 
 ---
 
-
 Es stehen Ihnen folgende Optionen zur Verfügung:  
 
 | Einstellung | Beschreibung |

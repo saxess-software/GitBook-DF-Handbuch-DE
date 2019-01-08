@@ -31,5 +31,4 @@ Um die Rechte eines Benutzers zu ändern, gehen Sie wie folgt vor:
 
 ---
 
-
-> **Hinweis**: Berechtigungen werden in DataFactory vererbt. Wenn Sie einem Nutzer die gleichen Rechte und Kommentarpflichten für das gesamte Werk einräumen wollen, müssen Sie die Einstellung lediglich in der ersten Zeile vornehmen. Nach dem Speichern übertragen sich die Einstellungen auf alle Zeilen. Ebenso definieren Sie nur die Zugriffsrechte für eine Factory, wenn der Benutzer auf alle Produktlinien einer Factory Zugriff haben soll. Wenn Sie Benutzern Rechte entziehen wollen, führen Sie zuerst auf oberster Ebene ein Deny aus. 
+> **Hinweis:** Berechtigungen werden in DataFactory vererbt. Wenn Sie einem Nutzer die gleichen Rechte und Kommentarpflichten für das gesamte Werk einräumen wollen, müssen Sie die Einstellung lediglich in der ersten Zeile vornehmen. Nach dem Speichern übertragen sich die Einstellungen auf alle Zeilen. Ebenso definieren Sie nur die Zugriffsrechte für eine Factory, wenn der Benutzer auf alle Produktlinien einer Factory Zugriff haben soll. Wenn Sie Benutzern Rechte entziehen wollen, führen Sie zuerst auf oberster Ebene ein Deny aus.

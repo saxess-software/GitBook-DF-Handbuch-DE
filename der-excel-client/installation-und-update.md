@@ -8,52 +8,6 @@ In beiden Fällen wird zunächst der Excel-Client auf Ihrem System installiert. 
 
 Die Installationsdatei wird Ihnen von uns zur Verfügung gestellt.
 
-
-<!---
-
-
-#### Registrierung und Download
-
-Um den Excel-Client herunterzuladen, müssen Sie sich zunächst zunächst auf **planning-factory.com** registrieren.
-
-1) Öffnen Sie die Seite <https://planning-factory.com> und klicken Sie auf den Button **Register**.
-
----
-![](/Pictures/Excel-Client/Installation/installation_1.png) 
-
----
-2) Tragen Sie Ihre **Email-Adresse** ein, vergeben Sie ein **Passwort** und geben Sie dieses ein zweites Mal zur Bestätigung ein. Bestätigen Sie Ihre Eingaben mit einem Klick auf den Button **Register**.
-
----
-![](/Pictures/Excel-Client/Installation/installation_2.png)
-
----
-
-3) In dem sich öffnenden Browser-Fenster können Sie durch Klicken des Buttons **Download Excel Client** den Download des Excel Clients starten. 
-
----
-![](/Pictures/Excel-Client/Installation/installation_3.png)
-
----
-
-4) Es öffnet sich ein Fenster, in dem Sie **Datei speichern** auswählen und mit **OK** bestätigen. 
-
----
-![](/Pictures/Excel-Client/Installation/installation_4.png)
-
----
-
-5) Wählen Sie nun den gewünschten Speicherort und klicken Sie auf **OK**.
-
----
-![](/Pictures/Excel-Client/Installation/installation_5.png)
-
----
-
-
--->
-
-
 > **Hinweis:** Bei der Installationsdatei handelt es sich um eine .zip-Datei, d.h. eine Datei, deren Inhalt komprimiert wurde. Diese muss zunächst entpackt werden.
 
 #### Datei entpacken und öffnen

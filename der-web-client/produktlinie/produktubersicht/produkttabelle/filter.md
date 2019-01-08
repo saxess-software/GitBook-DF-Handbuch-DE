@@ -2,14 +2,12 @@
 
 Indem Sie Filter in Ihrer Produkttabelle verwenden, können Sie die Anzahl der Ihnen angezeigten Produkte regulieren. Sie haben die Möglichkeit in jeder Spalte Ihrer Produkttabelle Filter zu setzen.
 
-#### *Filter anwenden*
+#### Filter anwenden
 
 1) Öffnen Sie mit einem Klick auf die drei senkrecht angeordneten Punkten neben dem gewünschten Spaltennamen das Kontextmenü und wähelen Sie den Punkt **Filtern**.
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Filtern/filtern_1.png)
-
----
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Filtern/filtern_2.png)
@@ -50,13 +48,11 @@ Indem Sie Filter in Ihrer Produkttabelle verwenden, können Sie die Anzahl der I
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Filtern/filtern_6.png)
 
 ---
-
----
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Filtern/filtern_7.png)
 
 ---
 
-### *Filter löschen*
+#### Filter löschen
 
 Um einen angewendeten Filter zu löschen öffnen Sie das Kontextmenü der betroffenen Spalte, wählen den Menüpunkt **Filtern** und klicken auf **Löschen**.
 
@@ -65,5 +61,4 @@ Um einen angewendeten Filter zu löschen öffnen Sie das Kontextmenü der betrof
 
 ---
 
-> **Hinweis**: Sie können in beliebig vielen Spalten Filterfunktionen anwenden.
-
+> **Hinweis:** Sie können in beliebig vielen Spalten Filterfunktionen anwenden.
