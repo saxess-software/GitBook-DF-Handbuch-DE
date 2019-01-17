@@ -25,7 +25,7 @@ Sie können auf Fabrik-, Produktlinien- oder Produktebene aus Ihrem Excel-Client
 
 ### 2) Über die URL
 
-Durch Eingabe der URL ([factoryprovider.com](https://factoryprovider.com)) in die Adressleiste Ihres Webbrowsers gelangen Sie direkt zum Web-Client.
+Durch Eingabe der URL (bspw.: [factoryprovider.com](https://factoryprovider.com) wenn Sie DataFactory auf der Azure-Cloud nutzen) in die Adressleiste Ihres Webbrowsers gelangen Sie direkt zum Web-Client.
 
 ---
 ![](/Pictures/Web-Client/Zugang/zugang_8.png)
