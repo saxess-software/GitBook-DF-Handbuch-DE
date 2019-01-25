@@ -8,15 +8,16 @@ Am Boden der Produktseite ist die **Statusleiste**. Sie gibt aggregierte Informa
 ---
 
 Zu den verfügbaren Aggregationstypen gehören:
-*Summe
-*Anzahl
-*Numerische Anzahl
-*Minimum
-*Maximum
+
+* Summe
+* Anzahl
+* Numerische Anzahl
+* Minimum
+* Maximum
 
 und
 
-*Durchschnitt
+* Durchschnitt
 
 Klicken Sie mit der rechten Maustaste auf die Statusleiste um diese anzupassen.
 

@@ -23,7 +23,7 @@ Um die **Zeitachse auszublenden** gehen Sie im Web-Client wie folgt vor:
 Klicken Sie in die Spalte **Template** des Produktes/Templates welches Sie bearbeiten möchten. Ändern Sie im Suffix das zeitliche Kennzeichen (**J**, **M** oder **T**) in **N** und **speichern** Sie im Anschluss Ihre Änderung.
 
 ---
-![](/Pictures/Web-Client/Produkt/Aufbau/Tabellenbereich/tabellenbereich_4.png)
+![](/Pictures/Web-Client/Produkt/Aufbau/Tabellenbereich/tabellenbereich_3.png)
 
 ---
 
