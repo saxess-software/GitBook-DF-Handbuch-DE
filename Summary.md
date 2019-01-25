@@ -136,6 +136,7 @@
     * [Aufbau](der-web-client/produkt/aufbau.md)
       * [Tabellekopfbereich](der-web-client/produkt/aufbau/tabellekopfbereich.md)
       * [Tabellenbereich](der-web-client/produkt/aufbau/tabellenbereich.md)
+	  * [Statusleiste](der-web-client/produkt/aufbau/statusleiste.md)
     * [Datenerfassung](der-web-client/produkt/datenerfassung.md)
       * [Manuelle Eingabe](der-web-client/produkt/datenerfassung/manuelle-eingabe.md)
       * [Eingabe mittels Rechner](der-web-client/produkt/datenerfassung/eingabe-mittels-rechner.md)
