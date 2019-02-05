@@ -25,3 +25,5 @@ Um die Herkunft einer Wertreihe zu ändern, gehen Sie wie folgt vor:
 ![](/Pictures/Excel-Client/Templates/Template konfigurieren/Herkunft ändern/herkunft_aendern_2.png)
 
 ---
+
+>**Hinweis:** Wenn einer ValueSeries mit der Herkunft **List-Strict** keine Werteliste zugeordnet ist, dann ist die Spalte **nicht** gesperrt.
