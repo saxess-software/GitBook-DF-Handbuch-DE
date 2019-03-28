@@ -22,25 +22,40 @@ Sie können die Funktion **PowerLaden** auf unterschiedlichen Ebenen Ihres Clust
 
 #### Durchführen des PowerLaden-Vorgangs
 
-1) Nachdem Sie über den ActionLink auf der gewünschten Ebene **PowerLaden** ausgewählt haben, öffnet sich das **PowerLaden-Fenster**. Wählen Sie hier die Produkte aus, die Sie aktualisieren wollen.  
-
-> ** Hinweis**: Indem Sie mit gedrückter linker Maustaste über die gewünschten Produkte fahren, erfolgt eine Mehrfachselektion.
+1) Mit Klick auf den ActionLink wird die Sicht **PowerLaden** aufgerufen. Je nachdem von welcher Ebene der PowerLoader aufgerufen wird, werden auch nur die Produkte jener Ebene angezeigt. Wählen Sie hier die Produkte aus, die Sie aktualisieren wollen.
 
 ---
 ![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_9.png) 
 
 ---
 
-2) Wählen Sie im Dropdown-Menü Ihre gewünschte Einstellung und klicken Sie auf **Ausführen**, um die Funktion auszuführen.   
+> **Hinweis:** Standardmäßig werden die Templates im PowerLoader nicht angezeigt. Sollten Sie dennoch einmal die Templates erneut kalkulieren wollen rufen Sie den PowerLoader von der Sicht **Fabriken und Produktlinien** aus auf und klicken Sie auf **Templates anzeigen**.
+
+2) Die Auswahl kann noch weiter verfeinert werden.
+- Klicken Sie auf eine Spaltenüberschrift um nach Werten zu filtern und bestätige mit **OK**.
  
+- Wählen Sie mit den zwei Kontrollkästchen ob nur Produkte geladen werden sollen die entweder noch nicht neu geladen oder auf ein Fehler hinausgelaufen sind.
+
 ---
 ![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_10.png) 
 
 ---
 
-5) Nach dem Ausführen sehen Sie den Status der geladenen Produkte.
+3) Um alle angezeigten Produkte zu powerladen wählen Sie **Powerladen starten**.
 
 ---
 ![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_11.png) 
+
+---
+
+5) Nach dem Ausführen sehen Sie den Status der geladenen Produkte.
+- Grün: Es gab nichts neues zu speichern.
+- Orange: Änderungen wurden gespeichert.
+- Rot: Es ist ein Fehler aufgetreten.
+
+> **Hinweis:** Mit einem Rechtsklick auf ein Produkt lässt sich dieses einzelne neu laden oder öffnen.
+
+---
+![](/Pictures/Excel-Client/Produkt/PowerLaden/powerladen_12.png) 
 
 ---
