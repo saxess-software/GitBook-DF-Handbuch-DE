@@ -70,7 +70,7 @@ Um die ID der Valueseries auszublenden markieren Sie den Auswahlkasten **ValueSe
 
 **Adaptive Zeilenhöhe**
 
-Bei der adaptiven Zeilenhöhe sind die automatischen Zeilenümbruche innerhalb der Zellen gemeint. Enthält eine Zelle lange Formeln bzw. Texte ist bei aktivierter adaptiven Zeilenhöhe stets der gesamte Inhalt sichtbar. Um die Einstellung zu ändern klicken Sie auf das Drop-Down Menü. Sie können wählen ziwschen **AN**, **AUS** und **Standard**.
+Als adaptive Zeilenhöhe bezeichnen wir die automatischen Zeilenumbrüche innerhalb der Zellen. Enthält eine Zelle lange Formeln bzw. Texte, so ist bei aktivierter adaptiven Zeilenhöhe stets der gesamte Inhalt sichtbar. Um diese Einstellung zu ändern, können Sie auf das Drop-Down Menü klicken und dort ziwschen **AN**, **AUS** und **Standard** wählen.
 
 ---
 ![](/Pictures/Excel-Client/Templates/Template konfigurieren/Ansicht/ansicht_9.png)

@@ -2,7 +2,7 @@
 
 Templates dienen als Vorlage für Produkte. Sie verhalten sich zueinander wie eine Vorlage und eine Kopie. Nach der Erstellung ist die Kopie unabhängig, d.h. sie kann verändert werden und ändert sich nicht automatisch, wenn sich das Template ändert. 
 
-Mit der Funktion **Templates senden** und **Templates empfangen** haben Sie die Möglichkeit Änderungen an Ihren Templates/Vorlagen vorzunehmen und diese Änderungen an die entsprechenden Produkten zu vererben.
+Mit der Funktion **Templates senden** und **Templates empfangen** haben Sie die Möglichkeit, Änderungen an Ihren Templates/Vorlagen vorzunehmen und diese Änderungen an die entsprechenden Produkte zu vererben.
 
 **Vererbt werden**:
 
@@ -18,9 +18,9 @@ Mit der Funktion **Templates senden** und **Templates empfangen** haben Sie die 
 **Hinweis:** Im Produkt manuell eingegebene Daten werden nicht gelöscht oder überschrieben.
 
 **Ausnahmen:**
-* Eine Wertereihe ist nicht im Template enthalten, dann wird diese, samt Werten, gelöscht.
-* Die Zeitachse wurde verkürzt bzw. verschoben - Werte die gelöschten Zeitwerten zugeordnet sind werden ebenfalls gelöscht.
-* Wird der Werttyp von numerisch auf nicht-numerisch, und umgekehrt, geändert gehen die Werte dieser Spalte verloren.
+* Ist eine Wertereihe nicht im Template enthalten, dann wird diese mit ihren Werten gelöscht.
+* Die Zeitachse wurde verkürzt bzw. verschoben - Werte, die gelöschten Zeitwerten zugeordnet sind, werden ebenfalls gelöscht.
+* Wird der Werttyp von numerisch auf nicht-numerisch (und umgekehrt) geändert, gehen die Werte dieser Spalte verloren.
 * Bei Änderung der Skalierung auf eine geringere Zahl gehen Nachkommastellen verloren.
 
 **Empfehlung: Erstellen Sie eine Sicherungskopie der empfangenden Produkte bevor Sie ein Template ausrollen!**
@@ -52,7 +52,7 @@ Sie können für ein Produkt definieren, von welchem Template es alle Eigenschaf
 
 ---
 
-4) Standardmäßig werden bei dieser Funktion die Spalten im Template und im Produkt anhand der Spalten-ID identifiziert und die Spalten, welche über die gleichen ID verfügen, hinsichtlich Änderungen miteinander verglichen. Wenn Sie die Identifizierung allerdings anhand des Spaltennamens durchführen wollen, setzen Sie bei **Anhand des Namens statt der ID vergleichen** ein Häkchen.
+4) Standardmäßig werden bei dieser Funktion die Spalten im Template anhand ihrer Spalten-Id mit denjenigen im Produkt bezüglich aufgetretener Änderungen verglichen. Wenn Sie die Identifizierung allerdings anhand des Spaltennamens durchführen wollen, setzen Sie bei **Anhand des Namens statt der ID vergleichen** ein Häkchen.
 
 ---
 ![](/Pictures/Excel-Client/Templates/Senden und Empfangen/senden_und_empfangen_4.png)
@@ -77,7 +77,7 @@ Sie können ein Template auswählen und dessen Eigenschaften und Logiken an ein 
 
 ---
 
-2) In dem sich öffnenden Fenster wird Ihnen das Template angezeigt, welches als Quelle verwendet werden soll
+2) In dem sich öffnenden Fenster wird Ihnen das Template angezeigt, welches als Quelle verwendet werden soll.
 
 ---
 ![](/Pictures/Excel-Client/Templates/Senden und Empfangen/senden_und_empfangen_7.png)
@@ -107,7 +107,7 @@ Sie können ein Template auswählen und dessen Eigenschaften und Logiken an ein 
 
 ---
 
-4) Standardmäßig werden bei dieser Funktion die Spalten im Template und im Produkt anhand der Spalten-ID identifiziert und die Spalten, welche über die gleichen ID verfügen, hinsichtlich Änderungen miteinander verglichen. Wenn Sie die Identifizierung allerdings anhand des Spaltennamens durchführen wollen, setzen Sie bei **Anhand des Namens statt der ID vergleichen** ein Häkchen.
+4) Standardmäßig werden bei dieser Funktion die Spalten im Template anhand ihrer Spalten-Id mit denjenigen im Produkt bezüglich aufgetretener Änderungen verglichen. Wenn Sie die Identifizierung allerdings anhand des Spaltennamens durchführen wollen, setzen Sie bei **Anhand des Namens statt der ID vergleichen** ein Häkchen.
 
 ---
 ![](/Pictures/Excel-Client/Templates/Senden und Empfangen/senden_und_empfangen_11.png)
