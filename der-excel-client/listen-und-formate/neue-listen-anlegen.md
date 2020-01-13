@@ -124,9 +124,9 @@ Um Werte aus einer Liste zu löschen, gehen Sie wie folgt vor:
 
 #### *Liste verwenden*
 
-Nachdem Sie die Liste angelegt und die Listenwerte definiert haben, können Sie die Liste in Ihren Templates/ Produkten und Ihren Globalattributen verwenden.
+Nachdem Sie die Liste angelegt und die Listenwerte definiert haben, können Sie die Liste in Ihren Templates/Produkten und Ihren Globalattributen verwenden.
 
-* **in Templates/ Produkten über Wertelisten**
+* **in Templates/Produkten über Wertelisten**
 
 ---
 ![](/Pictures/Excel-Client/Listen und Formate/Neue Listen anlegen/neue_listen_anlegen_15.png)
