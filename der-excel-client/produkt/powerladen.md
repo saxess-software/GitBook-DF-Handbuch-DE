@@ -32,7 +32,7 @@ Sie können die Funktion **PowerLaden** auf unterschiedlichen Ebenen Ihres Clust
 > **Hinweis:** Standardmäßig werden die Templates im PowerLoader nicht angezeigt. Sollten Sie dennoch einmal die Templates erneut kalkulieren wollen rufen Sie den PowerLoader von der Sicht **Fabriken und Produktlinien** aus auf und klicken Sie auf **Templates anzeigen**.
 
 2) Die Auswahl kann noch weiter verfeinert werden.
-- Klicken Sie auf eine Spaltenüberschrift um nach Werten zu filtern und bestätige mit **OK**.
+- Klicken Sie auf eine Spaltenüberschrift, um nach Werten zu filtern und bestätigen Sie mit **OK**.
  
 - Wählen Sie mit den zwei Kontrollkästchen ob nur Produkte geladen werden sollen die entweder noch nicht neu geladen oder auf ein Fehler hinausgelaufen sind.
 
