@@ -1,6 +1,6 @@
 ### Anbindung an weitere Systeme
 
-DataFactory bietet die Möglichkeit Daten aus weiteren System in die Datenbank zu importieren und dorthin zu exportieren.
+DataFactory bietet die Möglichkeit Daten aus weiteren Systemen in die Datenbank zu importieren und in diese Systeme zu exportieren.
 
 **Manuelle Anbindung**  
 Der manuelle Import von Daten bietet sich immer dann an, wenn die Daten unregelmäßig importiert werden. Der Import kann aus verschiedenen Formaten \(z.B. csv, xlsx, etc.\) erfolgen.

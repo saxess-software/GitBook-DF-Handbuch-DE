@@ -26,7 +26,7 @@ Die Installationsdatei wird Ihnen von uns zur Verfügung gestellt.
 
 ---
 
-3) In Ihrem Zielordner finden Sie nun den Ordner **DataFactory X.0 Build XXXX**, welcher wiederum zwei Items beinhaltet. Zum einen den Ordner **+** und zum anderen den **DataFactory Excel-Client**. 
+3) In Ihrem Zielordner finden Sie nun den Ordner **DataFactoryBrowser_X.X.X**, welcher wiederum zwei Items beinhaltet. Zum einen den Ordner **+** und zum anderen den **DataFactory Excel-Client**. 
 
 ---
 ![](/Pictures/Excel-Client/Installation/installation_8.png)
@@ -46,7 +46,7 @@ Wenn Sie eine DataFactory-Datenbank auf Ihrem eigenen Server nutzen wollen, bitt
 
 ### Update des Excel-Clients
 
-Den aktuellen Release des Excel-Clients stellen wir Ihnen stets zur Verfügung. Nachdem Sie die neue Version des Excel-Clients heruntergeladen haben installieren Sie Ihn wie oben beschrieben. Bei Nutzung eines neuen Releases gehen die Verbindungen die Sie im alten Client genutzt haben verloren. Im Folgenden wird Ihnen erklärt wie Sie die Verbindungen wiederherstellen können.
+Den aktuellen Release des Excel-Clients stellen wir Ihnen stets zur Verfügung. Nachdem Sie die neue Version des Excel-Clients heruntergeladen, haben installieren Sie Ihn wie oben beschrieben. Bei Nutzung eines neuen Releases gehen die Verbindungen, die Sie im alten Client genutzt haben, verloren. Im Folgenden wird Ihnen erklärt, wie Sie die Verbindungen wiederherstellen können.
 
 Die Verbindungen zu Ihren DataFactory-Datenbanken haben Sie bereits über Ihre bisherigen Excel-Client-Versionen definiert. Für jede Datenbankverbindung, die Sie in Ihrem Excel-Client anlegen, wird eine sogenannte Key-File erstellt und in Ihrem DataFactory-Ordner **+** abgelegt. Lesen Sie dazu mehr in Kapitel [Keys](werk/keys.md).
 
