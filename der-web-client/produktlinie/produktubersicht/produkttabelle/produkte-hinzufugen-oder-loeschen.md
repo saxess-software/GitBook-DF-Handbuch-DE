@@ -1,6 +1,6 @@
 ### Produkte hinzufügen oder löschen
 
-Sie haben die Möglichkeit, - entsprechend Ihrer Zugriffsrechte - innerhalb einer Produktlinie neue Produkte anzulegen oder bestehende Produkte zu löschen. Alle Produkte, die Sie anlegen können, basieren auf Templates, die im Excel-Client in der Design-Phase definiert wurden, oder sind Kopien bereits bestehender Produkte.
+Sie haben die Möglichkeit, - entsprechend Ihrer Zugriffsrechte - innerhalb einer Produktlinie neue Produkte anzulegen oder bestehende Produkte zu löschen. Alle Produkte, die Sie anlegen können, basieren entweder auf Templates, die im Excel-Client in der Design-Phase definiert wurden, oder sind Kopien bereits bestehender Produkte.
 
 #### Neues Produkt anlegen
 
@@ -61,7 +61,7 @@ Sie haben zwei Möglichkeiten, ein neues Produkt anzulegen.
 
 ---
 
-2) Bestätigen Sie ihr Vorhaben im Dialogfenster mit Klick auf **OK** oder brechen Sie den Vorgang ab in dem Sie auf **Abbrechen** klicken.
+2) Bestätigen Sie ihr Vorhaben im Dialogfenster mit Klick auf **OK** oder brechen Sie den Vorgang ab, indem Sie auf **Abbrechen** klicken.
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Produkte-hinzufuegen-oder-loeschen/produkte_hinzufuegen_oder_loeschen_8.png)

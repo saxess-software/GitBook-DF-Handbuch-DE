@@ -4,7 +4,7 @@ Indem Sie Filter in Ihrer Produkttabelle verwenden, können Sie die Anzahl der I
 
 #### Filter anwenden
 
-1) Öffnen Sie mit einem Klick auf die drei senkrecht angeordneten Punkten neben dem gewünschten Spaltennamen das Kontextmenü und wähelen Sie den Punkt **Filtern**.
+1) Öffnen Sie mit einem Klick auf die drei senkrecht angeordneten Punkte neben dem gewünschten Spaltennamen das Kontextmenü und wählen Sie den Punkt **Filtern**.
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Filtern/filtern_1.png)
@@ -35,7 +35,7 @@ Indem Sie Filter in Ihrer Produkttabelle verwenden, können Sie die Anzahl der I
 
 ---
 
-4) Es werden Ihnen die entsprechenden Suchergebnisse angezeigt. Das ein Filter aktiv ist wird durch die nun in weiß hinterlegten drei Kontextmenü-Punkte dargestellt.
+4) Es werden Ihnen die entsprechenden Suchergebnisse angezeigt. Dass ein Filter aktiv ist, wird durch die nun in weiß hinterlegten drei Kontextmenü-Punkte dargestellt.
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Filtern/filtern_5.png)
@@ -54,7 +54,7 @@ Indem Sie Filter in Ihrer Produkttabelle verwenden, können Sie die Anzahl der I
 
 #### Filter löschen
 
-Um einen angewendeten Filter zu löschen öffnen Sie das Kontextmenü der betroffenen Spalte, wählen den Menüpunkt **Filtern** und klicken auf **Löschen**.
+Um einen angewendeten Filter zu löschen, öffnen Sie das Kontextmenü der betroffenen Spalte. Wählen Sie den Menüpunkt **Filtern** und klicken auf **Löschen**.
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Filtern/filtern_8.png)

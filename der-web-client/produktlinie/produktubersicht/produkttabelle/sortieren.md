@@ -27,7 +27,7 @@ Um die Werte innerhalb einer Spalte zu sortieren, haben Sie zwei Möglichkeiten:
 
 **Option B:**
 
-1) Mit einem Klick auf die gewünschte Spaltenüberschrift, nach der sortiert werden soll, werden die Produkte nach ebendiesem Merkmal geordnet.
+Mit einem Klick auf die gewünschte Spaltenüberschrift, nach der sortiert werden soll, werden die Produkte nach ebendiesem Merkmal geordnet.
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Sortieren/sortieren_4.png)

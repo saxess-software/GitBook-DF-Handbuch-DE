@@ -25,7 +25,7 @@ Die Zellen, die zuvor mit einem roten Dreieck markiert waren, werden nun normal 
 
 ---
 
-Um die vorgenommenen Datenänderungen ruckgängig zu machen klicken Sie auf den Button **Datenänderungen Abbrechen**. Hierbei werden alle mit einem roten Dreieck markierte Zellen auf ihren ursprünglichen Wert zurückgesetzt.
+Um die vorgenommenen Datenänderungen ruckgängig zu machen, klicken Sie auf den Button **Datenänderungen Abbrechen**. Hierbei werden alle mit einem roten Dreieck markierten Zellen auf ihren ursprünglichen Wert zurückgesetzt.
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Speichern/speichern_3.png)
@@ -41,7 +41,7 @@ Wenn Sie Änderungen am Layout vorgenommen haben wie z.B. Gruppierungen, Spalten
 
 ---
 
-Damit das standardmäßige Layout wiederhergestellt wird klicken Sie auf den Button **Layout zurücksetzen**. Alternativ können Sie auch die Produkttabellenseite ohne die Änderungen am Layout gespeichert zu haben verlassen und erneut aufrufen.
+Damit das standardmäßige Layout wiederhergestellt wird, klicken Sie auf den Button **Layout zurücksetzen**. Alternativ können Sie auch die Produkttabellenseite, ohne die Änderungen am Layout gespeichert zu haben, verlassen und erneut aufrufen.
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Speichern/speichern_5.png)

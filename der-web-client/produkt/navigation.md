@@ -1,6 +1,6 @@
 ### Navigation
 
-Durch Klick auf ein Symbol in der Icon-Spalte gelangen Sie zur Produktansicht des gewählten Produkts.
+Durch einen Klick auf ein Symbol in der Icon-Spalte gelangen Sie zur Produktansicht des gewählten Produkts.
 
 ---
 ![](/Pictures/Web-Client/Produkt/Navigation/navigation_1.png)

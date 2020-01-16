@@ -9,7 +9,7 @@ Wie auch im Excel-Client handelt es sich bei der FlexSuche um ein "intelligentes
 
 ---
 
-2) Es öffnet sich das Dialogfenster **FlexSuche**, in welchem Sie eine Zeile für Ihre Sucheingabe und einen scrollbare Vorschlagsliste für Ihre Auswahl finden.
+2) Es öffnet sich das Dialogfenster **FlexSuche**, in welchem Sie eine Zeile für Ihre Sucheingabe und eine scrollbare Vorschlagsliste für Ihre Auswahl finden.
 
 ---
 ![](/Pictures/Web-Client/Produkt/Datenerfassung/FlexSuche/flexsuche_2.png)
@@ -23,7 +23,7 @@ Wie auch im Excel-Client handelt es sich bei der FlexSuche um ein "intelligentes
 
 ---
 
-4) Durch einen einfachen Klick auf den gewünschten Begriff in der Liste, wird die Auswahl in den markierten Zellen eingefügt.
+4) Durch einen einfachen Klick auf den gewünschten Begriff in der Liste wird die Auswahl in den markierten Zellen eingefügt.
 
 ---
 ![](/Pictures/Web-Client/Produkt/Datenerfassung/FlexSuche/flexsuche_4.png)

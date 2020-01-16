@@ -2,7 +2,7 @@
 
 #### Werte ändern ohne Dropdown-Menü
 
-In der Produkttabelle können Sie, bis auf die Produkt ID, alle Werte in allen Spalten ändern - vorausgesetzt Sie besitzen Schreibrechte.
+In der Produkttabelle können Sie (bis auf die Produkt ID) alle Werte in allen Spalten ändern - vorausgesetzt Sie besitzen Schreibrechte.
 
 1) Klicken Sie in das Feld, in welchem Sie Daten ändern wollen. Die enthalten Daten werden Ihnen nun zur Bearbeitung angezeigt.
 
@@ -34,7 +34,7 @@ In der Produkttabelle können Sie, bis auf die Produkt ID, alle Werte in allen S
 
 ---
 
-2) Öffnen Sie das Dropdown-Menü und wählen Sie einen Wert. Bestätigen Sie Ihre Eingabe wie in Schritt 2 ohne Dropdown-Menü.
+2) Öffnen Sie das Dropdown-Menü und wählen Sie einen Wert. Bestätigen Sie mit der Enter-Taste oder mit einem Klick außerhalb des Wertebereichs.
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Werte-aendern/werte_aendern_5.png)
@@ -52,14 +52,14 @@ In der Produkttabelle können Sie, bis auf die Produkt ID, alle Werte in allen S
 
 #### Links einfügen
 
-1) Bei Bedarf können Sie auch Links als Zellenwerte einfügen. Klicken Sie als erstes auf die zu bearbeitende Zelle und 2) anschließend auf den Button **Hyperlink bearbeiten**.
+1) Bei Bedarf können Sie auch Links als Zellenwerte einfügen. Klicken Sie zunächst auf die zu bearbeitende Zelle und anschließend auf den Button **Hyperlink bearbeiten**.
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Werte-aendern/werte_aendern_7.png)
 
 ---
 
-Es öffnet sich das Dialogfenster **Hyperlink bearbeiten**.
+2) Es öffnet sich das Dialogfenster **Hyperlink bearbeiten**.
 
 ---
 ![](/Pictures/Web-Client/Produktlinie/Produktübersicht/Produkttabellenbereich/Werte-aendern/werte_aendern_8.png)
@@ -80,4 +80,4 @@ Es öffnet sich das Dialogfenster **Hyperlink bearbeiten**.
 
 ---
 
->**Hinweis:** Um den Link zu entfernen gehen sie wie in Schritt 1 & 2 beschrieben vor und klicken dann auf **Entfernen Sie den Link**.
+>**Hinweis:** Um den Link zu entfernen, gehen sie wie in Schritt 1 & 2 beschrieben vor und klicken dann auf **Entfernen Sie den Link**.
